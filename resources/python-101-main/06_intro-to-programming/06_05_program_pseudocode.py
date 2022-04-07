@@ -6,3 +6,16 @@
 # You can also add real Python code after learning the necessary concepts.
 # For now, just practice breaking larger tasks into smaller steps
 # and writing out your thoughts in pseudocode.
+
+
+
+# Automating texting my patner in whatsapp
+
+
+# create an array of sweet messages to communicate every day
+
+# communicate with whatsapp/twilio api
+
+# schedule the messages to text every morning.
+
+
