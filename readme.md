@@ -4,3 +4,4 @@
 3. if 2 fails, then coding takes up the priority as the first task and shall take 2 hrs.
 3. Notepad with a green highlight.
 4. willingness and openness to learn.
+tomorrow
