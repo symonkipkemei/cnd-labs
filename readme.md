@@ -5,3 +5,6 @@
 3. Notepad with a green highlight.
 4. willingness and openness to learn.
 tomorrow
+
+
+# been missing for sometime and alot more inconsistent, will get back to the track.
