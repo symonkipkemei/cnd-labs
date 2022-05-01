@@ -8,3 +8,6 @@ tomorrow
 
 
 # been missing for sometime and alot more inconsistent, will get back to the track.
+
+
+# I will continue from where I left from tomorrow, I hope I will be first and do it well.
