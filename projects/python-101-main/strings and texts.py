@@ -29,38 +29,43 @@ name = "symon"
 print(name[0])
 
 
-def hohoho():
-    
-     """"
-    Tasks
-    Use the playground below to print a new string that impersonates the Santa Claus 
-     impersonator from your local shopping mall by saying hohoho. 
-    You can only use the provided string! Pick out the relevant characters and
-     concatenate them in order to print out the new word."""
 
-    #create "hohoho" from variable below
-    santa = "hello"
+""""
+Tasks
+Use the playground below to print a new string that impersonates the Santa Claus 
+impersonator from your local shopping mall by saying hohoho. 
+You can only use the provided string! Pick out the relevant characters and
+ concatenate them in order to print out the new word."""
 
-    # pick right characters from string
-    h = santa[0]
+#create "hohoho" from variable below
+santa = "hello"
 
-    len_santa = len(santa)
-    o = santa[len_santa-1]
+# pick right characters from string
+h = santa[0]
 
-    print(h + o + h + o + h + o)
+len_santa = len(santa)
+o = santa[len_santa-1]
 
-def picking_strings():
-        """"
-    Task
-    Pick as many words as possible from the word below
-    s = "plumage"
-    """
-    s = "plumage"
 
-    print(s[::-1])
+print(h + o + h + o + h + o)
 
-    print(s[0:4])
-    print(s[-4:])
+
+""""
+Task
+Pick as many words as possible from the word below
+s = "plumage"
+"""
+
+
+
+s = "plumage"
+print(s[::-1])
+
+
+
+print(s[0:4])
+print(s[-4:])
+
 
 
 
@@ -82,6 +87,5 @@ else:
 
 t = "word"
 print(t[-1])
-
 
 
