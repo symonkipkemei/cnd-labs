@@ -4,7 +4,7 @@
 In this first module of the Python course, you'll learn how to code using the Python programming language. You'll get to know some of the fundamental concepts of programming, write procedural scripts, and build interesting projects that can show you the value of knowing how to code
 
 
--[ 1.Click here to get started]
+1. Click here to get started
 2. Course logistics
 3. Learning something new
 4. Build something
