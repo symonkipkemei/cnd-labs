@@ -63,7 +63,7 @@ def membership_operators():
 Ut varius magna at viverra rutrum. Sed rhoncus accumsan placerat. Maecenas sed pretium mauris. Sed tempus molestie sagittis. Proin bibendum dignissim tortor sed vestibulum. Etiam dignissim eros sed sem porttitor, non volutpat dui cursus. Nullam sit amet arcu porta, aliquet ante eget, venenatis felis. Duis sit amet aliquet tortor. Ut euismod molestie tellus ac lacinia. Ut tincidunt, tellus a rutrum semper, ex orci convallis libero, in accumsan ante lectus nec odio. Ut cursus fringilla nibh et bibendum.
 
 Vestibulum ipsum velit, porttitor gravida tristique at, facilisis eu leo. Suspendisse ac nibh eros. Mauris sem ligula, sagittis eu purus nec, pellentesque faucibus nisi. Sed pulvinar augue nec mauris dictum, sit amet efficitur mi aliquam. Donec eu porttitor risus, suscipit laoreet erat. Duis purus magna, venenatis a placerat hendrerit, suscipit sit amet est. Donec luctus efficitur arcu nec rutrum. Vestibulum suscipit enim molestie libero mollis, in egestas est consequat. Integer urna dui, mollis vitae viverra a, gravida eu nisi."""
-    # (in) checks whether an element is part of a colection
+    # (in) checks whether an element is part of a collection
     x = 'symon' in text
     print(x)
 
@@ -156,4 +156,87 @@ def comparison_operators():
     integer = ord(3)
     print(integer)
 
-    comparison_operators()
+
+def logical_operators():
+    """and , or , not"""
+
+    # implelemented based on a boolean algebra
+
+    a, b, c = 5, 5, 10
+
+    print("\nlogical 'and' operator")
+
+    print( a == b and c == 10)
+    print(a == b and a == c)
+
+    # The 'or' operator means that at least one of the conditions must be True for the overall condition to be True
+    print("\nLogical 'or' Operator")
+    print(a == b or a == c)  # True and False = True
+    print(a == c or b == c)  # False and False = False
+
+
+    # The 'not' operator simply means the opposite of the logical expression's value
+    print("\nLogical 'not' Operator")
+    print(a == b)  # not False = True
+    print(not a == b)  # not True = False
+
+
+    # standard parameter for dating
+    dating_age = 24
+    body_count = 0
+
+    # user feedback on parameters
+    user_age = int(input("what's your age?: "))
+    user_count = int(input("how many people have you slept with?: "))
+
+    # comparison 
+
+    if user_age == dating_age  and user_count == body_count:
+        print('It seems you fell from heaven, beacause I am just about to date and marry you!')
+
+    elif user_age > dating_age or user_count > body_count:
+        print("Do you mind if you fall 6 inches deep?")
+
+    elif not user_age > dating_age:
+        print("Hey pretty sister")
+
+    else:
+        print("sorry , I am not your type")
+
+    
+
+
+
+
+def indentity_operators():
+
+    """ 'is' as similar object in memory"""
+    num_1 = 987654321987654321987654321987654321
+    num_2 = 987654321987654321987654321987654321
+
+    # check if they have a similar value or similar object in memory
+
+    
+    
+
+    print(num_1 == num_2)
+    print(num_1 is num_2)
+
+
+
+
+indentity_operators()
+
+def operator_precedence():
+    """python follows BODMAS in executing different operations"""
+
+    print(4 * 6 + 4)
+
+
+def parenthisis():
+    """A better tool in evaluating wihich opertors comes first"""
+    # assits in readability
+    math = 4 **(6 + 4) - (2 * 6)
+    print(math)
+
+parenthisis()
