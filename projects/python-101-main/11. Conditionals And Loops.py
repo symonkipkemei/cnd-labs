@@ -85,10 +85,40 @@ def loop():
     
 def range_function():
 
-    # minus the character it stands for
+    # minus the character it stands for,thus the iterable is definite with 5 in a sequence
+    # print odd numbers in sequence
     for x in range(5):
         if x % 2 != 0:
             print(x)
 
 
-range_function()
+def testing_if():
+    """test if a variable declared within an if statment works outside the statement"""
+
+    symon = 0
+
+
+    if symon == 0:
+        kipchumba = 56
+    else:
+        print("Thank you")
+
+
+    print(kipchumba)
+
+testing_if()
+
+def testing_for_loop():
+    """test if a variable declared inside a loop works outside the loop"""
+
+    text = [3, 8, 9, 7]
+
+    for x in text:
+        kipchumba = 90
+        print(kipchumba)
+
+    print("after 90")
+
+    print(kipchumba)
+
+testing_for_loop()
