@@ -7,4 +7,27 @@
 # Remember to use also other techniques you've learned,
 # for example flags and conditional statements.
 
+
 filename = "operators.pdf"
+
+
+if ".pdf" in filename:
+    print('the file is a pdf')
+
+
+
+for x in filename:
+    correct = True
+
+    if x == ".":
+        print(correct)
+    elif x == "p":
+        print(correct)
+    elif x == "d":
+        print(correct)
+    elif x == "f":
+        print(correct)
+    else:
+        print(not correct)
+
+

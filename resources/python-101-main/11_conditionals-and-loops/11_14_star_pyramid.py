@@ -22,3 +22,12 @@
 # * * *
 #
 # HINT: Think of nested for loops!
+
+count =0
+for x in range(0,20):
+    count += 1
+    for x in range(0,count):
+        print("*",end="")
+    print("")
+
+    

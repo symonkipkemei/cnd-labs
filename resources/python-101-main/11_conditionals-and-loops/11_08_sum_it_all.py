@@ -4,5 +4,10 @@
 #
 #      The sum is: 5050
 
-start = 1
+start = 0
 stop = 100
+
+for x in range(start, (stop +1)):
+    start += x
+    print (f"The sum is: {start}")
+

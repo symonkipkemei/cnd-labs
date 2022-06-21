@@ -4,12 +4,16 @@
 # print a message that reminds you to
 # declare your hunger levels with a string.
 
-
+hunger_meter = input("insert the levels of your hunger")
 hunger = 2
-
-if hunger == "big":
-    print("Eat the pizza")
-elif hunger == "small":
-    print("Eat the apple")
+if hunger.isdigit():
+    print("make sure your hunger nmetr reads values in string format")
 else:
-    print("Don't eat anything")
+    if hunger == "big":
+        print("Eat the pizza")
+    elif hunger == "small":
+       print("Eat the apple")
+    else:
+        print("Don't eat anything")
+
+
