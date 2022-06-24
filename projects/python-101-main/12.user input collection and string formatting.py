@@ -45,4 +45,33 @@ def break_keyword():
         
     print("nice one!")
 
-break_keyword()
+
+def command_line_game():
+    player_name = input("What's your name ? : ")
+    
+    #welcome message
+    print(f"Welcome {player_name} to the command line game.Have fun!")
+
+    #door choices
+    print("There are two doors\n(1). Left door\n(2). Right door")
+    door_choice = int(input("Make your choice: "))
+
+    if door_choice == 1:
+        print("You've entered an empty room")
+        print("Look around, there is a sword at the corner!")
+
+        # sword options
+        print("\n(1). Take sword\n(2). Leave the sword")
+
+
+    elif door_choice == 2:
+        print("Boom ! Am the dragon !! Fireeeeeeeee!!")
+        print("\n(1). Take sword\n(2). Leave the sword")
+    
+
+    #options
+    print("You have two options\n(1). Interact further\n(2). Run to the previous room")
+    option_choice = int(input("Make your choice: "))
+
+    
+command_line_game()
