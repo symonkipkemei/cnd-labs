@@ -45,33 +45,46 @@ def break_keyword():
         
     print("nice one!")
 
+def string_mini_language():
+    '''Move string by certain position'''
+    message = "you move me!"
+    print(f"{message:>100}")
 
-def command_line_game():
-    player_name = input("What's your name ? : ")
+def string_concatenation():
+    long_str = "check out this very long string that is full of wisdom \
+    so you should definitely keep reading all the way to the end!"
     
-    #welcome message
-    print(f"Welcome {player_name} to the command line game.Have fun!")
-
-    #door choices
-    print("There are two doors\n(1). Left door\n(2). Right door")
-    door_choice = int(input("Make your choice: "))
-
-    if door_choice == 1:
-        print("You've entered an empty room")
-        print("Look around, there is a sword at the corner!")
-
-        # sword options
-        print("\n(1). Take sword\n(2). Leave the sword")
-
-
-    elif door_choice == 2:
-        print("Boom ! Am the dragon !! Fireeeeeeeee!!")
-        print("\n(1). Take sword\n(2). Leave the sword")
+    print(long_str)  # Prints in one line
     
-
-    #options
-    print("You have two options\n(1). Interact further\n(2). Run to the previous room")
-    option_choice = int(input("Make your choice: "))
-
+    print(long_str)
+    happy = "yes"
     
-command_line_game()
+    love_message = ( f"you test so nice {happy} "
+                "your hair is magestic but rough than wajackoyah's "
+    f"you are so random {happy}"
+    "you are so pretty than flowers"
+    "the most exciting thing is we have the same energy levels to each another"
+    "I hope this feeling grows and blossoms into sth beautiful")
+    
+    print(love_message)
+
+
+def character_escaping():
+    message = "cynthia is a beautiful girl, I like her a lot"
+    print(message)
+    
+    message = "cynthia is a beautiful girl, I 'like' her a lot"
+    print(message)
+    
+    message = "cynthia is a beautiful girl, I \"like\" her a lot"
+    print(message)
+    
+    message = "cynthia is a beautiful girl, I \n\"like\" her a lot"
+    print(message)
+
+
+print(f"hello{'hello'}")
+print(F"hello{'hello'}")
+print("hello" + "hello")
+
+print("hello{}".format(1 + 2))

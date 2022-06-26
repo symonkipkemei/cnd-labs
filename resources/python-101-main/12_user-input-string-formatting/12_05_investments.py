@@ -4,3 +4,10 @@
 # 3. number of years to invest
 #
 # Calculate the future values and print them to the console.
+
+
+
+print("Hello user we are going to calculate your profits of your investment\nKindly provide the following details")
+in_amount = int(input("Insert investment amount: "))
+interest_rate = int(input("Interest rate in percentage: "))
+no_years = int(input("Number of year invested: "))
