@@ -219,8 +219,55 @@
    ```
  
 # 8. Numbers and math
+- integers and Floats
+- python calculator on REPL
+- calculating with variables
+- Arthietic operators
+- Type conversion
+  - Implicit ( done by python)
+   - Divisions that produce a reminder 
+   - Calculation that involve `` int `` and ``float``
+   - Insertions of variables into f-strings
+
+  - Explicit (done by you)
+    - Input from a user that is gathered with ``` input() ``` always arrives as a text value, needs to be explicitly converted to integers/float
 
 
+
+# 9. Strings And Text Data
+- text is wrapped in quotes
+- python sees text as a sequence of characters
+      - python breaks texts into the smallest of their units.
+      - 
+- counting characters
+```
+len()
+```
+- string concatenation (joining characters to form a string)
+- Error message
+- String Indexing
+- Zero based numbering 
+- Accessing Characters Through Indices (positive indexing)
+     ```
+     0 1 2 3 4
+     ---------
+     h e l l o
+  ```
+  - brackets as tweezers
+  ```
+  greeting = "hello"
+  greeting[0]  # h
+  greeting[4]  # o
+  ```
+- Accessing Characters Backwards (negative indexing)
+  - each string is also indexed from the end, starting with -1
+  ```
+  -5 -4 -3 -2 -1
+   --------------
+   h  e  l  l  o
+  ```
+  - Slicing 
+   - 
 
 
 
