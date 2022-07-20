@@ -266,10 +266,310 @@ len()
    --------------
    h  e  l  l  o
   ```
-  - Slicing 
-   - 
+- Slicing 
+   - string slicing syntax
+   ```
+   s = "plumage"
+   s[0:4]  # plum
+   Start: You pass in the index of the first character you want to be part of your resulting word
+   Separator: You place a colon (:) as a separator
+   End: You add the index of the character one after the last one that you want to be part of your new string
+   ```
+
+   - syntax shortcut
+   ```
+   s = "plumage"
+   s[:4]
+   s[4:]
+   define the end or the start index and python will slice all the way to the end
+   ```
+   - Specifying Strides
+   ```
+   s = "plumage"
+   s[0:4:2]  # pu
+   ```
+
+   - Reverse a string
+   ```
+   s = "plumage"
+   s[::-1]
+   ```
+
+- String Methods
+  ``` I am calling a method on an object. ```
+  [atring Methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
+
+- String are immutable
+  Strings are immutable. You can't change a string, but you can create new strings and re-assign them to the original variable, effectively replacing the old string value with the new one.
+
+- Searching and Finding
+
+   - Finding Sub-Strings
+   ```
+   "mytext.txt".endswith("txt")  # True
+   "mypage.php".endswith("txt")  # False
+
+   ```
+  
+
+
+# 10. Python Operators
+   operators are symbols with specific meaning that allow you to bring values in context with each other.
+   1. Assignment Operator:Makes a symbol refer to a value
+   2. Arithmetic Operators:Do arithmetic calculations
+   3. Membership Operator:Checks whether an element is part of a collection
+   3. Relational/Comparision Operators: Compare two or more values to each other
+   4. Logical Operators: Compare values on the basis of logic
+   5. Identity Operator : Finds out whether two values point to the same object in memory
+
+- Assignment Operator``` (=)```
+The assignment operator is used to assign values to variables. Its symbol is a single equals sign (=).
+    - Chained Assignment
+    - Shorthand Assignment
+
+- Arthimetic operators
+```
++	Addition	2 + 2	4
+-	Subtraction	4 - 2	2
+*	Multiplication	2 * 2	4
+/	Division	10 / 5	2.0
+%	Modulo	3 % 2	1 (performs a division and returns the remainder)
+//	Floor division	5 // 2	2( performs divison but discards the remainder)
+**	Exponent	3**2	9
+```
+-  Membership Operator ```(in)```
+allows you to quickly check whether an element is part of a collection.
+
+
+- Boolean Values
+   - represent their own datatype (bool) in Python.
+   - Boolean values in Python are capitalized
+
+
+- Relational Operators
+```
+<	Less than	1 < 2	True
+<=	Less than or equal to	1 <= 1	True
+>	Greater than	2 > 1	True
+>=	Greater than or equal to	2 >= 2	True
+==	Equal to	2 == 2	True
+!=	Not equal to	2 != 1	True
+
+```
+
+- Logical /conditional operators ``` ( and, or , not )```
+```
+and	True if both Booleans are True	True and True	True
+or	True if either of the operands is True	True or False	True
+not	True if the Boolean is False, False if Boolean is True	not False	True
+
+```
+
+- Identity Operators
+
+```
+is: Returns True if the variables on the left and right side of is point to the same object
+is not: Returns True if the variables on the left and right side of is not do not point to the same object
+
+```
+
+The comparison operator == checks for the same values, and the identity operator is checks for whether they are the same object in memory.
+
+- Operator precedence
+
+```
+Operators	Description
+**	Exponentiation
+*, /, %, //	Multiplication, division, modulo, floor division
++, -	Addition and subtraction
+<=, <, >, >=	Comparison operators
+==, !=	Equality operators
+=, %=, /=, //=, -=, +=, *=, **=	Assignment operators
+is, is not	Identity operators
+in, not in	Membership operators
+not, or, and	Logical operators
+
+```
+
+
+- Parentheses ``()``
+If you ever feel unsure about what the operator precedence will be in an expression, then you can use parentheses to make
+ sure it gets evaluated as you want it to
+
+
+# 11. Conditionals and  Loops
+
+- The if statatment
+  - if, else, elif
+- Flag variable
+  ```
+   flag = True
+
+   if flag == True:
+       print("yay!")
+   The concept of using the state of a Boolean value to decide what to do in a conditional statement is sometimes called a flag
+   ```
+- The if - elif - else Construct
+- Order Of Execution
+- Looping
+ allow you to repeat lines of code according to certain conditions
+- For loop
+  Loops through an iterable
+- The Range Function
+  Helps define how many times a loop should run
+- Nested loops
+
+
+# 12. User Input and string Formatting
+
+- the input function
+- the input prompt
+- User input conversion
+- The while loop
+- Anatomy of a while loop
+- The exit condition
+- Looping keyword
+  - break
+  - continue
+- String Formatting
+   - F strings
+   - str.format()
+- String Mini-language
+  - string Formatting Mini-language
+   ```
+   message = "you move me!"
+   print(f"{message:>20}")
+  ```
+  - Character escaping
+  - String Concatenation using Parentheses
+
+
+# 13. Modules and Automation
+
+- Modules and Packages
+   - python's standard Library
+   - code import
+   - Code Namespaces
+- Work with File paths
+  - work with File paths
+  - Interact with your file system
+
+- Find your current location/working directory
+ ```
+ import pathlib
+pathlib.Path().cwd()
+ ```
+
+- List Folder contents
+    - list all files
+    - ``` .iterdir() to create a collection of all the file paths of the files that are inside of the current working directory ```
+    ```
+    import pathlib
+    path = pathlib.Path().cwd
+
+    for filepath in path.iterdir():
+        print(filepath)
+    ```
+    - display only file names (.name is an attribute of any pathlib.Path object)
+    ```
+    import pathlib
+
+    path = pathlib.Path().cwd()
+
+    for filepath in path.iterdir():
+        print(filepath.name)
+    ```
+    - create a specific path object
+    
+    ```
+    import pathlib
+    pathlib.Path("/home/symon_kipkemei")
+    ```
+
+    - Filter by File extension
+    ```
+    import pathlib
+
+    desktop = pathlib.Path('/home/symon_kipkemei')
+
+    for filepath in desktop.iterdir():
+         print(filepath.suffix)
+    ```
+
+    - Create A new path for the New Folder
+    ```
+     import pathlib
+     new_path = pathlib.Path('/home/symon_kipkemei/screenshots')
+     new_path.mkdir(exist_ok=True)  
+    ```
+    - Create path for each files
+    ```
+    new_filepath = new_path.joinpath(filepath.name)
+    ```
+
+
+    - Move files
+    ```
+    oldpath.replace(newpath)
+    ```
+
+
+
+# 14. Version Control
+
+- Introduction to version control
+  - Time-travel
+  - Explore
+  - Read history
+
+-  Commit A file to version control
+  - Git repositories
+     - top level folder where anything inside will be tracked
+  - Initializing a new git folder
+
+  ``` git init ```
+
+  - Add files to your git repo (which files should be bundled together) a.k.a staging area
+  ``` git add README.md ```
+
+  - checking updates and what's going on
+  ``` git status ```
+
+  - commiting ( give the bundle a name and register in the git version tracker) A snapshot in the history of your project
+  ``` git commit -m "commit message" ```
+  - addding many files at the same time
+  ``` git add . ```
+
+- Github
+  - cloud storage for our git repositories
+  - Connecting Your Local Git Repo to a GitHub Remote Repo
+      - adding a remote repository
+      - ``` git remote -v ` Monitors remotes
+      - add remote
+      ```
+      git remote add origin https://github.com/<YOUR GITHUB USERNAME>/<folder.git>
+      ```
+      - where origin is the default name for git remotes
+      - Pushing to github
+      ```
+      git push -u origin master
+      ```
+
+- Project documentation
+   - How to write a good readme
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+ 
 
