@@ -4,3 +4,11 @@
 # Do you notice any difference to iterating over the string?
 
 string = "codingnomads"
+
+
+code = tuple(string)
+print(type(code))
+print(code)
+
+for x in code:
+    print(x)
