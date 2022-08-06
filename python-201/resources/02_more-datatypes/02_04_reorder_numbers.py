@@ -11,9 +11,17 @@
 user_numbers = [1,2,3,4,5,6,7,8,9,10]
 
 
-# separate odd from even
+# separate even from odd and sort in ascending order
 user_numbers_even = [num for num in user_numbers if num % 2 == 0]
-user_numbers_odd = [num for num in user_numbers if num % 2 != 0]
+user_numbers_even.sort(reverse= False)
+print(user_numbers_even)
 
-combined = user_numbers_even.extend(user_numbers_odd)
-user_numbers_even.sort()
+# separate odd from even and sort in descending order
+user_numbers_odd = [num for num in user_numbers if num % 2 != 0]
+user_numbers_odd.sort(reverse= True)
+
+print(user_numbers_odd)
+
+# merge into one list
+combined = user_numbers_even + user_numbers_odd
+print(combined)
