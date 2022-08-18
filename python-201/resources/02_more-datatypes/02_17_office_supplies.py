@@ -22,3 +22,19 @@ office = [
     {"full_name": "Creed Bratton", "item": "mung beans"},
     {"full_name": "Darryl Philbin", "item": "forklift"},
 ]
+
+
+for person in office:
+    # abstract name 
+    name = person["full_name"]
+
+    # split name to abstract last name
+    split_name = name.split(" ")
+    last_name = split_name[-1]
+
+    # Abstract item from dictionary
+    item = person["item"]
+
+    print(f"{str.upper(last_name)}, {name}       {item}")
+
+

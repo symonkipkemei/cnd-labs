@@ -16,3 +16,12 @@ famous_quotes = [
     {"full_name": "Nathan Myhrvold", "quote": "Software is a gas; it expands to fill its container."},
     {"full_name": "Alan Bennett", "quote": "Standards are always out of date.  That’s what makes them standards."}
 ]
+
+
+
+for quote in famous_quotes:
+    # split name in order to pick the last name first
+    name = quote["full_name"]
+    split_name = name.split(" ")
+
+    print(quote["quote"] , "_", split_name[-1],",", split_name[0] )

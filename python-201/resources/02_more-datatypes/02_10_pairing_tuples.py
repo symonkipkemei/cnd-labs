@@ -14,6 +14,54 @@
 
 from resources import randlist
 
-print(randlist)
 
 # Write your code below here
+
+# list
+new_list = []
+sub_list = []
+
+
+#sort list
+randlist.sort()
+
+
+
+# after soring list, check if the length is odd or even
+length_of_randlist = len(randlist)
+# if odd apend 0 to make it even.
+if length_of_randlist % 2 != 0:
+    randlist.append(0)
+    for num in randlist:
+        # add num to sub list
+        sub_list.append(num)
+    
+        sub_length = len(sub_list)
+    
+        # check to ensure the length does not exceed 2
+        if sub_length == 2:
+            sub_tuple = tuple(sub_list)
+            new_list.append(sub_tuple)
+    
+            # reset sub list to 0
+            sub_list = []
+     
+    print(new_list)
+
+# if even continue
+else:
+    for num in randlist:
+        # add num to sub list
+        sub_list.append(num)
+
+        sub_length = len(sub_list)
+    
+        # check to ensure the length does not exceed 2
+        if sub_length == 2:
+            sub_tuple = tuple(sub_list)
+            new_list.append(sub_tuple)
+    
+            # reset sub list to 0
+            sub_list = []
+     
+    print(new_list)

@@ -6,3 +6,6 @@
 # but try to do it using a list comprehension.
 
 word = "codingnomads"
+
+letters_list = [letter for letter in list(word) ]
+print(letters_list)
