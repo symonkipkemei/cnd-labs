@@ -8,3 +8,22 @@
 # even if you don't yet completely understand why it works the way it does:
 # https://docs.python.org/3/howto/sorting.html#key-functions
 # Feel free to discuss any questions you have with your mentor and on the forum!
+
+
+input_dict = {"item1": 5, "item2": 6, "item3": 1}
+
+#declare empty list 
+result_list = []
+
+#Abstract key and value for each iterable
+for item_key, item_value in input_dict.items():
+    # store key and value in a tuple
+    empty_tuple = (item_key, item_value )
+
+    # append the tuple to a list
+    result_list.append(empty_tuple)
+
+
+sorted(result_list, key=lambda result:result[1] )
+
+print(result_list)

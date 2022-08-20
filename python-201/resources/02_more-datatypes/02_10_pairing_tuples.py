@@ -27,9 +27,9 @@ randlist.sort()
 
 
 
-# after soring list, check if the length is odd or even
+# after sorting list, check if the length is odd or even
 length_of_randlist = len(randlist)
-# if odd apend 0 to make it even.
+# if odd append 0 to make it even.
 if length_of_randlist % 2 != 0:
     randlist.append(0)
     for num in randlist:
@@ -38,7 +38,7 @@ if length_of_randlist % 2 != 0:
     
         sub_length = len(sub_list)
     
-        # check to ensure the length does not exceed 2
+        # check to ensure the length does not exceed 2, create a tuple
         if sub_length == 2:
             sub_tuple = tuple(sub_list)
             new_list.append(sub_tuple)

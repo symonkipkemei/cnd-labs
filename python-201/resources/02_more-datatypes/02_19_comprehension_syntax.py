@@ -7,5 +7,6 @@
 
 word = "codingnomads"
 
-letters_list = [letter for letter in list(word) ]
+letters_list = [letter for letter in word ]
+
 print(letters_list)
