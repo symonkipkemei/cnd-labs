@@ -1,4 +1,4 @@
-def greet(greeting: str, name: str) -> str:
+def greet(greeting = "Hi", name = "user"):
     """Generates a greeting
 
     Args:
@@ -28,3 +28,35 @@ def penzi(**lombotove):
 penzi(love = "mapenzi", anger = "hasira", uvumulivu = "patience")
 
 
+#we want to greet many users at once:
+def greet_many(greeting,**args):
+    greetings = ""
+    for key,name in args.items():
+        for x in name:
+            sentence = f"{greeting},{x}! How are you!"
+            greetings += sentence + "\n"
+    return greetings
+
+mesaage = greet_many(greeting = "hey dear", args=["kipchumba","lawi","rose","sammy"] ,)
+print(mesaage)
+
+
+
+def hehe(leo, kesho):
+    """The code does the folloeing            
+
+    Args:   
+        leo(_type_): _description_
+        kesho (_type_): _description_
+
+    Returns:
+        hello: None
+    """
+    return None
+    
+    
+def herty():
+    """The code does as follows
+
+        
+    """ 

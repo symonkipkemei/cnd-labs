@@ -4,7 +4,7 @@
 
 example_list = [1, 2, 3, 4, 5, 6, 7]
 
-def stats(*args:str)-> dict:
+def stats(*args:int)-> dict:
   """pick random, numbers annd determine the maximum,minimum,avarage and sum of the numbers
 
   Args:
