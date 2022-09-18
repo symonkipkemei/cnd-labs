@@ -10,3 +10,7 @@
 
 s = {1, 2, 3, 4}
 t = {2, 3, 4, 5, 7}
+
+
+z = { y**2 for y in s.union(t)if y > 2}
+print(z)
