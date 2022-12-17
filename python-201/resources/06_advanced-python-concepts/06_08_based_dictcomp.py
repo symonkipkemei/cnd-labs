@@ -13,6 +13,4 @@
 # 7: [1, 1, 1], 8: [1, 0, 0, 0], 9: [1, 0, 0, 1], ...,
 # 999: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]}
 
-z = { y : [int(d) for d in str(y)] for y in range(0,1000)}
-
-print(z)
+z = { y : [int(d) for d in str(y)] for y in range(0,1000) if y == 10 }
