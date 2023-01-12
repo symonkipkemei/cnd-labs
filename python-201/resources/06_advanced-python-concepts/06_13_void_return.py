@@ -1,2 +1,8 @@
 # Write a lambda function that does not take in an arguments 
 # but returns a value. Print the return value.
+
+
+x = lambda :print("Hello world")
+
+y = x()
+print(y)
