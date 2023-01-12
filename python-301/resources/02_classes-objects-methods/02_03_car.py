@@ -6,3 +6,27 @@
 #
 # Create at least two different objects of this `Car()` class and demonstrate
 # changing the objects' attributes.
+
+class Car:
+
+
+    def __init__(self,model:str,year:int,max_speed:int) -> None:
+        self.model = model
+        self.year = year
+        self.max_speed = max_speed
+    
+    def increase_speed(self):
+        multiplier = 5
+        self.max_speed = self.max_speed * multiplier
+    
+    def __str__(self) -> str:
+        return f"{self.model} was manufactured in the year {self.year}. It has a maximum speed of {self.max_speed} km/h"
+
+
+vitz = Car("Toyota vitz", 2006, 180)
+v8 = Car("Toyota landcruiser v8",2015,240)
+
+print(v8)
+print()
+v8.increase_speed()
+print(v8)
