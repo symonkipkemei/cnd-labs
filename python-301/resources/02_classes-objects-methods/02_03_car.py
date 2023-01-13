@@ -9,7 +9,6 @@
 
 class Car:
 
-
     def __init__(self,model:str,year:int,max_speed:int) -> None:
         self.model = model
         self.year = year
