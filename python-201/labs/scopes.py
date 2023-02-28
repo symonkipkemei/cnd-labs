@@ -11,3 +11,12 @@ def print_name_box():
     smaller_box()
 
 print_name_box()
+
+import pathlib
+
+str()
+
+input
+type()
+print()
+open()

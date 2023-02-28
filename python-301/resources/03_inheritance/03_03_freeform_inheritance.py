@@ -12,3 +12,26 @@
 #
 # - A `Vehicle()` parent class, with `Truck()` and `Motorcycle()` child classes.
 # - A `Restaurant()` parent class, with `Gourmet()` and `FastFood()` child classes.
+
+
+class Door():
+    def __init__(self,width,height,material) -> None:
+        self.height = height
+        self.width = width
+        self.material = material
+
+
+class FanlightDoor(Door):
+    def __init__(self, width, height,material) -> None:
+        super().__init__(width, height,material)
+        self.fanlight = True
+        self.fanlight_height = 300
+        self.panelheight = self.height-300
+        
+
+
+door1 = Door(800,2100,"timber")
+door2 = FanlightDoor(800,2100,"mahogany")
+
+height = door2.panelheight
+print(height)
