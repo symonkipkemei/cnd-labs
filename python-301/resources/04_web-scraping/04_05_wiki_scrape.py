@@ -6,3 +6,18 @@
 # BONUS TASK: Use RegExp to find all numbers in the text.
 
 URL = "https://en.wikipedia.org/wiki/Web_scraping"
+
+import requests
+from bs4 import BeautifulSoup
+from pprint import pprint
+
+
+page = requests.get(URL)
+
+# create a bs object
+
+soup = BeautifulSoup(page.text)
+
+# parse all the paragraphs
+paragraph = soup.find_all("a")
+
