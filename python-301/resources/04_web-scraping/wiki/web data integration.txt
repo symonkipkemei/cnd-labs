@@ -1,0 +1,62 @@
+Web data integration (WDI) is the process of aggregating and managing data from different websites into a single, homogeneous workflow.  This process includes data access, transformation, mapping, quality assurance and fusion of data. Data that is sourced and structured from websites is referred to as "web data". WDI is an extension and specialization of data integration that views the web as a collection of heterogeneous databases.
+Data integration techniques in the context of the web, forms the foundation for businesses taking advantage of data available on the ever-increasing number of publicly-accessible websites.[1] Corporate spending on this area amounted to about USD 2.5bn in 2017, and it is expected that by 2020 the market will reach almost USD 7bn.[2]
+
+
+Sources[edit]
+Web data integration extends and specializes data integration to see the web as a collection of views of databases accessible over the web protocols, including, but not limited to:[3]
+
+Open data catalogs
+Government data catalogs
+Web applications and sites
+UI (web scraping)
+API
+The semantic web (SPARQL)
+HTML embedded structured data
+HTML data tables
+Spreadsheets
+PDFs
+Online encyclopedias
+Data access and transformation[edit]
+WDI has technical challenges different from data integration due to the data access and transformation required for the web data sources being often unstructured or semi-structured data without a standard query mechanism.
+
+Data quality[edit]
+Understanding the quality and veracity of data is even more important in WDI than in data integration, as the data is generally less implicitly trusted and of lower quality than that which is collected from a trusted source. There are attempts to try to automate a trust rating for web data.[4]
+Data quality in data integration can generally happen after data access and transformation, but in WDI quality may need to be monitored as data is collected, due to both the time and the cost of re-collecting the data.[5]
+
+Applications[edit]
+WDI has application in many fields, including bioinformatics,[6] search engines,[7] price comparison,[8] and forensic search[9] data analysis, business intelligence, ecommerce,[10] healthcare, pharmaceutical[11] and product development.
+Most price comparison engines and recommendation systems use user generated data to create recommendations for their users. Similarly, healthcare systems use results of competitions conducted on websites like Kaggle[12] to see the accuracy of data and to create user-focused products. In fact, IBM estimates that poor quality WDI is costing companies over $3 trillion[13] in revenue each year.
+
+References[edit]
+
+
+^ "IE 670 Web Data Integration". www.uni-mannheim.de. 2019-01-24. Retrieved 2019-02-11.
+
+^ "Opimas: The Web Data Extraction Market". Opimas: We begin with an understanding. Retrieved 2019-02-12.
+
+^ "Introduction :: Web Data Integration". www.webdataintegration.io. Retrieved 2019-02-14.
+
+^ Giménez-García, José M.; Thakkar, Harsh; Zimmermann, Antoine (2016). "Assessing Trust with PageRank in the Web of Data" (PDF).  In Sack, Harald; Rizzo, Giuseppe; Steinmetz, Nadine; Mladenić, Dunja; Auer, Sören; Lange, Christoph (eds.). The Semantic Web. Lecture Notes in Computer Science. Vol. 9989. Springer International Publishing. pp. 293–307. doi:10.1007/978-3-319-47602-5_45. ISBN 9783319476025.
+
+^ The way to integrate data from E-commerce website platform
+
+^ "Web Data Integration". Database Group Leipzig.
+
+^ "Web-scale Data Integration - You Can Only Afford to Pay as You Go". www.datascienceassn.org. Retrieved 2019-02-12.
+
+^ Siegel, Michael D.; Madnick, Stuart E.; Zhu, Hongwei (2008). "Enabling global price comparison through semantic integration of web data". International Journal of Electronic Business. 6 (4): 319. doi:10.1504/IJEB.2008.020672. hdl:1721.1/40084. S2CID 7995576. Retrieved 2019-02-12.
+
+^ "PwC buys Kusiri, London-based fraud detection start-up". www.consultancy.uk. 2015-10-30. Retrieved 2019-02-12.
+
+^ Osial, P.; Kauranen, K.; Ahmed, E. (April 2017). "Smartphone recommendation system using web data integration techniques". 2017 IEEE 30th Canadian Conference on Electrical and Computer Engineering (CCECE): 1–5. doi:10.1109/CCECE.2017.7946845. ISBN 978-1-5090-5538-8. S2CID 12474147.
+
+^ "How Data Integration is Revamping Healthcare and Pharma". Data Integration Info. 2020-04-27. Retrieved 2020-05-04.
+
+^ "Kaggle: Your Machine Learning and Data Science Community". www.kaggle.com. Retrieved 2020-05-04.
+
+^ Import.io. "Web Data Integration: Revolutionizing the Way You Work with Web Data". www.import.io. Retrieved 2020-05-04.
+
+
+
+
+

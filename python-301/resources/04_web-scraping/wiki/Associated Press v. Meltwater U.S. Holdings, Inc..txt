@@ -1,0 +1,69 @@
+Associated Press v. MeltwaterSeal of the United States District Court for the Southern District of New YorkCourtUnited States District Court for the Southern District of New YorkFull case nameThe Associated Press, v. Meltwater U.S. Holdings, INC.; Meltwater News U.S., INC.; and Meltwater News U.S. 1, INC. DecidedMarch 21, 2013Docket nos.1:12-cv-01087DefendantMeltwater U.S. Holdings IncProsecutionAssociated PressCase historySubsequent action(s)Meltwater appealed and the case was settled.HoldingThe court held that Meltwater's copying was not protected under the fair use doctrine and it was infringing on AP's copyright.Court membershipJudge(s) sittingDenise CoteKeywordsfair use, copyright
+Associated Press v. Meltwater U.S. Holdings, Inc. (S.D.N.Y. March 21, 2013) was a district court case in which the Associated Press (AP) brought suit against Meltwater Group in U.S. (Meltwater) for clipping and sharing news items under copyright infringement and "hot news" misappropriation under New York common law. In a cross-motion for summary judgement, Meltwater argued they were not infringing under the requirements of fair use. Meltwater claimed that their service was transformative and therefore non-infringing on copyright. The court held that Meltwater's copying was not protected under the fair use doctrine and it was infringing on AP's copyright.[1]
+A parallel case filed on the same grounds in the UK, however, was decided the other way in 2013 (in favor of Meltwater and against the equivalent newspaper licensing business) by the UK Supreme Court, subject to questions referred to the European Court of Justice and intended to clarify matters of a cross-border nature.
+
+
+Background[edit]
+The Associated Press (AP) was founded in 1846 as a not-for-profit news organization that published original content and photographs. The company received its funds from various subscribing newspaper and broadcasting companies. Licensing fees accounted for hundreds of millions of dollars in annual revenue for the Associated Press, and each contract was crafted to grant specific permissions of redistribution, clipping, etc. to each license holder. Each article was carefully sourced, researched, and edited. In addition, each article contained a lede, a concise concentration of key information, which "takes significant journalistic skill to craft."[1] The Associated Press obtained a registered copyright on some of their articles, thirty-three of which were identified to be relevant to this case (Registered Articles). In addition to licensing, AP offered numerous products including "AP Exchange," which allowed licensees to access content by searching for keywords and other metadata.[2]
+Meltwater was a "software as a service" or SaaS company, that in 2005 began offering news monitoring services to subscribers.[1] Meltwater electronically clipped articles and their contents verbatim using crawlers for its customers and distributes them widely.[3] The service eventually began to include stories written by AP. Meltwater's "Global Media Monitoring" product allowed its customers to search news articles by keyword. When a customer searched for information based on a string of keywords in the database, Meltwater reported back a list of articles from all over the web organized according to that query. Beneath the search result was a set of information including the headline of the article and URL, the information about the source and origin, and excerpts from that article. Subscribers to Meltwater were able to subscribe to a newsletter for their queries, searched ad hoc and archived the material if desired, etc.[1]
+AP and Meltwater competed for the news clipping service market for their clients through AP Exchange and Global Media Monitoring. It was not contested that through the Global Media Monitoring service, Meltwater copied content from each of the thirty-three articles registered under copyright by AP.[1]
+
+Case[edit]
+History[edit]
+AP filed suit on 14 February 2012 on six forms of copyright infringement and hot news misappropriation, and Meltwater responded with four defense claims surrounding fair use and tortious interference with business relations. The pretrial was held 20 April 2012 and the right to initial investigation was granted.  On 13 July 2012, AP added more articles to their complaint. On 9 November 2012, AP and Meltwater both filed for summary judgment, and the final motions were submitted 23 January 2013. The court decided on 21 March 2013.[1]
+
+Claims[edit]
+AP asserted to the court that it held a valid copyright and Meltwater made use of the registered articles. Meltwater insisted that its use was fair. While there was no conversation or transacting with AP over Meltwater's use of their material, Meltwater claimed that their software service acted like a search engine, creating the justification for an implied license. Meltwater also accused AP of estoppel because they took insufficient measures to prevent Meltwater from proceeding with their text scraping business.[1]
+
+Decision[edit]
+The court first established that the Associated Press owned a valid copyright for the articles in question and that Meltwater copied original elements of the articles.[1] Although federal copyright law does not cover the reporting of facts, the compilation of facts is protected (due to precedent set forth by Nihon Keizai Shimbun, Inc. v. Comline Business Data, Inc.). Therefore, the Associated Press owned a valid copyright over its news articles. Furthermore, Meltwater did not deny that it used automated crawlers to scrape the Associated Press's articles for its news aggregation services and programs.
+The opinion of the District Judge, Denise Cote, stated that Meltwater did violate AP's copyright by clipping and redistributing its articles without the appropriate licenses.[1][4]
+The court found that Meltwater failed to justify its fair use claim under 17 U.S.C. § 107. Under 17 U.S.C. § 107, Meltwater failed to satisfy the four criteria for a fair use defense:[1]
+
+"The purpose and character of the use." The court determined that the purpose and character of use was not substantially transformative. Meltwater argued that its product was providing search functionality to discover the AP's Registered Articles. However, after examination of Meltwater's click through rates to AP's Registered Articles, the court determined that Meltwater's product serviced as a substitute for accessing the AP's articles rather than for discovery. Furthermore, the court made the distinction that, unlike public search engines, Meltwater's search service was a commercial product closed off to paid subscribers.
+"The nature of the copyrighted work." The nature of AP's news articles were more expressive than creative. Hence, the court leaned in favor of fair use for this criteria only.
+"The amount and substantiality of the portion used in relation to the copyrighted work as a whole." Meltwater copied 4.5% - 60% per Registered Article, including the lede which summarizes the article. Meltwater failed to show that it copied this data for the functionality of its search engine.
+"The effect of the use upon the potential market for or value of the copyrighted work." The court determined that the effect on the market was substantial. The AP sold licenses to many companies, which allowed those companies to access its articles. However, by bypassing payment for the license in an established market, Meltwater had cheapened "the value of the AP's work by competing with companies that do pay a licensing fee to use AP content in the way that Meltwater does."
+The court also held that while other news services who delivered AP's stories licensed from AP, Meltwater did not license the content from the AP. Then, according to the court's holding, Meltwater did not have the right to an implied license as they claimed in court. For one, AP made licensing their articles their main point of cash flow, so to grant a license to a non-paying party did not fall under AP's business model.[1]
+
+Settlement[edit]
+Although Meltwater had vowed to appeal, both the Associated Press and Meltwater dismissed all claims and counterclaims in July 2013. After the litigation, the Associated Press and Meltwater partnered to develop new products whose aim would be to benefit both companies.[3][4]
+
+Significance[edit]
+Associated Press v. Meltwater has provided legal solutions for the news industry to maintain their ability to license to news aggregators.[5] The news industry has claimed to have lost much revenue due to news aggregators that circumvent licensing fees. These news aggregators prevent a significant portion of the news industry's audience from viewing ads on the original content. However, other critics contest that the fair use defense could still be applied to news articles under different circumstances.[6] These other critics suggest that some news aggregators could provide a different function and promote public dialogue amongst news readers.
+
+Parallel UK Meltwater case[edit]
+Main article: Public Relations Consultants Association (PRCA) v The Newspaper Licensing Agency (NLA)
+Public Relations Consultants Association (PRCA) v The Newspaper Licensing Agency (NLA) was a 2011 case UK Supreme Court case decided in 2013,[7] essentially on the same issue (Meltwater's media clippings shown to clients online) and with the same defendant, Meltwater Group. The plaintiff differed, being a UK copyright collection society rather than AP, but upon parallel grounds. The case was decided by UK and European law rather than the fair use doctrine, as the latter is only a US legal principle.
+The UK case, initially decided by lower courts in favour of the NLA at the initial case and appeal, was overturned by the UK Supreme Court, who ruled Meltwater's activities legal, subject to certain questions referred to the European Court of Justice and intended to clarify matters of a cross-border nature. The rationale was that viewing of copyright works was not, and had never been, illegal in either the UK or European law,[7]: item 36  and Article 5.1 of the European Directive Directive 2001/29/EC (which covers "temporary copies"[7]: item 9, 11 ) permitted automated copying of a temporary nature for a lawful purpose. As mere viewing by Meltwater's clients was lawful under UK and EU law, the technical creation of cached copies to enable and facilitate this were also lawful.[7]: item 16–17 
+
+See also[edit]
+Public Relations Consultants Association (PRCA) v The Newspaper Licensing Agency (NLA)
+Media monitoring service
+News aggregator
+References[edit]
+
+
+^ a b c d e f g h i j k Associated Press v. Meltwater U.S. Holdings, Inc.,  No. 1:12-cv-01087, 156 (S.D.N.Y. Mar. 21, 2013).
+
+^ "The Associated Press". Retrieved 27 October 2013.
+
+^ a b "AP, Meltwater settle copyright dispute" (Press release). New York, NY.: The Associated Press. 2013-07-29. Retrieved 2013-10-28.
+
+^ a b Vaughan, Bernard. "AP, news aggregator Meltwater end copyright dispute". Archived from the original on 2013-11-13. Retrieved 2013-10-01.
+
+^ 23 Fordham Intell. Prop. Media & Ent. L.J. 1441 (2012-2013) Shutting Down the Turbine: How the News Industry and News Aggregators can Coexist in a Post-Barclays v. theflyonthewall.com World, Marimon, Nicole p.1481-1494
+
+^ 122 Yale L. J. 837 (2012-2013) Copyright Protection in an Opt-Out World: Implied License Doctrine and News Aggregators, Jasiewicz, Monika Isia p.840-845
+
+^ a b c d "Archived copy" (PDF). Archived from the original (PDF) on 2016-03-08. Retrieved 2014-04-08.{{cite web}}:  CS1 maint: archived copy as title (link)
+
+
+External links[edit]
+AP Official website
+Meltwater Official website
+Raymond, Nate. "AP win against Meltwater could impact online news aggregation". the Electronic Frontier Foundation. the Electronic Frontier Foundation. Retrieved 29 October 2013.
+Lay, Stacia. "AP Sues News Monitoring Service, Meltwater, for Copyright Infringement and "Hot News" Misappropriation". IP LAW CHAT. Hendricks & Lewis. Archived from the original on 28 October 2013. Retrieved 29 October 2013.
+
+
+

@@ -1,0 +1,143 @@
+A clickwrap or clickthrough agreement is a  prompt that offers individuals the opportunity to accept or decline a digitally-mediated policy.[1][2] Privacy policies, terms of service and other user policies, as well as copyright policies commonly employ the clickwrap prompt. Clickwraps are common in signup processes for social media services like Facebook, Twitter or Tumblr, connections to wireless networks operated in corporate spaces, as part of the installation processes of many software packages, and in other circumstances where agreement is sought using digital media. The name "clickwrap" is derived from the use of "shrink wrap contracts" commonly used in boxed software purchases, which "contain a notice that by tearing open the shrinkwrap, the user assents to the software terms enclosed within".[3]
+The content and form of clickwrap agreements vary widely. Most clickwrap agreements require the end-user to manifest their assent by clicking an "ok" or "agree" button on a dialog box or pop-up window.  A user indicates rejection by clicking cancel or closing the window. If the user opts to reject the terms, they cannot use or purchase the product or service.  Classically, such a take-it-or-leave-it contract is described as a "contract of adhesion, which is a contract that lacks bargaining power, forcing one party to be favored over the other."
+The terms of service or license do not always appear on the same webpage or window, but are always accessible before acceptance, such as through a hyperlink embedded in the product's webpage or a pop-up screen prior to installation. In order to be deemed to have accepted the terms of service, the purchaser must be put on notice that certain terms of service may apply. If the terms of service are not visible and/or accessible, courts have found the notice requirement to be lacking and as such, the purchaser may not be bound to the terms of the agreement. An analysis of the terms of service of major consumer websites has found that they frequently contain clauses that impede consumer rights in substantial and often unexpected ways.[4]
+
+
+Legal consequences[edit]
+United States[edit]
+See also: In the Matter of Sears Holdings Management Corporation
+Few cases have considered the validity of clickwrap licenses. Still, in the cases that have challenged their validity, the terms of the contract have usually been upheld:
+
+Feldman v. Google, Inc., 513 F.Supp.2d 229 (E.D.Pa. 2007) (upholding forum-selection clause)
+In re RealNetworks, Inc. Privacy Litigation, No. No. 00-1366, 2000 WL 631341 (D. Ill. May 8, 2000) (upholding an arbitration clause)
+Hotmail Corp. v. Van$ Money Pie, No. 98-20064, 1998 WL 388389 (N.D. Cal. Apr. 16, 1998) (granting preliminary injunction for alleged breach of contract for violating the terms of service by using a Hotmail account to send spam or pornography). The court said that clicking the clickwrap button after notice gave consent.
+I. Lan Sys., Inc. v. Netscout Serv. Level Corp., 183 F. Supp. 2d 328, 336 (D. Mass. 2002) (upholding a clickwrap agreement on two grounds: first, clickwrap is simply "Money now, terms later" contract formation; second, the court found that the "additional terms" of the clickwrap license was not material under UCC (§207(2)(b)).
+Caspi v. Microsoft, LLC, held a forum selection clause in an online membership agreement was consented to when the user clicked the "I agree" symbol of the agreement in order to proceed with registration.
+In A.V., et al. v iParadigms, LLC, Judge Claude M. Hilton granted summary judgment on the students' complaint in favor of iParadigms/Turnitin, because they had accepted the click-wrap agreement on the Turnitin website.[5]
+Even though courts have ruled some clickwrap licenses to be enforceable contracts, it does not follow that every term of every clickwrap license is enforceable. Clickwrap licenses must still meet the criteria for enforceability of a unilateral form contract. For example, see Bragg v. Linden Research, Inc., 487 F.Supp.2d 593 (E.D. Pa. 2007), in which the judge found certain aspects of the Second Life clickwrap agreement "unconscionable, and therefore unenforceable."[1]
+
+Cases in detail[edit]
+In Register.com, Inc. v. Verio, Inc., 356 F.3d 393 (2d. Cir. 2004), the court described a clickwrap license, even though the license in question was distinguished from a clickwrap license
+
+Essentially, under a clickwrap arrangement, potential licensees are presented with the proposed license terms and forced to expressly and unambiguously manifest either assent or rejection prior to being given access to the product.
+An earlier case, Specht v. Netscape Communications Corp., 150 F.Supp.2d 585 (S.D.N.Y. 2001), aff'd, 306 F.3d 17 (2d. Cir. 2002), gave perhaps the clearest definition of a clickwrap license.
+
+A click-wrap license presents the user with a message on his or her computer screen, requiring that the user manifest his or her assent to the terms of the license agreement  by clicking on an icon. n12 The product cannot be obtained or used unless and until the icon is clicked. For example, when a user attempts to obtain Netscape's Communicator or Navigator, a web page appears containing the full text of the Communicator / Navigator license agreement. Plainly visible on the screen is the query, "Do you accept all the terms of the preceding license agreement? If so, click on the Yes button. If you select No, Setup will close." Below this text are three button or icons: one labeled "Back" and used to return to an earlier step of the download preparation; one labeled "No," which if clicked, terminates the download; and one labeled "Yes," which if clicked, allows the download to proceed. Unless the user clicks "Yes," indicating his or her assent to the license agreement, the user cannot obtain the software.
+The clickwrap method was presented to the court in ProCD v. Zeidenberg, 86 F.3d 1447 (7th Cir. 1996), where Zeidenberg purchased a CD-ROM, created by ProCD, which contained a compilation of a telephone directory database. Upon purchase of this CD-ROM, Zeidenberg installed the software onto his computer then created a website which offered to visitors the information contained on the CD-ROM at a price less than what ProCD charged for the software. Prior to his purchase of the software, Zeidenberg may not have been aware of any prohibited use or dissemination of the product without consent by ProCD. However, upon preparing to install the software onto his computer, the software license appeared on his computer screen and would not allow him to continue with the installation without indicating acceptance by clicking his assent in a dialog box. The court held that Zeidenberg did accept the offer and the terms contained within the license by clicking through the dialog box.  Zeidenberg had the opportunity to read the terms of the license prior to clicking the acceptance box. The court further stated that Zeidenberg could have rejected the terms of the contract and returned the software. (Id.).[6][7]
+More recently, in the 2017 opinion Meyer v. Uber Technologies, the Second Circuit of the United States Court of Appeal held that users were on fair notice of the arbitration provision in Uber's registration process, because Uber presented the app’s terms of service via hyperlink.  “While it may be the case that many users will not bother reading the additional terms, that is the choice the user makes,” Judge Chin wrote. “The user is still on inquiry notice."  The Court further held that “[w]hen considering the perspective of a reasonable smartphone user, we need not presume that the user has never before encountered an app or entered into a contract using a smartphone..." Instead, the Court explained that “[a] reasonable user would know that by clicking the registration button, he was agreeing to the terms and conditions accessible via the hyperlink, whether he clicked on the hyperlink or not.”[8][9]
+
+European Union[edit]
+On 21 May 2015, the European Court of Justice decided in the case of El Majdoub v. CarsOnTheWeb.Deutschland GmbH (case n° C-322/14), on a referral from a German court,[10] that click-wrap agreements are acceptable under certain circumstances as a "durable record" of the acceptance of general conditions within the meaning of Regulation 44/2001 (now replaced by Regulation 1215/2012, also known as the 'Brussels I Recast Regulation').[11]
+
+See also[edit]
+Browse wrap
+Electronic signature
+Electronic Signatures in Global and National Commerce Act (ESIGN)
+Rudder v. Microsoft Corp.
+Shrink wrap contract
+SoftMan Products Co. v. Adobe Systems Inc.
+Software license
+References[edit]
+
+
+^ Obar, Jonathan A.; Oeldorf-Hirsch, Anne (2018). "The Clickwrap: A Political Economic Mechanism for Manufacturing Consent on Social Media". Social Media + Society. 4 (3): 205630511878477. doi:10.1177/2056305118784770.
+
+^ Obar, Jonathan (June 23, 2022). "The Clickwrap and The Biggest Lie on the Internet". YouTube. Retrieved 30 June 2022.
+
+^ Murdoch University Electronic Journal of Law
+
+^ A Nicol. Clickwrapped: Who Respects Your Rights Online? Accessed July 30, 2013.
+
+^ Hilton, Claude (2008). "Memorandum Opinion" (PDF). United States District Court for the Eastern District of Virginia, Alexandria Division. Archived from the original (PDF) on 2010-07-05. {{cite journal}}: Cite journal requires |journal= (help)
+
+^ FindLaw Article
+
+^ Loundy, David (February 8, 1996). "'Shrink-wrap' licenses don't shrink access to data". Chicago Daily Law Bulletin. p. 5.
+
+^ "Meyer v. Uber Techs, Inc., Nos. 16‐2750, 16‐2752, 2017 WL 3526682 (2d Cir. Aug. 17, 2017)" (PDF). Archived (PDF) from the original on 2020-04-22.
+
+^ Frankel, Alison (2017-08-17). "2nd Circuit's Uber arbitration ruling huge win for app industry". Reuters. Retrieved 2021-01-31.
+
+^ Court of Justice of the European Communities, El Majdoub (Judgment) (2015) EUECJ C-322/14 (21 May 2015), accessed 1 May 2021
+
+^ El Majdoub v CarsOnTheWeb.Deutschland GmbH: ECJ 21 May 2015, accessed 1 May 2021
+
+
+External links[edit]
+YouTube Video: The Clickwrap and The Biggest Lie on the Internet
+
+
+Examples of Clickwrap contracts
+Online electronic signatures using clickwrap
+T-Mobile uses clickwrap for online phone purchases
+vteUnited States contract lawContract formationOffer and acceptance
+Leonard v. Pepsico, Inc.
+Gottlieb v. Tropicana Hotel & Casino
+Kansas City Wholesale Grocery Co. v. Weber Packing Corp.
+Ever-Tite Roofing Corp. v. Green
+Lefkowitz v. Great Minneapolis Surplus Store, Inc
+Implied-in-fact contract
+Baltimore & Ohio Railroad Co. v. United States
+Mailbox rule
+Ellefson v. Megadeth, Inc.
+Shrinkwrap, Clickwrap, Browsewrap agreements
+Specht v. Netscape
+Ticketmaster Corp. v. Tickets.com, Inc.
+Nguyen v. Barnes & Noble, Inc.
+ProCD, Inc. v. Zeidenberg
+In re Zappos.com, Inc., Customer Data Security Breach Litigation
+Arizona Cartridge Remanufacturers Ass'n Inc. v. Lexmark International Inc.
+Step-Saver Data Systems, Inc. v. Wyse Technology
+Bowers v. Baystate Technologies, Inc.
+Bragg v. Linden Research, Inc.
+Feldman v. Google, Inc.
+Consideration
+Hamer v. Sidway
+Wood v. Lucy, Lady Duff-Gordon
+Kirksey v. Kirksey
+Angel v. Murray
+King v. Trustees of Boston Univ.
+Atlantic Marine Construction Co. v. United States District Court
+Salsbury v. Northwestern Bell Telephone Co.
+Substantial performance
+Lucy v. Zehmer
+Jacob & Youngs, Inc. v. Kent
+Privity & 3rd parties
+De Cicco v. Schweizer
+MacPherson v. Buick Motor Co.
+Implied warranty, caveat emptor
+Hawkins v. McGee
+Seixas and Seixas v. Woods
+Henningsen v. Bloomfield Motors, Inc.
+G. L. Christian and Associates v. United States
+Kellogg Bridge Co. v. Hamilton
+Defense against formationIllusory promise
+Morrison v. Amway Corp.
+Harris v. Blockbuster, Inc.
+Douglas v. U.S. District Court ex rel Talk America
+McMichael v. Price
+Statute of frauds (written) & Parol evidence (unwritten & informal)
+Buffaloe v. Hart
+Foman v. Davis
+Unconscionable
+Williams v. Walker-Thomas Furniture Co.
+Buchwald v. Paramount
+Cancelling ContractMistake
+Sherwood v. Walker
+Lenawee County Board of Health v. Messerly
+Illegality
+Stoddard v. Martin
+SCO Group, Inc. v. DaimlerChrysler Corp.
+Misrepresentation
+United States v. Spearin
+Helene Curtis Industries, Inc. v. United States 
+Laidlaw v. Organ
+Smith v. Bolles
+Quasi-contract obligationPromissory estoppel
+Drennan v. Star Paving Co.
+Unjust enrichment
+Britton v. Turner
+
+
+
+

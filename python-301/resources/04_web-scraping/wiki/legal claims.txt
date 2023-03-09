@@ -1,0 +1,166 @@
+Set of facts sufficient to justify a right to sue
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Cause of action" – news · newspapers · books · scholar · JSTOR (September 2014) (Learn how and when to remove this template message)
+Civil procedurein the United States
+Federal Rules of Civil Procedure
+Doctrines of civil procedure
+
+Jurisdiction
+Subject-matter(Federal-questionDiversitySupplementalRemoval)
+Personal(In personamIn remQuasi in rem)
+
+Venue
+Change of venue
+Forum non conveniens
+
+Pleadings
+Complaint(Cause of actionCase Information StatementClass action (2005 Act) )
+
+Demurrer
+Answer (affirmative defense)
+Reply
+Counterclaim
+Crossclaim
+Joinder
+Indispensable party
+Impleader
+Interpleader
+Intervention
+Other motions
+
+
+Pre-trial procedure
+
+Discovery
+Initial conference
+Interrogatories
+Depositions
+
+Request for admissions
+Request for production
+
+Resolution without trial
+
+Default judgment
+Summary judgment
+Voluntary dismissal
+Involuntary dismissal
+Settlement
+
+
+Trial
+
+Parties
+plaintiff
+defendant
+Pro se
+Jury (voir dire)
+Burden of proof
+
+Judgment(As a matter of law (JMOL)Renewed JMOLNotwithstanding verdict (JNOV)Motion to set asideDe novo (new trial) )
+Remedy(InjunctionDamagesAttorney's fee (American ruleEnglish rule)Declaratory judgment)
+
+Appeal
+
+Mandamus
+Certiorari
+
+vte
+A cause of action or right of action, in law, is a set of facts sufficient to justify suing to obtain money or property, or to justify the enforcement of a legal right against another party. The term also refers to the legal theory upon which a plaintiff brings suit (such as breach of contract, battery, or false imprisonment). The legal document which carries a claim is often called a 'statement of claim' in English law, or a 'complaint' in U.S. federal practice and in many U.S. states. It can be any communication notifying the party to whom it is addressed of an alleged fault which resulted in damages, often expressed in amount of money the receiving party should pay/reimburse.[1]
+To pursue a cause of action, a plaintiff pleads or alleges facts in a complaint, the pleading that initiates a lawsuit. A cause of action generally encompasses both the legal theory (the legal wrong the plaintiff claims to have suffered) and the remedy (the relief a court is asked to grant). Often the facts or circumstances that entitle a person to seek judicial relief may create multiple causes of action. Although it is fairly straightforward to file a Statement of Claim in most jurisdictions, if it is not done properly, then the filing party may lose her case due to simple technicalities. The need to balance procedural expediency and continuity (the technicalities of which one might fall foul) expressed as “procedure rules” (be they civil or criminal) must be balanced with the highest priority of all -- to achieve justice. The court and its officers are obliged to serve justice first. 
+There are a number of specific causes of action, including: contract-based actions; statutory causes of action; torts such as assault, battery, invasion of privacy, fraud, slander, negligence, intentional infliction of emotional distress; and suits in equity such as unjust enrichment and quantum meruit.
+The points a plaintiff must prove to win a given type of case are called the "elements" of that cause of action. For example, for a claim of negligence, the elements are: the (existence of a) duty, breach (of that duty), proximate cause (by that breach), and damages. If a complaint does not allege facts sufficient to support every element of a claim, the court, upon motion by the opposing party, may dismiss the complaint for failure to state a claim for which relief can be granted.
+The defendant to a cause of action must file an "Answer" to the complaint in which the claims can be admitted or denied (including denial on the basis of insufficient information in the complaint to form a response). The answer may also contain counterclaims in which the "Counterclaim Plaintiff" states its own causes of action. Finally, the answer may contain affirmative defenses. Most defenses must be raised at the first possible opportunity either in the answer or by motion or are deemed waived. A few defenses, in particular a court's lack of subject matter jurisdiction, need not be pleaded and may be raised at any time.
+
+
+Implied cause of action[edit]
+Implied cause of action is a term used in United States statutory and constitutional law for circumstances when a court will determine that a law that creates rights also allows private parties to bring a lawsuit, even though no such remedy is explicitly provided for in the law. Implied causes of action arising under the Constitution of the United States are treated differently from those based on statutes.
+
+Constitutional causes of action[edit]
+Perhaps the best known case creating an implied cause of action for constitutional rights is Bivens v. Six Unknown Named Agents, 403 U.S. 388 (1971). In that case, the United States Supreme Court ruled that an individual whose Fourth Amendment freedom from unreasonable search and seizures had been violated by federal agents could sue for the violation of the Amendment itself, despite the lack of any federal statute authorizing such a suit. The existence of a remedy for the violation was implied from the importance of the right violated.
+In a later case, Schweiker v. Chilicky, 487 U.S. 412 (1988), the Supreme Court determined that a cause of action would not be implied for the violation of rights where the U.S. Congress had already provided a remedy for the violation of rights at issue, even if the remedy was inadequate.
+
+Statutory causes of action[edit]
+Federal law[edit]
+An implied private right of action is not a cause of action expressly created by a statute. Rather, a court interprets the statute to silently include such a cause of action. Since the 1950s, the United States Supreme Court "has taken three different approaches, each more restrictive than the prior, in deciding when to create private rights of action."[2]
+In J.I. Case Co. v. Borak (1964), a case under the Securities Exchange Act of 1934, the Court, examining the statute's legislative history and looking at what it believed were the purposes of the statute, held that a private right of action should be implied under § 14(a) of the Act.[3]  Under the circumstances, the Court said, it was "the duty of the courts to be alert to provide such remedies as are necessary to make effective the congressional purpose."[4]
+In Cort v. Ash (1975), the issue was whether a civil cause of action existed under a criminal statute prohibiting corporations from making contributions to a presidential campaign.  The Court said that no such action should be implied, and laid down four factors to be considered in determining whether a statute implicitly included a private right of action: 
+
+Whether the plaintiff is part of the class of persons "for whose especial benefit" the statute was enacted,
+Whether the legislative history suggests that Congress intended to create a cause of action,
+Whether granting an implied cause of action would support the underlying remedial scheme set down in the statute, and
+Whether the issue would be one that is traditionally left to state law.[5]
+The Supreme Court used the four-part Cort v. Ash test for several years, and in applying the test, "[f]or the most part, the Court refused to create causes of action."[6]  An important application of the test, however, came in Cannon v. University of Chicago (1979), which recognized an implied private right of action.  There, a plaintiff sued under Title IX of the Education Amendments of 1972, which prohibited sex discrimination in any federally funded program.  The Court, stating that the female plaintiff was within the class protected by the statute, that Congress had intended to create a private right of action to enforce the law, that such a right of action was consistent with the remedial purpose Congress had in mind, and that discrimination was a matter of traditionally federal and not state concern.  Justice Powell, however, dissented and criticized the Court's approach to implied rights of action, which he said was incompatible with the doctrine of separation of powers.  It was the job of Congress, not the federal courts, Justice Powell said, to create causes of action.  Therefore, the only appropriate analysis was whether Congress intended to create a private right of action.  "Absent the most compelling evidence of affirmative congressional intent, a federal court should not infer a private cause of action."[7]
+Very shortly after Cannon was decided, the Court adopted what legal scholars have called a new approach to the issue in Touche Ross & Co. v. Redington (1979).[8]  At issue was an implied right under another section of the Securities Exchange Act of 1934, and the Court said that the first three factors mentioned in Cort v. Ash were simply meant to be "relied upon in determining legislative intent."[9]  "The ultimate question," the Court concluded, "is one of legislative intent, not one of whether this Court thinks that it can improve upon the statutory scheme that Congress enacted into law."[10]  Justice Scalia and Justice O'Connor have stated that they believe Touche Ross effectively overruled the older Cort v. Ash test.[11]
+The controlling strict constructionist test in effect today was set forth by Justice Scalia in Alexander v. Sandoval, 532 U.S. 275 (2001), in which the key issue is whether the text and structure of the statute alone reveal whether Congress intended to create a private right of action.  Under Sandoval, contextual evidence of legislative intent is relevant only insofar as it clarifies the meaning of the text.
+
+State law[edit]
+Even though Cort was effectively overruled, many states still use the first three Cort factors for their general test for determining whether an implied private cause of action exists under a state statute, including Colorado,[12] Connecticut,[13] Hawaii,[14] Iowa,[15] New York,[16] Pennsylvania,[17] Tennessee,[18] West Virginia,[19] and Washington.[20]
+Historically, Texas courts had wandered around in a chaotic fashion between the Cort test and a liberal construction test roughly similar to the old Borak test, but in 2004, the Texas Supreme Court overruled both and adopted the textualist Sandoval test.[21]
+Some states have developed their own tests independently of the Borak, Cort, and Sandoval line of federal cases.  For example, prior to 1988, California courts used a vague liberal construction test, under which any statute "embodying a public policy" was privately enforceable by any injured member of the public for whose benefit the statute was enacted.[22]  This was most unsatisfactory to conservatives on the Supreme Court of California, such as Associate Justice Frank K. Richardson, who articulated a strict constructionist view in a 1979 dissenting opinion.  As Richardson saw it, the Legislature's silence on the issue of whether a cause of action existed to enforce a statute should be interpreted as the Legislature's intent to not create such a cause of action.  
+In November 1986, Chief Justice Rose Bird and two fellow liberal colleagues were ejected from the court by the state's electorate for opposing the death penalty.  Bird's replacement, Chief Justice Malcolm M. Lucas, authored an opinion in 1988 that adopted Richardson's strict constructionist view with regard to the interpretation of the California Insurance Code.[23]  A 2008 decision by the Court of Appeal[24] and a 2010 decision by the Supreme Court itself[25] finally established that Justice Richardson's strict constructionism as adopted by the Lucas court would retroactively apply to all California statutes.  In the 2010 decision in Lu v. Hawaiian Gardens Casino, Justice Ming Chin wrote for a unanimous court that "we begin with the premise that a violation of a state statute does not necessarily give rise to a private cause of action."[25]
+
+Case law[edit]
+Werling v. Sandy (Ohio 1985)
+See also[edit]
+Form of action
+References[edit]
+
+
+^ See generally Sir John Baker, An Introduction to English Legal History (4th ed); S. F. C. Milsom, Historical Foundations of the Common Law (2nd ed).
+
+^ Erwin Chemerinsky, Federal Jurisdiction § 6.3 at 382 (4th ed. 2003).
+
+^ Section 14(a) of the Act is codified at 15 U.S.C. § 78(n)(a).  As implemented by the SEC, it prohibits false or misleading proxy statements.
+
+^ 377 U.S. 426, 433 (1964).
+
+^ 422 U.S. 66, 78 (1975).
+
+^ Chemerinsky, supra, § 6.3 at 384.
+
+^ 441 U.S. 677, 731 (Powell, J., dissenting).
+
+^ See Chemerinsky, supra, § 6.3 at 385; see also Susan Stabile, "The Role of Congressional Intent in Determining the Existence of Implied Private Rights of Action," 71 Notre Dame L. Rev. 861 (1996).
+
+^ Touche Ross & Co. v. Redington, 442 U.S. 560, 576 (1979).
+
+^ 442 U.S. at 578.
+
+^ See their concurring opinions in Thompson v. Thompson, 484 U.S. 174 (1988).
+
+^ Allstate Ins. Co. v. Parfrey, 830 P. 2d 905 (Colo. 1992).
+
+^ Napoletano v. Cigna Healthcare of Connecticut, Inc., 238 Conn. 216 (Conn. 1996).
+
+^ Reliable Collection Agency v. Cole, 59 Haw. 503, 584 P.2d 107 (1978).
+
+^ Seeman v. Liberty Mut. Ins. Co., 322 N.W.2d 35, 37 (Iowa 1982).
+
+^ Burns Jackson Miller Summit & Spitzer v. Lindner, 59 N.Y.2d 314 (1983).
+
+^ Estate of Witthoeft v. Kiskaddon, 733 A. 2d 623 (Pa. 1999).
+
+^ Brown v. Tennessee Title Loans, Inc., 328 S.W.3d 850 (Tenn. 2010).
+
+^ United Steelworkers of America v. Tri-State Greyhound Park, 364 S.E.2d 257 (W. Va. 1987).
+
+^ Bennett v. Hardy, 784 P.2d 1258 (Wash. 1990).
+
+^ Brown v. De La Cruz, 156 S.W.3d 560 (Tex. 2004).
+
+^ Wetherton v. Growers Farm Labor Assn., 275 Cal. App. 2d 168 (1969).
+
+^ Moradi-Shalal v. Fireman's Fund Ins. Companies, 46 Cal. 3d 287 (1988).
+
+^ Animal Legal Defense Fund v. Mendes, 160 Cal. App. 4th 136 (2008).
+
+^ a b Lu v. Hawaiian Gardens Casino, 50 Cal. 4th 592, 601, fn. 6 (2010).
+
+
+Authority control: National libraries 
+Germany
+Japan
+
+
+
+

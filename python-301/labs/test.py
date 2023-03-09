@@ -1,6 +1,11 @@
-class Ingredient:
-    pass
 
-i = Ingredient()
-i.name = "carrot"
-print(name)
+
+class AgeError(Exception):
+
+    pass
+    
+
+age = int(input("Age: "))
+
+if age < 0:
+    raise AgeError(age)

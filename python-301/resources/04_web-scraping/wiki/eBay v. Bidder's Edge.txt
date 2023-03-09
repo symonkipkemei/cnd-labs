@@ -1,0 +1,79 @@
+Leading case
+eBay v. Bidder's EdgeCourtUnited States District Court for the Northern District of CaliforniaDecidedMay 24, 2000Docket nos.99-cv-21200Citation(s)100 F. Supp. 2d 1058Court membershipJudge(s) sittingRonald WhyteKeywordstrespass to chattels
+eBay v. Bidder's Edge, 100 F. Supp. 2d 1058 (N.D. Cal. 2000), was a leading case applying the trespass to chattels doctrine to online activities.  In 2000, eBay, an online auction company, successfully used the 'trespass to chattels' theory to obtain a preliminary injunction preventing Bidder's Edge, an auction data aggregator, from using a 'crawler' to gather data from eBay's website.[1] The opinion was a leading case applying 'trespass to chattels' to online activities, although its analysis has been criticized in more recent jurisprudence.
+
+
+Origins of dispute[edit]
+Bidder's Edge ("BE") was founded in 1997 as an "aggregator" of auction listings.[1]: 1061  Its website provided a database of auction listings that BE automatically collected from various auction sites, including eBay.[1]: 1061  Accordingly, BE's users could easily search auction listings from throughout the web rather than having to go to each individual auction site.[1]: 1061 
+In early 1998, eBay allowed BE to include Beanie Babies and Furby auction listings in BE's database.[1]: 1062  It is unclear whether BE scraped these listings from eBay or linked to them in some other format. However, on April 24, 1999, eBay verbally approved BE automatically "crawling" the eBay web site for a period of 90 days.[1]: 1062 
+During this time, the parties contemplated striking a formal license agreement.[1]: 1062  These negotiations did not conclude successfully because the parties could not agree on technical issues.[1] Subsequently, in early 1999, BE added auction listings from many other sites in its database, including eBay's. Despite the integration of many websites' listings, nearly 69% of the listings in BE's database were from eBay.[1]: 1063 
+eBay wanted BE to access the eBay system only when a BE user queried the BE system.[1]: 1062  Doing so would increase the accuracy/currency of the data BE presented to its users  and impose a lighter load on eBay's network.[1] BE accessed eBay approximately 100,000 times a day, constituting about 1.53% of eBay's total daily requests.[1]: 1063  BE wanted to periodically crawl eBay's entire website to compile its own auction database, which would increase the speed of BE's response to user queries and allow BE to notify its users when eBay auctions changed.[1]: 1063 
+
+Further developments leading to suit[edit]
+Due to the disagreement regarding technical issues, at the end of the 90-day period, eBay notified BE that its activities were no longer permitted, but eBay offered again to license BE's activities. BE did not accept eBay's offer.[1]: 1068 
+In late August or early September 1999, eBay requested by telephone that BE cease posting eBay auction listings on its site.[1]: 1062  BE agreed to do so. In October 1999, BE learned that other auction aggregations sites were including information about eBay auctions.[1]: 1062 
+On November 2, 1999, BE issued a press release indicating that it had resumed including eBay auction listings on its site. On November 9, 1999, eBay sent BE a letter reasserting that BE's activities were unauthorized, insisting that BE cease accessing the eBay site, alleging that BE's activities constituted a trespass of eBay's chattels and offering to license BE's activities.[1]: 1062 
+
+IP address blocking and proxy[edit]
+As a result, eBay attempted to block BE from accessing the eBay site; by the end of November 1999, eBay had blocked a total of 169 IP addresses it believed BE was using to query eBay's system.[1]: 1062  BE continued crawling eBay's site by using proxy servers to evade eBay's IP address blocks. Information requests sent through such servers cannot easily be traced back to the originating IP Address, which allowed Bidder's Edge to evade eBay's attempts to block queries from the originating IP address.[1]: 1061 
+
+Lawsuits[edit]
+eBay sued Bidder's Edge on December 10, 1999, in the Northern District of California federal court.[1]: 1065  eBay moved for a preliminary injunction on the following causes of action:
+
+Trespass to chattels,
+False advertising under the Lanham Act, 15 U.S.C. § 1125(a),
+Trademark dilution,
+violation of the Computer Fraud and Abuse Act, 18 U.S.C. § 1030,
+Unfair competition,
+Misappropriation,
+Interference with prospective economic advantage and
+Unjust enrichment.[1]: 1063 
+BE filed antitrust counterclaims on February 7, 2000.[1]: 1073  The counterclaims charged eBay with monopolization, attempted monopolization, unfair business practices and interference with contractual relations.[1]: 1063  On May 24, 2000, District Court Judge Whyte found that eBay had established a sufficient likelihood of prevailing on the trespass claim to support eBay's requested injunctive relief. Because the court found eBay entitled to the relief requested based on its trespass claim, the court did not address the remaining claims.[1]: 1063  The opinion first addressed the merits of the trespass claim, then BE's arguments regarding copyright preemption of the trespass claim, and finally the public interest.[1]: 1063 
+
+Trespass to chattels[edit]
+The court said that eBay's trespass to chattels claim required it to show that:
+
+Bidder's Edge intentionally and without authorization interfered with eBay's possessory interest in the computer system; and
+Bidder's Edge's unauthorized use proximately resulted in damage to eBay.[1]: 1069–1070 
+eBay argued that BE's use was unauthorized and intentional.[1]: 1061  The court said that eBay had not permitted BE's activity simply by having a website available over the Internet.[1]: 1070  BE had violated eBay's terms of use and ignored eBay's requests to stop using its crawlers.  BE responded that it was not causing eBay irreparable harm because its activity (80,000–100,000 hits per day) represented only a small fraction (approximately 1 ½ percent) of the overall activity on eBay's site. eBay acknowledged that BE's activity was only a relatively slight interference with eBay's servers.[1]: 1071 
+Nevertheless, the court found that although BE's interference was not substantial, "any intermeddling with or use of another's personal property" established BE's possessory interference with eBay's chattel.[1] Further, BE's use of eBay's bandwidth and system resources, even though small, harmed eBay because other companies might follow BE's example: "If the court were to hold otherwise, it would likely encourage other auction aggregators to crawl the eBay site, potentially to the point of denying effective access to eBay's customers.  If preliminary injunctive relief were denied, and other aggregators began to crawl the eBay site, there appears to be little doubt that the load on eBay's computer system would qualify as a substantial impairment of condition or value."[1]: 1072 
+
+Public interest[edit]
+The parties argued that the Internet would cease to function if, according to eBay, personal and intellectual property rights were not respected, or, according to BE, if information published on the Internet could not be universally accessed and used.[1]: 1072  The court suspected that the Internet would not only survive but continue to grow and develop regardless of its ruling.[1]: 1072  The court noted that particularly on the limited record available at the preliminary injunction stage, it was unable to determine whether the general public interest factors favored or opposed a preliminary injunction.[1]: 1072 
+BE also argued that eBay engaged in anticompetitive behavior.[1]: 1072  However, the district court was not obligated to consider the merits of any antitrust counterclaims once it decided that eBay had a likelihood of success on the merits.[1]: 1072 
+
+Order[edit]
+Based on its findings, the court issued a preliminary injunction against BE from "using any automated query program, robot, or similar device to access eBay's computer systems or networks for the purpose of copying any part of eBay's auction database."[1]: 1073 
+
+Subsequent developments and negative history[edit]
+One day after it filed federal antitrust charges against eBay, Bidder's Edge announced it would be acquired by OpenSite, an auction software company. However, the deal fell through when Siebel Systems bought OpenSite.[2]
+eBay and Bidder's Edge settled their legal disputes in March 2001.[3] As part of the settlement, Bidder's Edge paid eBay an undisclosed amount and agreed not to access and re-post eBay's auction information.[4] The settlement also required BE to drop its appeal of the preliminary injunction.[5] Meanwhile, Bidder's Edge shut down its website on February 21, 2001.[6]
+In 2003, the California Supreme Court implicitly overruled the eBay v. Bidder's Edge opinion in Intel v. Hamidi, a case interpreting California's common law trespass to chattels.
+The Hamidi court considered the eBay court analysis, which stated that if BE's activity were allowed to continue unchecked, it would encourage other auction aggregators to engage in similar searching which would cause eBay irreparable harm. In analyzing this point, the Hamidi court stated,"[W]e do not read [eBay decision] as expressing the court's complete view of the issue. In isolation, moreover, [it] would not be a correct statement of California or general American law on this point." As a result, the opinion may be or may no longer be valid precedent.
+Further, since eBay was issued, some courts have become more circumspect about the "slippery slope" argument that eBay successfully made about additional crawlers following BE's lead. For example, in White Buffalo Ventures LLC v. University of Texas at Austin, the Fifth Circuit said "Since the spider does not cause physical injury to the chattel, there must be some evidence that the use or utility of the computer (or computer network) being 'spiderized' is adversely affected by the use of the spider. No such evidence is presented here. This court respectfully disagrees with other district courts' finding that mere use of a spider to enter a publicly available web site to gather information, without more, is sufficient to fulfill the harm requirement for trespass to chattels."[7]
+
+References[edit]
+
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah ai aj ak eBay v. Bidder's Edge, 100 F. Supp. 2d 1058 (N.D. Cal. 2000).
+
+^ "Bidder's Edge pushes Web site over cliff". CNET. CBS Interactive. Retrieved June 20, 2015.
+
+^ "eBay, Bidder's Edge end legal dispute". CNET. CBS Interactive. Retrieved June 20, 2015.
+
+^ "The Recorder". law.com. Retrieved June 20, 2015.
+
+^ "EBay, Bidder's Edge Settle Suits on Web Access". latimes. Retrieved June 20, 2015.
+
+^ Ina Steiner (February 16, 2001). "Bidder's Edge Shuts Its Doors". EcommerceBytes.com. Retrieved June 20, 2015.
+
+^ White Buffalo Ventures, LLC v. University of Texas, 420 F.3d 366 (5th Cir. 2005).
+
+
+External links[edit]
+Text of  is available from: CourtListener  Google Scholar  Justia 
+Intel v. Hamidi
+Ticketmaster L.L.C. v. RMG Technologies, Inc.
+
+
+

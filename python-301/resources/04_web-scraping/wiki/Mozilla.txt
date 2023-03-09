@@ -1,0 +1,714 @@
+Free and open-source software community, developer of Firefox and Thunderbird
+See also: Mozilla Foundation and Mozilla Corporation
+This article is about the Mozilla community. For the program of the same name, see Mozilla Application Suite. For the mascot used by Netscape and the Mozilla community, see Mozilla (mascot).
+Not to be confused with Firefox.
+
+
+MozillaIndustryFree softwareFoundedMarch 31, 1998; 24 years ago (1998-03-31)FounderNetscape Communications CorporationHeadquartersSan FranciscoProductsFirefoxDivisionsMozilla CorporationMozilla FoundationWebsitemozilla.org
+ Zilla Slab, Mozilla's typeface since 2017
+Mozilla (stylized as moz://a) is a free software community founded in 1998 by members of Netscape. The Mozilla community uses, develops, spreads and supports Mozilla products, thereby promoting exclusively free software and open standards, with only minor exceptions.[1] The community is supported institutionally by the non-profit Mozilla Foundation and its tax-paying subsidiary, the Mozilla Corporation.[2]
+Mozilla's current products include the Firefox web browser, Thunderbird e-mail client (now through a subsidiary), Bugzilla bug tracking system, Gecko layout engine, Pocket "read-it-later-online" service, and others.[3]
+
+
+History[edit]
+ Mitchell Baker telling the early history of Mozilla
+On January 23, 1998, Netscape made two announcements. First, that Netscape Communicator would be free; second, that the source code would also be free.[4] One day later, Jamie Zawinski from Netscape registered mozilla.org.[5] The project took its name "Mozilla", after the original code name of the Netscape Navigator browser—a portmanteau of "Mosaic and Godzilla",[6] and used to coordinate the development of the Mozilla Application Suite, the free software version of Netscape's internet software, Netscape Communicator.[7][8] Jamie Zawinski says he came up with the name "Mozilla" at a Netscape staff meeting.[9] A small group of Netscape employees were tasked with coordination of the new community.
+
+ Mozilla's former symbol, as designed by Shepard Fairey in 1998
+Originally, Mozilla aimed to be a technology provider for companies such as Netscape, who would commercialize their free software code.[10] When AOL (Netscape's parent company) greatly reduced its involvement with Mozilla in July 2003, the Mozilla Foundation was designated the legal steward of the project.[11] Soon after, Mozilla deprecated the Mozilla Suite in favor of creating independent applications for each function, primarily the Firefox web browser and the Thunderbird email client, and moved to supply them directly to the public.[12]
+Mozilla's activities have since expanded to include Firefox on mobile platforms (primarily Android),[13] a mobile OS called Firefox OS (since cancelled),[14] a web-based identity system called Mozilla Persona and a marketplace for HTML5 applications.[15]
+In a report released in November 2012, Mozilla reported that their total revenue for 2011 was $163 million, which was up 33% from $123 million in 2010. Mozilla noted that roughly 85% of their revenue comes from their contract with Google.[16]
+At the end of 2013, Mozilla announced a deal with Cisco Systems, whereby Firefox would download and use a Cisco-provided binary build of an open-source[17] codec to play the proprietary H.264 video format.[18][19] As part of the deal, Cisco would pay any patent licensing fees associated with the binaries that it distributes. Mozilla's CTO, Brendan Eich, acknowledged that this is "not a complete solution" and isn't "perfect".[20] An employee in Mozilla's video formats team, writing in an unofficial capacity, justified[21] it by the need to maintain their large user base, which would be necessary for future battles for truly free video formats.
+In December 2013, Mozilla announced funding for the development of paid games[22] through its Game Creator Challenge. However, even those games that may be released under a non-free software or free software license must be made with open web technologies and Javascript as per the work criteria outlined in the announcement.
+In January 2017 the company rebranded away from its dinosaur symbol in favor of a logo that includes a "://" character sequence from a URL, with the revamped logo: "moz://a".[23]
+In 2020 Mozilla announced it would be cutting off 25% of its worldwide staff of nearly 1,000 to reduce costs; at United States Federal minimum wage full-time, this would reduce costs by $3.8m, while at an average pay of $50k/year this would represent a $12.5M cost reduction. Firefox has fallen from 30% market share to 4% in 10 years. Despite this, executive pay increased 400%, with Mitchell Baker, Mozilla’s top executive, being paid $2.4m in 2018.[24] In December 2020, Mozilla closed its Mountain View office.[25]
+
+Values[edit]
+This section may rely excessively on sources too closely associated with the subject, potentially preventing the article from being verifiable and neutral. Please help improve it by replacing them with more appropriate citations to reliable, independent, third-party sources. (November 2021) (Learn how and when to remove this template message)
+Mozilla Manifesto[edit]
+Main article: Mozilla Manifesto
+The Mozilla Manifesto outlines Mozilla's goals and principles.[26] It asserts Mozilla's commitment to the internet, saying: "The open, global internet is the most powerful communication and collaboration resource we have ever seen. It embodies some of our deepest hopes for human progress." It then outlines what Mozilla sees as its place in the development of the internet, stating "The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities". And finally, it lays out their ten principles:
+
+The internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment, and society as a whole.
+The internet is a global public resource that must remain open and accessible.
+The internet must enrich the lives of individual human beings.
+Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.
+Individuals must have the ability to shape the internet and their own experiences on it.
+The effectiveness of the internet as a public resource depends upon interoperability (protocols, data formats, content), innovation, and decentralized participation worldwide.
+Free and open source software promotes the development of the internet as a public resource.
+Transparent community-based processes promote participation, accountability, and trust.
+Commercial involvement in the development of the internet brings many benefits; a balance between commercial profit and public benefit is critical.
+Magnifying the public benefit aspects of the internet is an important goal, worthy of time, attention, and commitment.
+Pledge[edit]
+According to the Mozilla Foundation:[27]
+
+The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
+Build and enable open-source technologies and communities that support the Manifesto’s principles;
+Build and deliver great consumer products that support the Manifesto’s principles;
+Use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
+Promote models for creating economic value for the public benefit; and
+Promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
+
+Software[edit]
+Firefox[edit]
+ The revamped Firefox logo
+Firefox is a family of software products developed by Mozilla, with the Firefox browser as the flagship product.[28][29]
+
+Firefox browser[edit]
+Main article: Firefox
+Firefox browser, or simply Firefox, is a web browser and Mozilla's flagship software product. It is available in both desktop and mobile versions. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards.[30] As of late 2015[update], Firefox had approximately 10-11% of worldwide usage share of web browsers, making it the 4th most-used web browser.[31][32][33]
+Firefox began as an experimental branch of the Mozilla codebase by Dave Hyatt, Joe Hewitt and Blake Ross. They believed the commercial requirements of Netscape's sponsorship and developer-driven feature creep compromised the utility of the Mozilla browser.[34] To combat what they saw as the Mozilla Suite's software bloat, they created a stand-alone browser, with which they intended to replace the Mozilla Suite.
+Firefox was originally named Phoenix but the name was changed so as to avoid trademark conflicts with Phoenix Technologies. The initially-announced replacement, Firebird, provoked objections from the Firebird project community.[35][36] The current name, Firefox, was chosen on February 9, 2004.[37]
+It was previously announced that Mozilla is going to launch a premium version of the Firefox browser by October 2019. The company's CEO, Chris Beard, has been quoted by The Next Web to say that "there is no plan to charge money for things that are now free. So we will roll out a subscription service and offer a premium level."[38] In September, Mozilla revealed their new offering, Firefox Premium Support, priced at $10 per installation.[39] However, shortly after news broke of the service, Mozilla removed information about the service from the website. Computerworld reported that in an email statement, Mozilla claimed "the page outlining that these paid support services for enterprise clients will be available was posted incorrectly."[40]
+
+Firefox for mobile[edit]
+Main articles: Firefox for Android and Firefox for iOS
+Firefox for mobile (codenamed Fennec) is the build of the Mozilla Firefox web browser for mobile devices such as smartphones and tablet computers. Initially available on multiple platforms, it is now available in two versions: Firefox for Android and Firefox for iOS. Firefox for Android runs on the Android mobile operating system and uses the same Gecko layout engine as Mozilla Firefox; for example, version 1.0 used the same engine as Firefox 3.6, and the following release, 4.0, shared core code with Firefox 4.0. Firefox for iOS, which runs on the iOS mobile operating system, does not use the Gecko Layout Engine because of Apple's policy that all iOS apps that browse the web must use the built-in iOS WebKit rendering engine.[41][42] Both version include features like HTML5 support, Firefox Sync, private browsing, web tracking protection, and tabbed browsing, and Firefox for Android also includes support for add-ons.[43]
+
+Firefox Focus[edit]
+Main article: Firefox Focus
+Firefox Focus is a free and open-source privacy-focused mobile browser for Android and iOS.[44] Initially released in 2015 as only a tracker-blocking application for iOS, it has since been developed into a full mobile browser for both iOS and Android.[45]
+
+Firefox Lockwise[edit]
+Main article: Firefox Lockwise
+Firefox Lockwise was a password manager offered by Mozilla.[46] On desktop, it was a built-in feature of the Firefox browser. On mobile, it was offered as a standalone app that can be set as the device's default password manager.
+
+Firefox Monitor[edit]
+Main article: Firefox Monitor
+Firefox Monitor is an online service that informs users if their email address and passwords have been leaked in data breaches.[47]
+
+Firefox Send[edit]
+Main article: Firefox Send
+Firefox Send was an online encrypted file-transfer service offered by Mozilla.[48] In September 2020, Mozilla announced that Firefox Send will be decommissioned and will no longer be part of the product lineup.[49]
+
+Mozilla VPN[edit]
+Main article: Mozilla VPN
+Mozilla VPN, formerly Firefox Private Network, is a subscription-based VPN and a free privacy extension.[50][51]
+
+Firefox Private Relay[edit]
+Firefox Private Relay provides users with disposable email addresses that can be used to combat spam (by hiding the user's real email address) and manage email subscriptions by categorizing them based on the party a particular address was given to.[52]
+
+Firefox Reality[edit]
+In September 2018, Mozilla announced that its VR version was ready for consumers to download. Called Firefox Reality, the browser was built entirely for virtual reality. It is currently available on the Oculus.[53]
+In January 2019, HTC also announced its partnership with Mozilla. Under the partnership, the Firefox Reality web browser has been made available on the Vive headsets.[54]
+In February 2022 Mozilla announced that Igalia took over stewardship of this project under the new name of Wolvic. [55]
+
+Firefox OS[edit]
+Main article: Firefox OS
+Firefox OS (project name: Boot to Gecko also known as B2G) is a free software operating system that was developed by Mozilla to support HTML5 apps written using "open Web" technologies rather than platform-specific native APIs. The concept behind Firefox OS is that all user-accessible software will be HTML5 applications, that use Open Web APIs to access the phone's hardware directly via JavaScript.[56]
+Some devices using this OS include[57] Alcatel One Touch Fire, ZTE Open, and LG Fireweb. Mozilla announced the end of Firefox OS development in December 2015.
+A fork of B2G, KaiOS, has continued development and ships with numerous low-cost devices.
+
+Pocket[edit]
+Main article: Pocket (service)
+ The Pocket app logo
+Pocket is a mobile application and web service for managing a reading list of articles from the Internet. It was announced that it would be acquired by the Mozilla Corporation, the commercial arm of Mozilla's non-profit development group, on February 27, 2017.[58] Originally designed only for desktop browsers,[59] it is now available for macOS, Windows, iOS, Android, Windows Phone, BlackBerry, Kobo eReaders, and web browsers.[60]
+
+Thunderbird[edit]
+Main article: Mozilla Thunderbird
+Thunderbird is a free software, cross-platform email and news client developed by the volunteers of the Mozilla Community.
+On July 16, 2012, Mitchell Baker announced that Mozilla's leadership had come to the conclusion that ongoing stability was the most important thing for Thunderbird and that innovation in Thunderbird was no longer a priority for Mozilla. In that update, Baker also suggested that Mozilla had provided a pathway for its community to innovate around Thunderbird if the community chooses.[61]
+
+SeaMonkey[edit]
+Main article: SeaMonkey
+ SeaMonkey logo
+SeaMonkey (formerly the Mozilla Application Suite) is a free and open-source cross-platform suite of Internet software components including a web browser component, a client for sending and receiving email and Usenet newsgroup messages, an HTML editor (Mozilla Composer) and the ChatZilla IRC client.
+On March 10, 2005, the Mozilla Foundation announced that it would not release any official versions of Mozilla Application Suite beyond 1.7.x, since it had now focused on the stand-alone applications Firefox and Thunderbird.[62] SeaMonkey is now maintained by the SeaMonkey Council, which has trademarked the SeaMonkey name with help from the Mozilla Foundation.[63] The Mozilla Foundation provides project hosting for the SeaMonkey developers.
+
+
+Bugzilla[edit]
+Main article: Bugzilla
+ Bugzilla logo
+Bugzilla is a web-based general-purpose bug tracking system, which was released as free software by Netscape Communications in 1998 along with the rest of the Mozilla codebase, and is currently stewarded by Mozilla. It has been adopted by a variety of organizations for use as a bug tracking system for both free and open-source software and proprietary projects and products, including the Mozilla Foundation, the Linux kernel, KDE, Red Hat, Eclipse and LibreOffice.[64]
+
+WebThings[edit]
+WebThings is a framework that allowed management of IoT devices through a single framework, gateway and UI.[65][66][67] It was based on W3C Web of Things standard. As of 2020, it is no longer affiliated with Mozilla.[68] It was spinner of as independent project during 2020 layoff of 250 employees. It was known as Project Things and allowed users to use a raspberry pi as a gateway for IoT management with decentralized software.
+
+Components[edit]
+NSS[edit]
+Main article: Network Security Services
+Network Security Services (NSS) comprises a set of libraries designed to support cross-platform development of security-enabled client and server applications. NSS provides a complete free software implementation of crypto libraries supporting SSL and S/MIME. NSS is licensed under the GPL-compatible Mozilla Public License 2.0.
+AOL, Red Hat, Sun Microsystems/Oracle Corporation, Google and other companies and individual contributors have co-developed NSS and it is used in a wide range of non-Mozilla products including Evolution, Pidgin, and LibreOffice.
+
+SpiderMonkey[edit]
+Main article: SpiderMonkey (JavaScript engine)
+SpiderMonkey is the original JavaScript engine developed by Brendan Eich when he invented JavaScript in 1995 as a developer at Netscape. It became part of the Mozilla product family when Mozilla inherited Netscape's code-base in 1998. In 2011, Eich transferred the nominal ownership of the SpiderMonkey code and project to Dave Mandelin.[69]
+SpiderMonkey is a cross-platform engine written in C++ which implements ECMAScript, a standard developed from JavaScript.[69][70] It comprises an interpreter, several just-in-time compilers, a decompiler and a garbage collector. Products which embed SpiderMonkey include Firefox, Thunderbird, SeaMonkey, and many non-Mozilla applications.[71]
+
+Rhino[edit]
+Main article: Rhino (JavaScript engine)
+Rhino is a free software JavaScript engine managed by the Mozilla Foundation. It is developed entirely in Java. Rhino converts JavaScript scripts into Java classes. Rhino works in both compiled and interpreted mode.[72]
+
+Gecko[edit]
+Main article: Gecko (software)
+Gecko is a layout engine that supports web pages written using HTML, SVG, and MathML. Gecko is written in C++ and uses NSPR for platform independence. Its source code is licensed under the Mozilla Public License.
+Firefox uses Gecko both for rendering web pages and for rendering its user interface. Gecko is also used by Thunderbird, SeaMonkey, and many non-Mozilla applications.
+
+Rust[edit]
+Main article: Rust (programming language)
+Rust is a compiled programming language being developed by Mozilla Research. It is designed for safety, concurrency, and performance. Rust is intended for creating large and complex software which needs to be both safe against exploits and fast.
+Rust is being used in an experimental layout engine, Servo, which was developed by Mozilla and Samsung. Servo is not used in any consumer-oriented browsers yet. However, the Servo project developers plan for parts of the Servo source code to be merged into Gecko, and Firefox, incrementally.[73][74]
+
+XULRunner[edit]
+Main article: XULRunner
+XULRunner is a software platform and technology experiment by Mozilla, that allows applications built with the same technologies used by Firefox extensions (XPCOM, Javascript, HTML, CSS, XUL) to be run natively as desktop applications, without requiring Firefox to be installed on the user's machine. XULRunner binaries are available for the Windows, Linux and OS X operating systems, allowing such applications to be effectively cross-platform.
+
+pdf.js[edit]
+Main article: pdf.js
+Pdf.js is a library developed by Mozilla that allows in-browser rendering of pdf documents using HTML5 Canvas and JavaScript. It is included by default in Firefox, allowing the browser to render pdf documents without requiring an external plugin; and it is available separately as an extension named "PDF Viewer" for Firefox for Android, SeaMonkey, and the Firefox versions which don't include it built-in. It can also be included as part of a website's scripts, to allow pdf rendering for any browser that implements the required HTML5 features and can run JavaScript.
+
+Shumway[edit]
+Main article: Shumway (software)
+Shumway is a free software replacement for the Adobe Flash Player, developed by Mozilla since 2012, using open web technologies as a replacement for Flash technologies. It uses Javascript and HTML5 Canvas elements to render Flash and execute Actionscript. It is included by default in Firefox Nightly and can be installed as an extension for any recent version of Firefox. The current implementation is limited in its capabilities to render Flash content outside simple projects.
+
+Servo[edit]
+Main article: Servo (software)
+Servo is a browser engine being developed for application and embedded use.[75] In August 2020, during the COVID-19 pandemic, due to lack of funds and organization restructuring, Mozilla laid off most of the Servo development team. After the team was disbanded, Servo became part of the Linux Foundation, where development currently continues.
+
+SOPS: Secrets OPerationS[edit]
+sops[76] is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
+
+WebXR Viewer[edit]
+WebXR Viewer is an AR viewer that lets a developer create and run AR experiences built with web technologies and ARKit.[77]
+
+Other activities[edit]
+ Mozilla engages in social outreach about user rights on the Internet. This 2019 Internet Health Report is their guide to their understanding of the state of the Internet.
+Mozilla VR[edit]
+Mozilla VR is a team focused on bringing virtual reality (VR) tools, specifications, and standards to the open Web.[78] Mozilla VR maintains A-Frame (VR), a web framework for building VR experiences, and works on advancing WebVR support within web browsers.
+On April 26, 2018, the first experiment from their Social Mixed Reality efforts was released; Hubs, a multi-user virtual space in WebVR.[79]
+
+Mozilla Persona[edit]
+Main article: Mozilla Persona
+Mozilla Persona was a secure, cross-browser website authentication mechanism which allowed a user to use a single username and password (or other authentication method) to log into multiple sites.[80] Mozilla Persona shut down on November 30, 2016.[81]
+
+Mozilla Location Service[edit]
+Main article: Mozilla Location Service
+This free software crowdsourced geolocation service was started by Mozilla in 2013 and offers a free API.
+
+Webmaker[edit]
+Mozilla Webmaker is Mozilla's educational initiative, and Webmaker's goal is to "help millions of people move from using the web to making the web." As part of Mozilla's non-profit mission, Webmaker aims "to help the world increase their understanding of the web, take greater control of their online lives, and create a more web literate planet."[82][83]
+
+MDN Web Docs[edit]
+Main article: MDN Web Docs
+Mozilla maintains a comprehensive developer documentation website called the MDN Web Docs which contains information about web technologies including HTML, CSS, SVG, JavaScript, as well as Mozilla-specific information. In addition, Mozilla publishes a large number of videos about web technologies and the development of Mozilla projects on the Air Mozilla website.[84][85] This was renamed to MDN Plus.
+
+Common Voice[edit]
+Main article: Common Voice
+In July 2017, Mozilla launched the project Common Voice to help make voice recognition open to everyone.[86] Visitors to the website can donate their voice to help build a free software voice recognition engine that anyone can use to make apps for devices and the web that make use of voice recognition. The website allows visitors to read a sentence to help the machine system learn how real people speak, as well as validate the read sentences of other people.
+Mozilla publishes Common Voice data sets under a CC-0 license.[87]
+
+IRL – Online Life Is Real Life[edit]
+On June 26, 2017, Mozilla launched IRL – Online Life Is Real Life to explore popular stories from the web that deal with issues of the internet that affect society as a whole.[88]
+
+Controversies[edit]
+Eich CEO promotion[edit]
+In 2008, Brendan Eich donated US$1,000 in support of California's Proposition 8,[89] a California ballot proposition and state constitutional amendment in opposition to same-sex marriage.[90] Eich's donation eventually became public knowledge in 2012, while he was Mozilla's chief technical officer, leading to angry responses on Twitter—including the use of the hashtag "#wontworkwithbigots".[91]
+Controversy later re-emerged in 2014, following the announcement of Eich's appointment as CEO of Mozilla. U.S. companies OkCupid and CREDO Mobile notably objected to his appointment, with the former asking its users to boycott the browser,[92] while Credo amassed 50,000 signatures for a petition that called for Eich's resignation.
+Due to the controversy, Eich voluntarily stepped down on April 3, 2014,[93] and Mitchell Baker, executive chairwoman of Mozilla Corporation, posted a statement on the Mozilla blog: "We didn't move fast enough to engage with people once the controversy started. Mozilla believes both in equality and freedom of speech. Equality is necessary for meaningful speech. And you need free speech to fight for equality."[94]
+
+Push Notifications for Mozilla Blog without user consent[edit]
+In July 2020 Mozilla forced push notifications, an advertisement for its own blog post about Facebook[95] and Mozilla's #StopHateForProfit campaign. These notifications were sent without user consent[96] and faced a backlash by Firefox users.
+
+Mozilla and Meta (Facebook) partnership[edit]
+In February 2022, Mozilla and Meta partnered to propose a privacy-preserving advertising technology.[97] This faced a backlash on the internet because Mozilla partnered with the same company they were running a campaign against 2 years ago and given Meta's reputation, Mozilla was criticized for collaborating with them.[98]
+
+Community[edit]
+The Mozilla Community consists of over 40,000 active contributors from across the globe[citation needed]. It includes both paid employees and volunteers who work towards the goals set forth[26] in the Mozilla Manifesto. Many of the sub-communities in Mozilla have formed around localization efforts for Mozilla Firefox, and the Mozilla web properties.
+
+Local communities[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2019) (Learn how and when to remove this template message)
+ Mozilla spaces, London
+There are a number of sub-communities that exist based on their geographical locations, where contributors near each other work together on particular activities, such as localization, marketing, PR, and user support.
+In 2017, Mozilla created a Wireless Innovation for Network Security (WINS)[99] challenge that awarded a total of $2 million in prize money to innovators who used its decentralized design to create wireless solutions for post-natural disaster internet access.[citation needed] This challenge also envisioned connecting communities that lacked internet access.
+
+Mozilla Reps[edit]
+ Mozilla Reps logo
+The Mozilla Reps program is a volunteer-based program, which allows volunteers to become official representatives of Mozilla. Volunteers are required to be 18 years or older in order to participate in the program.[100] Activities under the program include recruitment for contributors, workshops, and attending Mozilla summits.
+
+Conferences and events[edit]
+Mozilla Festival[edit]
+ Speakers from the Knight Foundation discuss the future of news at the 2011 Mozilla Festival in London.
+The Mozilla Festival (MozFest) is a unique hybrid: part art, tech, and society convening, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world. Journalists, coders, filmmakers, designers, educators, gamers, makers, youth, and anyone else, from all over the world, are encouraged to attend, with nearly 10,000 participating virtually in 2021 from more than 87 countries, working together at the intersection of human rights, climate justice, and technology, specifically trustworthy artificial intelligence.
+The event revolves around key issues based on the chosen theme for that year's festival. MozFest unfolds over the span of two weeks, with more than 500 interactive sessions, films, talks, round-tables, hack-a-thons, exhibits, and socials. Topics range from privacy best practices, developing solutions to online misinformation and harassment, building free software tools, supporting Trustworthy AI innovations, and more.[101] The titles of the festival revolve around the main theme, freedom, and the Web.
+
+MozCamps[edit]
+MozCamps are multi-day gatherings aimed at growing the contributor network by providing lectures, workshops, and breakout sessions led by Mozilla staff and volunteers. While these camps have been held in multiple locations globally in the past, none have occurred since 2014.[102]
+
+Mozilla Summit[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2019) (Learn how and when to remove this template message)
+Mozilla Summit was a global event with active contributors and Mozilla employees who collaborated to develop a shared understanding of Mozilla's mission together. Over 2,000 people representing 90 countries and 114 languages gathered in Santa Clara, Toronto, and Brussels in 2013. Mozilla had its last Summit in 2013 and replaced them with smaller all-hands where both employees and volunteers come together to collaborate.
+
+See also[edit]
+-zilla
+Mozilla (mascot)
+The Book of Mozilla
+Timeline of web browsers
+W3C
+References[edit]
+
+
+^ For exceptions, see "Values" section below.
+
+^ "About the Mozilla Corporation". Mozilla Foundation.
+
+^ "Mozilla Acquires Pocket – The Mozilla Blog". The Mozilla Blog. Retrieved June 26, 2018.
+
+^ "Freeing the Source: The Story of Mozilla". Open Sources: Voices from the Open Source Revolution. March 29, 1999. Retrieved May 1, 2016.
+
+^ "Mozilla.org WHOIS, DNS, & Domain Info". DomainTools. Retrieved May 1, 2016.
+
+^ Payment, S. (2007). Marc Andreessen and Jim Clark: The Founders of Netscape. Rosen Publishing Group. ISBN 978-1-4042-0719-6.
+
+^ "Netscape Announces mozilla.org, a Dedicated Team and Web Site Supporting Development of Free Client Source Code". Netscape. Archived from the original on October 4, 2002. Retrieved August 21, 2012.
+
+^ "Mac vendors ponder Netscape gambit". Macworld. May 1, 1998. Retrieved August 19, 2012.[dead link]
+
+^ "Firefox | Internet browser". Encyclopedia Britannica. Retrieved March 18, 2021.
+
+^ "Introduction to Mozilla Source Code". Mozilla. Retrieved August 18, 2012. However, mozilla.org wants to emphasize that these milestones are being produced for testing purposes only.
+
+^ "mozilla.org Announces Launch of the Mozilla Foundation to Lead Open-Source Browser Efforts". Retrieved August 18, 2012.
+
+^ Eich, Brendan; Hyatt, David (April 2, 2003). "mozilla development roadmap". Mozilla. Retrieved August 2, 2009.
+
+^ "Better Browsing on Your Android Smartphone". AllThingsD. Retrieved August 18, 2012.
+
+^ "Mozilla Releases Test Version of Firefox OS". PC Magazine. Retrieved August 18, 2012.
+
+^ "Mozilla Marketplace is live, lets you run web apps like desktop programs". Engadget. Retrieved August 18, 2012.
+
+^ Lardinois, Frederic (November 15, 2012). "Mozilla Releases Annual Report For 2011: Revenue Up 33% To $163M, Majority From Google". techcrunch.com.
+
+^ "cisco/openh264 · GitHub". github.com. Retrieved April 5, 2014.
+
+^ "Mozilla will add H.264 to Firefox as Cisco makes eleventh-hour push for WebRTC's future — Tech News and Analysis". gigaom.com. October 30, 2013. Retrieved April 5, 2014.
+
+^ "Cisco to release open-source H.264 codec, Mozilla makes tactical retreat – TechRepublic". techrepublic.com. October 31, 2013. Retrieved April 5, 2014.
+
+^ "Video Interoperability on the Web Gets a Boost From Cisco's H.264 Codec". Of course, this is not a complete solution. In a perfect world, codecs, like other basic Internet technologies such as TCP/IP, HTTP, and HTML, would be fully open and free
+
+^ "Comments on Cisco, Mozilla, and H.264". Archived from the original on May 19, 2015. Retrieved December 6, 2013. By endorsing Cisco's plan, there's no getting around the fact that we've caved on our principles. That said, principles can't replace being in a practical position to make a difference in the future. - Christopher Montgomery wrote in a personal capacity but works for Mozilla in their codecs team
+
+^ "Game Creator Challenge -Contest Terms and Conditions". - submissions to the "amateur" category have to be released as free software, but not for the other two categories
+
+^ Loterina, Chris (January 19, 2017). "Mozilla Rebrands Itself With A New Logo: No Dinosaurs Involved". Retrieved June 26, 2018.
+
+^ "Mozilla Firefox Usage Down 85% but why are Exec's Salary Up 400%?". iTDM. September 23, 2020. Retrieved September 24, 2020.
+
+^ "Mozilla moves out of Mountain View". SFChronicle.com. December 9, 2020. Retrieved December 10, 2020.
+
+^ a b "Mozilla Manifesto". Mozilla. Archived from the original on July 7, 2020. Retrieved July 11, 2020.
+
+^ "Mozilla Manifesto". Mozilla. Archived from the original on June 24, 2020. Retrieved July 11, 2020.
+
+^ Murray, Tim (June 11, 2019). "Firefox: The Evolution Of A Brand". Mozilla Open Design. Mozilla.
+
+^ "Firefox". Firefox. Mozilla. Archived from the original on May 27, 2020.
+
+^ "Gecko Layout Engine". download-firefox.org. July 17, 2008. Archived from the original on November 28, 2010. Retrieved May 10, 2012.
+
+^ "Web Browser Market Share Trends". W3Counter. Awio Web Services LLC. Retrieved May 10, 2012.
+
+^ "Top 5 Browsers". StatCounter Global Stats. StatCounter. Retrieved May 10, 2012.
+
+^ "Web browsers (Global marketshare)". Clicky. Roxr Software Ltd. Retrieved May 10, 2012.
+
+^ Goodger, Ben (February 6, 2006). "Where Did Firefox Come From?". Inside Firefox. Archived from the original on June 23, 2011. Retrieved January 7, 2012.
+
+^ "Mozilla browser becomes Firebird". IBPhoenix. Archived from the original on September 14, 2007. Retrieved June 10, 2013. We at IBPhoenix think that having a browser and a database with the same name in the same space will confuse the market, especially as browsers and databases are often used in the same applications
+
+^ Festa, Paul (May 6, 2003). "Mozilla's Firebird gets wings clipped". CNET. Retrieved January 30, 2007.
+
+^ Festa, Paul (February 9, 2004). "Mozilla holds 'fire' in naming fight". CNET News. Retrieved January 24, 2007.
+
+^ Mehta, Ivan (June 10, 2019). "Mozilla will launch a paid version of Firefox this fall (Updated)". The Next Web. Retrieved October 3, 2019.
+
+^ "Firefox Premium for Enterprises is now available - gHacks Tech News". gHacks Technology News. September 12, 2019. Retrieved May 6, 2022.
+
+^ Keizer, Gregg (September 17, 2019). "Mozilla first reveals, then conceals, paid support plan for Firefox". Computerworld. Retrieved May 6, 2022.
+
+^ "Firefox for iOS". MDN web docs. Mozilla.
+
+^ Apple. "App Store Review Guidelines". Retrieved August 8, 2015.
+
+^ "Mobile features". Mozilla. Retrieved June 26, 2012.
+
+^ Fingas, Jon (November 17, 2016). "Firefox Focus brings easy private browsing to your iPhone". Engadget. Verizon Media.
+
+^ Ellis, Cat (June 20, 2017). "Firefox Focus private browser arrives on Android". techradar.
+
+^ Ellis, Cat (June 4, 2019). "Mozilla launches new desktop password manager, Firefox Lockwise". techradar.
+
+^ Shankland, Stephen (September 25, 2018). "Firefox Monitor shows if your personal information was lost in a hack". CNET.
+
+^ Perez, Sarah (March 12, 2019). "Mozilla launches its free, encrypted file-sharing service, Firefox Send". TechCrunch.
+
+^ Cimpanu, Catalin. "Mozilla shuts down Firefox Send and Firefox Notes services". ZDNet. Retrieved September 23, 2020.
+
+^ Porter, Jon (July 15, 2020). "Mozilla's VPN launches out of beta on Windows and Android". The Verge. Retrieved July 15, 2020.
+
+^ Lardinois, Frederic (December 3, 2019). "Mozilla launches the next phase of its Firefox Private Network VPN beta". TechCrunch.
+
+^ "Firefox Private Relay is Mozilla's latest experimental service - gHacks Tech NewsFirefox Private Relay is a new experimental service by Firefox maker Mozilla; the (currently) invite-only service is designed to reduce unwanted emails and spam by acting as a proxy email service of sorts". Ghacks Technology News. May 2020. Retrieved May 2, 2020.
+
+^ Lucas Matney, The Verge. "Mozilla's Firefox Reality web browser is now available." September 18, 2018. Retrieved January 8, 2018.
+
+^ Nick Statt, The Verge. "HTC partners with Mozilla to bring Firefox’s virtual reality web browser to the Vive headset." January 7, 2018. Retrieved January 8, 2018.
+
+^ "Update on Firefox Reality". Retrieved December 22, 2022.
+
+^ "Boot to Gecko Project". Mozilla. March 2012. Retrieved March 30, 2012.
+
+^ "Firefox OS – Devices & Availability". Mozilla. Retrieved December 30, 2015.
+
+^ Newton, Casey (February 27, 2017). "Mozilla acquires Pocket to gain a foothold on mobile devices". The Verge. Vox Media. Retrieved February 27, 2017.
+
+^ Nagappan, Ramu (June 11, 2010). "Read It Later app now available for iPad". Macworld. Retrieved December 4, 2011.
+
+^ "Pocket Operating System Compatibility". getpocket.com. Retrieved July 30, 2013.
+
+^ "Thunderbird: Stability and Community Innovation | Mitchell's Blog". blog.lizardwrangler.com. Retrieved April 20, 2015.
+
+^ "Two discontinued browsers". LWN.net. December 21, 2005. Retrieved August 19, 2012.
+
+^ "SeaMonkey trademarks registered!". kairo.at. May 22, 2007. Retrieved June 10, 2013.
+
+^ "Bugzilla Installation List". Retrieved September 18, 2014.
+
+^ "WebThings". webthings.io. Retrieved September 19, 2022.
+
+^ Wiggers, Kyle (July 25, 2019). "Mozilla debuts implementation of WebThings Gateway open source router firmware". VentureBeat. Retrieved September 19, 2022.
+
+^ Stark, Erich; Schindler, Frank; Kučera, Erik; Haffner, Oto; Kozáková, Alena (January 2020). "Adapter Implementation into Mozilla WebThings IoT Platform Using JavaScript". 2020 Cybernetics & Informatics (K&I): 1–7. doi:10.1109/KI48306.2020.9039885. ISBN 978-1-7281-4381-1. S2CID 214594539.
+
+^ Sawers, Paul (September 21, 2020). "Mozilla spins out WebThings as an independent IoT project". VentureBeat. Retrieved September 19, 2022.
+
+^ a b Eich, Brendan (June 21, 2011). "New JavaScript Engine Module Owner". BrendanEich.com.
+
+^ "Bug 759422 – Remove use of e4x in account creation". Bugzilla@Mozilla. August 17, 2012. Retrieved August 18, 2012.
+
+^ "SpiderMonkey". Mozilla Developer Network. August 15, 2012. Archived from the original on August 27, 2013. Retrieved August 18, 2012.
+
+^ "Rhino History". Mozilla Foundation. Retrieved March 20, 2008.
+
+^ "Roadmap". GitHub. Retrieved May 10, 2016.
+
+^ Larabel, Michael. "Servo Continues Making Progress For Shipping Components In Gecko, Browser.html". Phoronix.com. Retrieved May 10, 2016.
+
+^ "Servo". servo.org. Retrieved December 8, 2020.
+
+^ "SOPS: Secrets OPerationS". GitHub. October 25, 2021.
+
+^ "Mozilla Labs || WebXR Viewer". labs.mozilla.org. Retrieved June 6, 2022.
+
+^ "Mozilla VR". Mozilla VR. Retrieved October 27, 2016.
+
+^ "Hubs by Mozilla: A new way to get together online". Mozilla Mixed Reality Blog. April 26, 2018. Retrieved August 4, 2019.
+
+^ Persona, Mozilla, archived from the original on March 8, 2013
+
+^ "Persona". Mozilla Developer Network. Archived from the original on October 27, 2016. Retrieved October 27, 2016.
+
+^ About Mozilla Webmaker, Mozilla, archived from the original on November 7, 2012, retrieved October 17, 2012
+
+^ Henry, Alan (March 28, 2014). "Mozilla Webmaker Teaches You to Build Web Sites, Apps, and More". Lifehacker. Gawker Media.
+
+^ "Air Mozilla". Mozilla Wiki.
+
+^ "Air Mozilla Reboot, Phase I". Archived from the original on June 27, 2012. Retrieved August 19, 2012.
+
+^ Vincent, James (July 27, 2017). "Mozilla is crowdsourcing voice recognition to make AI work for the people". The Verge. Retrieved July 30, 2017.
+
+^ "Datasets". Common Voice. Mozilla. Retrieved July 13, 2018.
+
+^ Hill, Paul (June 20, 2017). "Mozilla launching a new podcast to be hosted by Veronica Belmont". Neowin. Retrieved August 4, 2017.
+
+^ "Los Angeles Times – Brendan Eich contribution to Proposition 8". Los Angeles Times. Retrieved July 1, 2014.
+
+^ "Gay Firefox developers boycott Mozilla to protest CEO hire [Updated] | Ars Technica". arstechnica.com. March 25, 2014. Retrieved April 5, 2014.
+
+^ Faircloth, Kelly (April 9, 2012). "Tech Celeb Makes Prop-8 Donation; Internet Goes Berserk". BetaBeat. BetaBeat. Retrieved April 28, 2014.
+
+^ "Screenshot of OkCupid's statement towards Firefox users". huffingtonpost.com. Retrieved July 1, 2014.
+
+^ "FAQ on CEO Resignation". The Mozilla Blog. Retrieved April 20, 2015.
+
+^ Baker, Mitchell (April 3, 2014). "Brendan Eich Steps Down as Mozilla CEO". mozilla blog. Mozilla. Retrieved April 4, 2014.
+
+^ "Use your voice to #StopHateForProfit | The Mozilla Blog". blog.mozilla.org. Retrieved February 20, 2022.
+
+^ "Mozilla used Firefox's notification system to push the Facebook boycott". GHacks. 2020.
+
+^ "Privacy Preserving Attribution for Advertising | The Mozilla Blog". blog.mozilla.org. Retrieved February 20, 2022.
+
+^ Sead Fadilpašić (January 11, 2022). "Mozilla wants to show just how much Meta and Facebook tracks you". TechRadar. Retrieved February 20, 2022.
+
+^ "A $2 Million Prize to Decentralize the Web. Apply Today – The Mozilla Blog". The Mozilla Blog. Retrieved February 9, 2018.
+
+^ "Mozilla Reps - FAQ". Mozilla Reps. Archived from the original on June 8, 2019. Retrieved August 15, 2019.
+
+^ "Mozilla Festival".
+
+^ "MozCamp - MozillaWiki". wiki.mozilla.org. Mozilla. Retrieved August 30, 2020.
+
+
+External links[edit]
+
+
+Mozilla  at Wikipedia's sister projects
+
+Definitions from WiktionaryMedia from CommonsNews from WikinewsTexts from WikisourceData from WikidataDiscussions from Meta-Wiki
+
+Official website , including the Mozilla Manifesto
+Mozilla at Curlie
+Mozilla Wiki
+Mozilla Mercurial Repository
+vteMozillaProjectsMozillaLabs
+Bugzilla
+ChatZilla
+Electrolysis Project
+Jetpack
+Lightning
+Persona
+Prism
+Raindrop
+Skywriter
+Sunbird
+PDF.js
+Sync
+Tinderbox
+Ubiquity
+MozillaResearch
+Open Media
+Rust
+Servo
+Shumway
+WebAssembly
+WebXR
+asm.js
+Daala
+Firefox OS
+OpenFlint
+MozillaFoundation
+Mozilla Location Service
+SeaMonkey
+ThunderbirdFirefox
+Firefox Browser
+1
+1.5
+2
+3
+3.5
+3.6
+4
+5–current
+Future releases
+for Android
+for iOS
+Focus
+Firefox Lockwise
+Firefox Monitor
+Firefox Send
+Mozilla VPN
+Pocket
+Origins
+Mozilla Application Suite
+Netscape Navigator
+Netscape Communicator
+Netscape Communications
+Beonex Communicator
+Forks
+Basilisk
+BurningDog
+Classilla
+Flock
+Gnuzilla
+Goanna
+Iceape
+IceCat
+Icedove
+Iceowl
+Miro
+Netscape 9
+Pale Moon
+Portable Edition
+Swiftfox
+Swiftweasel
+TenFourFox
+UXP
+Waterfox
+xB Browser
+Frameworks
+Add-on
+Gecko
+Necko
+NPAPI
+XPConnect
+Components
+Composer
+NSPR
+NSS
+Rhino
+SpiderMonkey
+Tamarin
+Typefaces
+Fira Sans
+Zilla Slab
+Discontinued
+Calendar Project
+Camino
+Firefox Home
+Firefox Send
+Grendel
+Minimo
+XUL (XBL, XPCOM, XPInstall, XULRunner)
+
+Discontinued projects are in italics. Some projects abandoned by Mozilla that are still maintained by third parties are in underline.OrganizationFoundation
+Former Mozilla Organization
+Mozilla Foundation
+Subsidiaries
+Mozilla Corporation
+Mozilla Messaging
+Mozilla Online
+Official affiliates
+Mozilla China
+Mozilla Europe
+Mozilla Japan
+Mozilla Taiwan
+People
+Mitchell Baker
+David Baron
+Sheeri Cabral
+Tantek Çelik
+Brendan Eich
+John Hammink
+Robert O'Callahan
+Johnny Stenbäck
+Doug Turner
+Boris Zbarsky
+Community
+mozdev.org
+Mozilla Add-ons
+MDN Web Docs
+MozillaZine
+Spread Firefox
+Other topics
+Mozilla Manifesto
+The Book of Mozilla
+Code Rush
+Mozilla Public License
+Localizations
+Mascot
+Rebranding / forking
+Common Voice
+
+vteFree and open-source softwareGeneral
+Alternative terms for free software
+Comparison of open-source and closed-source software
+Comparison of source-code-hosting facilities
+Free software
+Free software project directories
+Gratis versus libre
+Long-term support
+Open-source software
+Open-source software development
+Outline
+Timeline
+Softwarepackages
+Audio
+Bioinformatics
+Codecs
+Configuration management
+Drivers
+Graphics
+Wireless
+Health
+Mathematics
+Office Suites
+Operating systems
+Programming languages
+Routing
+Television
+Video games
+Web applications
+E-commerce
+Android apps
+iOS apps
+Commercial
+Formerly proprietary
+Formerly open-source
+Community
+Free software movement
+History
+Open-source-software movement
+Events
+Organisations
+Free Software Movement of India
+Free Software Foundation
+Licenses
+AFL
+Apache
+APSL
+Artistic
+Beerware
+BSD
+Creative Commons
+CDDL
+EPL
+Free Software Foundation
+GNU GPL
+GNU LGPL
+ISC
+MIT
+MPL
+Python
+Python Software Foundation License
+Shared Source Initiative
+Sleepycat
+Unlicense
+WTFPL
+zlib
+Types and standards
+Comparison of licenses
+Contributor License Agreement
+Copyleft
+Debian Free Software Guidelines
+Definition of Free Cultural Works
+Free license
+The Free Software Definition
+The Open Source Definition
+Open-source license
+Permissive software license
+Public domain
+Viral license
+
+Challenges
+Digital rights management
+Hardware restrictions
+License proliferation
+Mozilla software rebranding
+Proprietary device drivers
+Proprietary firmware
+Proprietary software
+SCO/Linux controversies
+Software patents
+Software security
+Trusted Computing
+Related topics
+Forking
+GNU Manifesto
+Microsoft Open Specification Promise
+Open-core model
+Open-source hardware
+Shared Source Initiative
+Source-available software
+The Cathedral and the Bazaar
+Revolution OS
+
+ Portal
+ Category
+
+Portal: Free and open-source software
+
+
+

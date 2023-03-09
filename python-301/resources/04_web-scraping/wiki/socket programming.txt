@@ -1,0 +1,68 @@
+Writing computer programs with networking capability
+This article relies largely or entirely on a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing  citations to additional sources.Find sources: "Computer network programming" – news · newspapers · books · scholar · JSTOR (June 2013)
+For similar terms referring to the hardware technologies committed to computer network programming, see Computer network.
+Computer network programming involves writing computer programs that enable processes to communicate with each other across a computer network.[1]
+
+
+Connection-oriented and connectionless communications[edit]
+Very generally, most of communications can be divided into connection-oriented, and connectionless. Whether a communication is connection-oriented or connectionless, is defined by the communication protocol, and not by application programming interface (API). Examples of the connection-oriented protocols include Transmission Control Protocol (TCP) and Sequenced Packet Exchange (SPX), and examples of connectionless protocols include User Datagram Protocol (UDP), "raw IP", and Internetwork Packet Exchange (IPX).
+
+Clients and servers[edit]
+Main article: client–server model
+For connection-oriented communications, communication parties usually have different roles. One party is usually waiting for incoming connections; this party is usually referred to as "server". Another party is the one which initiates connection; this party is usually referred to as "client".
+For connectionless communications, one party ("server") is usually waiting for an incoming packet, and another party ("client") is usually understood as the one which sends an unsolicited packet to "server".
+
+Popular protocols and APIs[edit]
+Network programming traditionally covers different layers of OSI/ISO model (most of application-level programming belongs to L4 and up). The table below contains some examples of popular protocols belonging to different OSI/ISO layers, and popular APIs for them.
+
+
+
+OSI/ISO Layer
+
+Protocol
+
+API
+
+
+L3 (network)
+
+IP
+
+Raw socket
+
+
+L4 (transport)
+
+TCP, UDP, SCTP
+
+Berkeley Sockets
+
+
+L5 (session)
+
+TLS
+
+OpenSSL
+
+
+L7 (application)
+
+HTTP
+
+Various
+
+See also[edit]
+Software-defined networking
+Infrastructure as code
+Site reliability engineering
+DevOps
+References[edit]
+W. Richard Stevens: UNIX Network Programming, Volume 1, Second Edition: Networking APIs: Sockets and XTI, Prentice Hall, 1998, ISBN 0-13-490012-X
+
+
+^ "Chapter 12 - Network Programming". COMP1406 (PDF). 2017. Archived from the original (PDF) on 2020-03-05. Network Programming involves writing programs that communicate with other programs across a computer network.
+
+
+
+
+

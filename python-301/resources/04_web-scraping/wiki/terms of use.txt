@@ -1,0 +1,163 @@
+Legal agreement for a service
+For the terms of use for Wikipedia, see wmf:Terms of Use.For other uses, see Terms of service (disambiguation).
+Terms of service  (also known as terms of use and terms and conditions, commonly abbreviated as TOS or ToS, ToU or T&C) are the legal agreements between a service provider and a person who wants to use that service.  The person must agree to abide by the terms of service in order to use the offered service.[1] Terms of service can also be merely a disclaimer, especially regarding the use of websites. Vague language and lengthy sentences used in the terms of use have brought concerns on customer privacy and raised public awareness in many ways.
+
+
+Usage[edit]
+The Terms of Service Agreement is mainly used for legal purposes by companies which provide software or services, such as web browsers, e-commerce, web search engines, social media, and transport services. 
+A legitimate terms-of-service agreement is legally binding and may be subject to change.[2] Companies can enforce the terms by refusing service. Customers can enforce by filing a lawsuit or arbitration case if they can show they were actually harmed by a breach of the terms. There is a heightened risk of data going astray during corporate changes, including mergers, divestitures, buyouts, downsizing, etc., when data can be transferred improperly.[3]
+
+Content[edit]
+A terms of service agreement typically contains sections pertaining to one or more of the following topic:
+
+Disambiguation/definition of key words and phrases
+User rights and responsibilities
+Proper or expected usage; definition of misuse
+Accountability for online actions, behavior, and conduct
+Privacy policy outlining the use of personal data
+Payment details such as membership or subscription fees, etc.
+Opt-out policy describing procedure for account termination, if available
+Sometimes contains an Arbitration clause detailing the dispute resolution process and limited rights to take a claim to court
+Disclaimer/Limitation of Liability clarifying the site's legal liability for damages incurred by users
+User notification upon modification of terms, if offered
+Among 102 companies marketing genetic testing to consumers in 2014 for health purposes, 71 had publicly available terms and conditions:[4]
+
+57 of the 71 had disclaimer clauses (including 10 disclaiming liability for injury caused by their own negligence)
+51 let the company change terms (including 17 without notice)
+34 allow data disclosure in certain circumstances
+31 require consumers to indemnify the company
+20 promise not to sell data
+Among 260 mass market consumer software license agreements in 2010:[5]
+
+91% disclaimed warranties of merchantability or fitness for purpose or said it was "As is"
+92% disclaimed consequential, incidental, special or foreseeable damages
+69% did not warrant the software was free of defects or would work as described in the manual
+55% capped damages at the purchase price or less
+36% said they were not warranting whether it infringed others' intellectual property rights
+32% required arbitration or a specific court
+17% required the customer to pay legal bills of the maker (indemnify), but not vice versa
+Among the terms and conditions of 31 cloud-computing services in January-July 2010, operating in England:[6]
+
+27 specified the law to be used (a US state or other country)
+most specify that consumers can claim against the company only in a particular city in that jurisdiction, though often the company can claim against the consumer anywhere
+some require claims to be brought within half a year to 2 years
+7 impose arbitration, all forbid illegal and objectionable conduct by the consumer
+13 can amend terms just by posting changes on their own website
+a majority disclaim responsibility for confidentiality or backups
+most promise to preserve data only briefly after terminating service
+few promise to delete data thoroughly when the customer leaves
+some monitor the customers' data to enforce their policies on use
+all disclaim warranties and almost all disclaim liability
+24 require the customer to indemnify them, a few indemnify the customer
+a few give credits for poor service, 15 promise "best efforts" and can suspend or stop any time
+The researchers note that rules on location and time limits may be unenforceable for consumers in many jurisdictions with consumer protections, that acceptable use policies are rarely enforced, that quick deletion is dangerous if a court later rules the termination wrongful, that local laws often require warranties (and UK forced Apple to say so).
+
+Readability[edit]
+Among the 500 most-visited websites which use sign-in-wrap agreements in September 2018:[7]
+
+70% of agreements had average sentence lengths over 25 words, (where 25 or less is needed for consumer readability)
+median FRE (Flesch Reading Ease) score was 34 (where over 60 is considered readable by consumers)
+median F-K (Flesch-Kincaid) score was 15 years of school (498 of 500 had scores higher than the recommended 8th grade)
+Among 260 mass market consumer software license agreements which existed in both 2003 and 2010:[5]
+
+median and mean Flesch scores were 33 in both years, with a range from 14 to 64 in 2003, and from 15 to 55 in 2010 (where over 60 is considered readable by consumers)
+median number of words rose from 1,152 to 1,354, with range of 33 to 8,406 in 2003, and from 106 to 13,416 in 2010
+Public awareness[edit]
+A 2013 documentary called Terms and Conditions May Apply publicized issues in terms of service. It was reviewed by 54 professional critics[8] and won for Best Feature Documentary at the Newport Beach Film Festival 2013 and for Best Documentary at the Sonoma Valley Film Festival 2013.[9]
+Clickwrapped.com rates 15 companies on their policies and practices with respect to using users' data, disclosing users' data, amending the terms, closing users' accounts, requiring arbitration, fining users, and clarity. 
+Terms of Service; Didn't Read is a group effort that rates 67 companies' terms of service and privacy policies, though its site says the ratings are "outdated."[10] It also has browser add-ons that deliver the ratings while at the website of a rated company. Members of the group score each clause in each terms of service document, but "the same clause can have different scores depending on the context of the services it applies to."[11] The Services tab lists companies in no apparent order, with brief notes about significant clauses from each company. In particular, competitors are not listed together so that users can compare them. A link gives longer notes. It does not typically link to the exact wording from the company. The Topics tab lists topics (like "Personal Data" or "Guarantee"), with brief notes from some companies about aspects of the topic.
+TOSBack.org, supported by the Electronic Frontier Foundation, lists changes in terms and policies sequentially, 10 per page, for 160 pages, or nearly 1,600 changes, for "many online services."[12] There does not seem to be a way to find all changes for a particular company, or even which companies were tracked in any time period. It links to Terms of Service; Didn't Read, though that typically does not have any evaluation of the most recent changes listed at TOSBack.org.
+Terms of service are subject to change and vary from service to service, so several initiatives exist to increase public awareness by clarifying such differences in terms, including:
+
+Availability of previous terms
+Cancellation or termination of the account and/or service by user
+Copyright licensing on user content
+Data tracking policy and opt-out availability
+Indemnification or compensation for claims against account or content
+Notification and feedback prior to changes in Terms
+Notification of government or third-party requests for personal data
+Notification prior to information transfer in event of merger or acquisition
+Pseudonym allowance
+Readability
+Saved or temporary first and third-party cookies
+Transparency of security practices
+Transparency on government or law enforcement requests for content removal
+Criticism and lawsuits[edit]
+AOL[edit]
+In 1994, the Washington Times reported that America Online (AOL) was selling detailed personal information about its subscribers to direct marketers, without notifying or asking its subscribers; this article led to the revision of AOL's terms of service three years later.
+On July 1, 1997, AOL posted revised terms service to take effect July 31, 1997, without formally notifying its users of the changes made, most notably a new policy which would grant third-party business partners, including a marketing firm, access to its members' telephone numbers. Several days before the changes were to take effect, an AOL member informed the media of the changes and the following news coverage incited a large influx of internet traffic on the AOL page which enabled users to opt out of having their names and numbers on marketing lists.[1]
+
+Sony[edit]
+In 2011 George Hotz and other members of failOverflow were sued by Sony Corporation. Sony claimed that by violating the terms of service of the PlayStation Network and the Digital Millennium Copyright Act, Hotz and others were committing breach of contract.[13]
+
+Instagram[edit]
+See also: Instagram § Criticism and lawsuits
+On December 17, 2012, Instagram announced a change to its terms of use that caused a widespread outcry from its user base. The controversial clause stated: "you agree that a business or other entity may pay us to display your username, likeness, photos (along with any associated metadata), and/or actions you take, in connection with paid or sponsored content or promotions, without any compensation to you".
+There was no apparent option to opt out of the changed terms of use.[14]
+The move garnered severe criticism from privacy advocates as well as consumers. After one day, Instagram apologized saying that it would remove the controversial language from its terms of use.[15] Kevin Systrom, a co-founder of Instagram, responded to the controversy, stating:
+
+Our intention in updating the terms was to communicate that we’d like to experiment with innovative advertising that feels appropriate on Instagram. Instead it was interpreted by many that we were going to sell your photos to others without any compensation. This is not true and it is our mistake that this language is confusing. To be clear: it is not our intention to sell your photos. We are working on updated language in the terms to make sure this is clear.[16]
+Zappos[edit]
+Some terms of service are worded to allow unilateral amendment, where one party can change the agreement at any time without the other party's consent. A 2012 court case In re Zappos.com, Inc., Customer Data Security Breach Litigation held that Zappos.com's terms of use, with one such clause, was unenforceable.[17]
+
+See also[edit]
+Abandonware
+Acceptable use policy
+Clickwrap license
+Browse wrap
+End-user license agreement
+Free-software license
+Glossary of legal terms in technology
+Good faith (law)
+Index of articles related to terms of service and privacy policies
+Internet privacy
+License manager
+Comparison of free and open-source software licences
+Shrink wrap contract
+Software asset management
+Standard form contract
+References[edit]
+
+
+^ a b Kornblum, Janet (1997-07-29). "AOL dumps new member policy". Archived from the original on 2013-01-19. Retrieved 2006-12-24.
+
+^ "Terms of service Definition from PC Magazine Encyclopedia". pcmag.com. 2013. Retrieved 2013-01-07.
+
+^ Del Piero, John; Jennifer Swanton; Tony Cardine (2017-08-28). "5 Ways to Secure Your Intellectual Property During Corporate Transitions". Legaltech News.
+
+^ Phillips, Andelka M. (2015). "Genomic Privacy and Direct-to-Consumer Genetics: Big Consumer Genetic Data -- What's in that Contract?". 2015 IEEE Security and Privacy Workshops. San Jose, CA: IEEE: 60–64. doi:10.1109/SPW.2015.19. hdl:2262/77428. ISBN 9781479999330. S2CID 14504403.p
+
+^ a b Marotta-Wurgler, Florencia, and Robert Taylor (2013). "Set in Stone? Change and Innovation in Consumer Standard-Form Contracts" (PDF). New York University Law and Economics Working Papers. 88: 240–285.
+
+^ Bradshaw, Simon; Millard, Christopher; Walden, Ian (2010-09-02). "Contracts for Clouds: Comparison and Analysis of the Terms and Conditions of Cloud Computing Services" (PDF). Rochester, NY: Queen Mary University of London - Cloud Legal Project.
+
+^ Becher, Shmuel I.; Benoliel, Uri (2019-01-11). "The Duty to Read the Unreadable". Rochester, NY. SSRN 3313837. {{cite journal}}: Cite journal requires |journal= (help)
+
+^ "Terms and Conditions May Apply (2013) External Reviews". IMDB. Retrieved 2017-03-15.
+
+^ "Terms and Conditions May Apply (2013) Awards". IMDB. Retrieved 2017-03-15.
+
+^ "Terms of Service; Didn't Read, home page". Retrieved 2017-03-15.
+
+^ "Terms of Service; Didn't Read, Topics". Retrieved 2017-03-15.
+
+^ "TOSBack, The terms of service tracker". Retrieved 2017-03-15.
+
+^ "Sony follows up, officially sues Geohot and fail0verflow over PS3 jailbreak". Engadget. Retrieved 2021-03-06.
+
+^ Pepitone, Julianne (December 18, 2012). "Instagram can now sell your photos for ads". CNNMoney. CNN. Retrieved December 18, 2012.
+
+^ McCullagh, Declan; Donna Tam (18 December 2012). "Instagram apologizes to users: We won't sell your photos". Cnet. Retrieved 19 December 2012.
+
+^ Systrom, Kevin (December 18, 2012). "Thank you, and we're listening". Instagram. Instagram. Retrieved December 19, 2012.
+
+^ Goldman, Eric. "How Zappos' User Agreement Failed In Court and Left Zappos Legally Naked". Forbes. Retrieved 1 October 2013.
+
+
+External links[edit]
+[1] List of changes in terms and policies at "many online services" since June 2013
+Terms on Service; Didn’t Read User rights initiative to rate and label website terms & privacy policies
+Clickwrapped Ratings of the policies and practices of major consumer internet companies
+
+
+

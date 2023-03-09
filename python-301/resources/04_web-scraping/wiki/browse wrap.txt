@@ -1,0 +1,110 @@
+Browsewrap (also browserwrap or browse-wrap license) is a term used in Internet law to refer to a contract or license agreement covering access to or use of materials on a web site or downloadable product.  In a browse-wrap agreement, the terms and conditions of use for a website or other downloadable product are posted on the website, typically as a hyperlink at the bottom of the screen.[1][2] Unlike a clickwrap agreement, where the user must manifest assent to the terms and conditions by clicking on an "I agree" box, a browse-wrap agreement does not require this type of express manifestation of assent.[1] Rather, a web-site user purportedly gives their consent simply by using the product — such as by entering the website or downloading software.[1]
+Browse-wrap agreements, like clickwrap agreements, derive their name by analogy to the "shrink wrap agreements" included inside the sealed packaging of tangible products, where one can not see the agreement until the product has been purchased or used.[3]  Courts that have ruled on the issue have held that the validity of a browse-wrap agreement primarily depends on whether a website user has actual or constructive notice of the terms and conditions prior to using the website or other product.[1]
+
+
+Case law[edit]
+In Specht v. Netscape, the Second Circuit Court of Appeals looked at the enforceability of a browse-wrap contract entered into on the Netscape website.[3] Users of the site were urged to download free software available on the site by clicking on a tinted button labeled "download".[3]: 22   Only if a user scrolled down the page to the next screen did he come upon an invitation to review the full terms of the program's license agreement, available by hyperlink.[3]: 23   The plaintiffs, who had not seen the agreement, downloaded the software and then were later sued for violations of federal privacy and computer fraud statutes arising from the use of the software.[3]: 23–25   The Second Circuit then noted that an essential ingredient to contract formation is the mutual manifestation of assent.[3]: 29  The court found that "a consumer's clicking on a download button does not communicate assent to contractual terms if the offer did not make clear to the consumer that clicking on the download button would signify assent to those terms."[3]: 29–30  Because the plaintiffs were not put on notice of these terms they were not bound by them.[3]: 30–32 
+In Ticketmaster v. Tickets.com, the court looked at a breach of contract claim where the terms and conditions were situated at the bottom of the home page in "small print."[4]  The court ruled for the defendant in this case but did allow Ticketmaster to replead if there were facts showing that the defendant had knowledge of the terms and implicitly agreed to them.
+In 2005, the Illinois Appellate Court ruled in favor of a browse-wrap agreement in Hubbert v. Dell Corp. In this case consumers of Dell products were repeatedly shown the words "All sales are subject to Dell's Term[s] and Conditions of Sale", including a conspicuous hyperlink, over a series of pages.  The court found that this repeated exposure and visual effect would put a reasonable person on notice of the "terms and conditions".[5]
+In contrast, in 2014, the United States Court of Appeals for the Ninth Circuit ruled in Nguyen v. Barnes & Noble, Inc. that Barnes & Noble's 2011 Terms of Use agreement, presented in a browse-wrap manner via hyperlinks alone, was not enforceable since it failed to offer users reasonable notice of the terms.
+Similarly, in In re Zappos.com, Inc., Customer Data Security Breach Litigation, the United States District Court for the District of Nevada ruled against Zappos.com's browsewrap terms of use, describing that its presentation was not prominent, and that no reasonable user would have read the agreement.[6]
+
+Summary[edit]
+A browse-wrap agreement can be formed by use of a web page or a hyperlink or small disclaimer on the page.  It may only be enforced if the browsing user assents to it.  For assent to occur the browse-wrap agreement should be conspicuous, state that there is an agreement, and provide where it can be located.  Courts examine the enforceability of browse-wrap agreements on a case-by-case basis, and there are no "bright-line" rules on whether a given agreement is sufficiently conspicuous.  However, based on Specht, some practitioners believe
+
+
+that the icon for the terms of use agreement be placed in the upper left-hand quadrant of the homepage and that all visitors be channeled through the homepage. The reason for this suggestion is that the court will take judicial notice of the fact that all Internet pages open from the upper left-hand quadrant, thus the defendant must overcome the presumption that the icon was viewed. Without this presumption, the plaintiff has the burden of proving the defendant did see the icon.[7]
+See also[edit]
+Electronic signature
+Electronic Signatures in Global and National Commerce Act (ESIGN)
+References[edit]
+
+
+^ a b c d Kwan v. Clearwire Corp., No. C09-1392JLR, 2012 WL 32380 (W.D. Wash. Jan. 3, 2012).
+
+^ Hines v. Overstock.com, Inc., 668 F. Supp. 2d 362, 366 (E.D.N.Y. 2009).
+
+^ a b c d e f g h Specht v. Netscape Communications Corp., 306 F.3d 17 (2nd Cir.2002).
+
+^ Ticketmaster Corp. v. Tickets.com, Inc., 2000 WL 525390, at *3 (C.D.Cal. March 27, 2000).
+
+^ Hubbert v. Dell Corp., 835 N.E. 2d 113 (Ill. App. Ct. 2005).
+
+^ Davie, Alexander (31 January 2013). "Court's Invalidation of Zappos.com's Arbitration Provision Offers Lessons for Company Websites". LexisNexis. Retrieved 21 April 2021.
+
+^ Karen Berger and Jonathan Bick, New Jersey Law Journal, September 18, 2009.
+
+
+External links[edit]
+Consumer Project on Technology's collection of Browsewrap Clauses in Current Shrinkwrap and Clickwrap Contracts
+vteUnited States contract lawContract formationOffer and acceptance
+Leonard v. Pepsico, Inc.
+Gottlieb v. Tropicana Hotel & Casino
+Kansas City Wholesale Grocery Co. v. Weber Packing Corp.
+Ever-Tite Roofing Corp. v. Green
+Lefkowitz v. Great Minneapolis Surplus Store, Inc
+Implied-in-fact contract
+Baltimore & Ohio Railroad Co. v. United States
+Mailbox rule
+Ellefson v. Megadeth, Inc.
+Shrinkwrap, Clickwrap, Browsewrap agreements
+Specht v. Netscape
+Ticketmaster Corp. v. Tickets.com, Inc.
+Nguyen v. Barnes & Noble, Inc.
+ProCD, Inc. v. Zeidenberg
+In re Zappos.com, Inc., Customer Data Security Breach Litigation
+Arizona Cartridge Remanufacturers Ass'n Inc. v. Lexmark International Inc.
+Step-Saver Data Systems, Inc. v. Wyse Technology
+Bowers v. Baystate Technologies, Inc.
+Bragg v. Linden Research, Inc.
+Feldman v. Google, Inc.
+Consideration
+Hamer v. Sidway
+Wood v. Lucy, Lady Duff-Gordon
+Kirksey v. Kirksey
+Angel v. Murray
+King v. Trustees of Boston Univ.
+Atlantic Marine Construction Co. v. United States District Court
+Salsbury v. Northwestern Bell Telephone Co.
+Substantial performance
+Lucy v. Zehmer
+Jacob & Youngs, Inc. v. Kent
+Privity & 3rd parties
+De Cicco v. Schweizer
+MacPherson v. Buick Motor Co.
+Implied warranty, caveat emptor
+Hawkins v. McGee
+Seixas and Seixas v. Woods
+Henningsen v. Bloomfield Motors, Inc.
+G. L. Christian and Associates v. United States
+Kellogg Bridge Co. v. Hamilton
+Defense against formationIllusory promise
+Morrison v. Amway Corp.
+Harris v. Blockbuster, Inc.
+Douglas v. U.S. District Court ex rel Talk America
+McMichael v. Price
+Statute of frauds (written) & Parol evidence (unwritten & informal)
+Buffaloe v. Hart
+Foman v. Davis
+Unconscionable
+Williams v. Walker-Thomas Furniture Co.
+Buchwald v. Paramount
+Cancelling ContractMistake
+Sherwood v. Walker
+Lenawee County Board of Health v. Messerly
+Illegality
+Stoddard v. Martin
+SCO Group, Inc. v. DaimlerChrysler Corp.
+Misrepresentation
+United States v. Spearin
+Helene Curtis Industries, Inc. v. United States 
+Laidlaw v. Organ
+Smith v. Bolles
+Quasi-contract obligationPromissory estoppel
+Drennan v. Star Paving Co.
+Unjust enrichment
+Britton v. Turner
+
+
+
+

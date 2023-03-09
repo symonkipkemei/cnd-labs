@@ -1,0 +1,627 @@
+1991 United States Supreme Court caseFeist v. RuralSupreme Court of the United StatesArgued January 9, 1991Decided March 27, 1991Full case nameFeist Publications, Incorporated v. Rural Telephone Service Company, IncorporatedCitations499 U.S. 340 (more)111 S. Ct. 1282; 113 L. Ed. 2d 358; 1991 U.S. LEXIS 1856; 59 U.S.L.W. 4251; 18 U.S.P.Q.2d (BNA) 1275; Copy. L. Rep. (CCH) ¶ 26,702; 68 Rad. Reg. 2d (P & F) 1513; 18 Media L. Rep. 1889; 121 P.U.R.4th 1; 91 Cal. Daily Op. Service 2217; 91 Daily Journal DAR 3580Case historyPriorSummary judgment for plaintiff, 663 F. Supp. 214 (D. Kan. 1987); affirmed, 916 F.2d 718 (10th Cir. 1990); affirmed, full opinion at 1990 U.S. App. LEXIS 25881 (10th Cir. 1990); cert. granted, 498 U.S. 808 (1990).HoldingThe white pages of a telephone book did not satisfy the minimum originality required by the Constitution to be eligible for copyright protection, and effort and expenditure of resources are not protected by copyright. Tenth Circuit Court of Appeals reversed.Court membership
+Chief Justice
+William Rehnquist
+
+Associate Justices
+Byron White · Thurgood MarshallHarry Blackmun · John P. StevensSandra Day O'Connor · Antonin ScaliaAnthony Kennedy · David Souter
+Case opinionsMajorityO'Connor, joined by Rehnquist, White, Marshall, Stevens, Scalia, Kennedy, SouterConcurrenceBlackmunLaws appliedU.S. Const. Art. I § 8
+Feist Publications, Inc., v. Rural Telephone Service Co., 499 U.S. 340 (1991), was a landmark decision by the Supreme Court of the United States establishing that information alone without a minimum of original creativity cannot be protected by copyright.[1] In the case appealed, Feist had copied information from Rural's telephone listings to include in its own, after Rural had refused to license the information. Rural sued for copyright infringement. The Court ruled that information contained in Rural's phone directory was not copyrightable and that therefore no infringement existed.
+
+
+Background[edit]
+ The "white pages" of a telephone directory
+Rural Telephone Service Company, Inc. is a telephone cooperative providing services for areas in northwest Kansas, with headquarters in the small town of Lenora, in Norton County. The company was under a statutory obligation to compile and distribute a "white pages" phone directory of all its customers free of charge as a condition of its monopoly franchise.
+Feist Publications, Inc. specialized in compiling telephone directories from larger geographic areas than Rural from other areas of Kansas. It had licensed the directory of 11 other local directories, with Rural being the only holdout in the region. Despite Rural's denial of a license to Feist, Feist copied 4,000 entries from Rural's directory. Because Rural had placed a small number of phony entries to detect copying, Feist was caught.
+Before this case, the substance of copyright in United States law followed the sweat of the brow doctrine, which gave copyright to anyone who invested significant amount of time and energy into their work. At trial and appeal level the courts followed this doctrine, siding with Rural.
+
+Ruling of the court[edit]
+The ruling of the court was written by Justice Sandra Day O'Connor. It examined the purpose of copyright and explained the standard of copyrightability as based on originality.
+The case centered on two well-established principles in United States copyright law: that facts are not copyrightable, and that compilations of facts can be.
+"There is an undeniable tension between these two propositions", O'Connor wrote in her opinion. "Many compilations consist of nothing but raw data—i.e. wholly factual information not accompanied by any original expression. On what basis may one claim a copyright upon such work? Common sense tells us that 100 uncopyrightable facts do not magically change their status when gathered together in one place. … The key to resolving the tension lies in understanding why facts are not copyrightable: The ″Sine qua non of copyright is originality."
+Rural claimed a collection copyright in its directory. The court clarified that the intent of copyright law was not, as claimed by Rural and some lower courts, to reward the efforts of persons collecting information—the so-called "sweat of the brow" or "industrious collection" doctrine—but rather "to promote the Progress of Science and useful Arts" (U.S. Const. Art. I, § 8, cl. 8)—that is, to encourage creative expression.
+The standard for creativity is extremely low. It need not be novel; it need only possess a "spark" or "minimal degree" of creativity to be protected by copyright.
+In regard to collections of facts, O'Connor wrote that copyright can apply only to the creative aspects of collection: the creative choice of what data to include or exclude, the order and style in which the information is presented, etc.—not to the information itself. If Feist were to take the directory and rearrange it, it would destroy the copyright owned in the data. "Notwithstanding a valid copyright, a subsequent compiler remains free to use the facts contained in another's publication to aid in preparing a competing work, so long as the competing work does not feature the same selection and arrangement", she wrote.
+The court held that Rural's directory was nothing more than an alphabetic list of all subscribers to its service, which it was required to compile under law, and that no creative expression was involved. That Rural spent considerable time and money collecting the data was irrelevant to copyright law, and Rural's copyright claim was dismissed.
+All the justices joined O'Connor's opinion except Harry Blackmun, who concurred only in judgment, but did not file a separate opinion.[2]
+
+Implications[edit]
+See also: Idea-expression divide and Threshold of originality
+The ruling has major implications for any project that serves as a collection of knowledge. Information (facts, discoveries, etc.) from any source is fair game, but cannot contain any of the "expressive" content added by the source author. That includes not only the author's own comments, but also their choice of which facts to cover, which links to make among the bits of information, the order of presentation (unless it is something obvious like alphabetical), evaluations of the quality of various pieces of information, or anything else that might be considered the author's "original creative work" rather than mere facts.
+For example, a recipe is a process, and not copyrightable, but the words used to describe it are; see idea-expression divide and Publications International v. Meredith Corp. (1996).[3] Therefore, a recipe can be rewritten with different wording and be published without infringing copyright. If an individual rewrote every recipe from a particular cookbook, they might be found to have infringed the author's copyright in the choice of recipes and their "coordination" and "presentation", even if they used different words, but the West decisions below suggest that this is unlikely unless there is some significant creativity carried over from the original presentation. A sufficiently novel, useful, and unique (i.e. non-obvious) recipe can be granted protection under patent law.[4]
+Feist proved most important in the area of copyright of legal case law publications. One might assume that the text of U.S. case law is in public domain, but Thomson West claimed a copyright as to the first-page citations and internal pinpoint page citations of its versions of court opinions (case law) found in its printed versions of the case law ("West's citation claims"). West also claimed a copyright in the text of its versions of the case law, which included parallel citations and typographical corrections ("West's text claims"). The text claim would have barred anyone from copying the text of a case from a West case law reporter, since the copied text would include West enhancements to which West claimed copyright.
+In a 1986 pre-Feist case, West's citation copyright claim was affirmed by the U.S. Court of Appeals for the Eighth Circuit in a preliminary injunction case brought by West against Mead Data, owner of Lexis (West v. Mead),[5] but in a case commenced in 1994 in the U.S. District Court for the Southern District of New York, the U.S. Court of Appeals for the Second Circuit found Feist to have undermined the reasoning in West v. Mead.  West's citation claims were challenged in 1994 by legal publisher Matthew Bender & Company and by a small CD-ROM publisher HyperLaw, Inc. HyperLaw intervened, joining Matthew Bender in the citation challenge and separately challenging West's text copyright claims. In 1998, the Second Circuit found that West did not have a protectable copyright interest in its first-page citations or its internal pagination citations (Matthew Bender v. West, Citation Appeal).[6] The Second Circuit thereby rejected a Minnesota district court's 1996 determination (Oasis Publishing Co. v. West Publishing Co., 924 F.Supp. 918, D. Minn.) that Feist does not change the outcome of West.
+In the same case, but in separate decisions in which Matthew Bender was not involved, HyperLaw successfully challenged West's text claims. Judge John S. Martin ruled HyperLaw's favor against West in the May 1996 U.S. District Court decision Matthew Bender v. West, No. 94 Civ. 0589, 1997 WL 266972 (S.D.N.Y. May 19, 1997), aff'd, 158 F. 3d 674 (2nd Cir. 1998), cert. denied sub. nom. West v. Hyperlaw, 526 U.S. 1154 (1999).[7] West lost to HyperLaw on appeal to the U.S. Court of Appeals for the Second Circuit and the U.S. Supreme Court denied certiorari.[8]
+After West v. Mead, Mead Data and Lexis were acquired by Reed Elsevier, a large English-Dutch based publisher. During Matthew Bender v. West, Reed Elsevier and Matthew Bender entered into a strategic relationship, culminating in Reed Elsevier's acquisition of Matthew Bender in 1998, just after the Second Circuit appeals were argued. Reed Elsevier was now on West's side and filed an amicus brief opposing HyperLaw and supporting West. Thus, though the name of the case might suggest that Matthew Bender challenged West on the text claim, by the middle of the case Matthew Bender was on West's side on the text issue. Reed Elsevier's support of West's claims to a copyright in text was consistent with the initiatives, discussed below, to sidestep Feist by implementing database protection, through legislation and treaties discussed below. Similarly, during the case, West was acquired by the Canadian-based international publisher the Thomson Corporation.
+Another case covering this area is Assessment Technologies v. Wiredata (2003),[9] in which the Seventh Circuit Court of Appeals ruled that a copyright holder in a compilation of public domain data cannot use that copyright to prevent others from using the underlying public domain data, but may only restrict the specific format of the compilation if that format is itself sufficiently creative. Assessment Technologies also held that it is a fair use of a copyrighted work to reverse engineer that work in order to gain access to uncopyrightable facts. Assessment Technologies also created new law, stating that it is a copyright misuse and an abuse of process to attempt to use a contract or license agreement based on one's copyright to protect uncopyrightable facts.
+In the late 1990s, Congress attempted to pass laws to protect collections of data,[10] but the measures failed.[11] By contrast, the European Union has a sui generis (specific to that type of work) intellectual property protection for collections of data.
+
+Other countries[edit]
+See also: Sui generis database rights
+The applicability of copyright to phone directories has come up in several other countries.
+In Canada, the appeal-level case of Tele-Direct (Publications) Inc. v. American Business Information Inc. (1997) 76 C.P.R. (3d) 296 (F.C.A.) reached a similar result to Feist's. But the Supreme Court partially backed away from the originality doctrine in CCH Canadian Ltd. v. Law Society of Upper Canada. Under CCH Canadian, someone may assert protection in a database where the facts are themselves not copied from another source. For example, a person may assert protection in a collection of their own recipes, but may not assert protection in a database of facts about persons and their ancestry compiled from census records.
+In Australia, the Federal Court decision Desktop Marketing Systems v Telstra[12] followed the UK approach in Walter v Lane and ruled that copyright law did, in fact, follow the "sweat of the brow" doctrine. But Desktop v Telstra held, like CCH Canadian, that collections of facts must not be copied from other sources to be eligible for protection. In 2010, the Telstra decision was overturned by Justice Gordon in Telstra v Phone Directories,[13] following the decision of the High Court in IceTV v Nine Network.[14]
+
+Relation with treaties[edit]
+Congress has been considering whether to implement a treaty negotiated at the World Trade Organization. Part of the Uruguay Round Agreement resulted in text that reads, in Part II, Section 1, Article 10:
+
+Compilations of data or other material, whether in machine readable or other form, which by reason of the selection or arrangement of their contents constitute intellectual creations shall be protected as such. Such protection, which shall not extend to the data or material itself, shall be without prejudice to any copyright subsisting in the data or material itself.
+The text mirrors that of Article 2(5) of the Berne Convention, which applies to "collections of literary or artistic works".
+This treaty provision is broadly in line with the United States Copyright Act and the Act's case law, which protects compilations of data whose "selection and arrangement" is sufficiently original. See 17 U.S.C. § 101 ("compilation" as defined by the United States Copyright Act includes compilations of data). The standard for such originality is fairly low; for example, business listings have been found to meet this standard when deciding which companies should be listed and categorizing those companies required some kind of expert judgment. See Key Publ'ns, Inc. v. Chinatown Today Pub. Enters., 945 F.2d 509 (2d Cir. 1991) (applying Feist). As such, implementation of this treaty would not overrule Feist.
+
+See also[edit]
+List of United States Supreme Court cases, volume 499
+Lists of United States Supreme Court cases
+Lists of United States Supreme Court cases by volume
+List of United States Supreme Court cases by the Rehnquist Court
+Idea–expression divide
+Threshold of originality
+Sui generis database right
+References[edit]
+
+
+^ Feist Publications, Inc., v. Rural Telephone Service Co., 499 U.S. 340 (1991).
+
+^ Miller, Philip H. (1991). "Life After Feist: Facts, the First Amendment, and the Copyright Status of Automated Databases". Fordham L. Rev. 60 (3): 507–539.
+
+^ Publications International v. Meredith Corp., 88 F.3d 473 (7th Cir., 1996)
+
+^ "The Law of Recipes: Are Recipes Patentable?" (Feb 10, 2012) IPWatchdog
+
+^ West Publishing Co. v. Mead Data Central, 799 F.2d 1219 Archived 2005-11-29 at the Wayback Machine (United States Court of Appeals for the Eighth Circuit, 1986)
+
+^ 
+Second Circuit - Citation Appeal:  Matthew Bender  v. West, 158 F.3d 693 (2d Cir. 1998), cert. denied, 526 U.S. 1154 (1999) .
+
+^ District Court - HyperLaw Text Decision: Matthew Bender v. West, No. 94 Civ. 0589, 1997 WL 266972 (S.D.N.Y. May 19, 1997), aff'd, 158 F. 3d 674 (2nd Cir. 1998), cert. denied sub. nom. West v. Hyperlaw, 526 U.S. 1154 (1999).
+
+^ Second Circuit - HyperLaw Text Appeal Decision:  Matthew Bender v. West, 158 F. 3d 674 (2nd Cir. 1998), aff'g, No. 94 Civ. 0589, 1997 WL 266972 (S.D.N.Y. May 19, 1997), cert. denied sub. nom. West v. Hyperlaw, 526 U.S. 1154 (1999) Archived May 13, 2008, at the Wayback Machine
+
+^ Assessment Technologies v. Wiredata, 350 F.3rd 640 Archived 2006-05-27 at the Wayback Machine (7th Cir., 2003)
+
+^ H.R. 2652, Collections of Information Antipiracy Act 1998
+
+^ Armageddon on the Potomac: the Collections of Information Antipiracy Act 1999
+
+^ Desktop Marketing Systems Pty Ltd v Telstra Corporation Limited [2002] FCAFC 112 (15 May 2002), Federal Court (Full Court) (Australia)
+
+^ Telstra Corporation Ltd v Phone Directories Company Pty Ltd [2010] FCA 44 (8 February 2010), Federal Court (Australia)
+
+^ IceTV Pty Ltd v Nine Network Australia Pty Ltd [2009] HCA 14, (2009) 239 CLR 458 (22 April 2009), High Court (Australia)
+
+
+Further reading[edit]
+Ekstrand, Victoria S. (2002). "Drawing Swords After Feist: Efforts to Legislate the Database Pirate". Communication Law and Policy. 7 (3): 317–341. doi:10.1207/S15326926CLP0703_04. S2CID 143547945.
+Ginsburg, Jane C. (1992). "No 'Sweat'? Copyright and Other Protection of Works of Information after Feist v. Rural Telephone". Columbia Law Review. 92 (2): 338–388. doi:10.2307/1123087. JSTOR 1123087.
+Thorner, Benjamin B. (1997). "Copyright Protection For Computer Databases: The Threat of Feist and a Proposed Solution" (PDF). Virginia Journal of Law and Technology. 1 (5): 1522–1687.
+External links[edit]
+ Works related to Feist Publications v. Rural Telephone Service at Wikisource
+Text of Feist Publications, Inc., v. Rural Telephone Service Co., 499 U.S. 340 (1991) is available from: Findlaw  Justia  Library of Congress  Oyez (oral argument audio) 
+vteU.S. Supreme Court Article I case lawEnumeration Clause of Section II
+Utah v. Evans (2002)
+Department of Commerce v. New York (2019)
+Trump v. New York (2020)
+Qualifications Clauses of Sections II and III
+Powell v. McCormack (1969)
+U.S. Term Limits, Inc. v. Thornton (1995)
+Cook v. Gralike (2001)
+Elections Clause of Section IV
+Ex parte Siebold (1879)
+Smiley v. Holm (1932)
+U.S. Term Limits, Inc. v. Thornton (1995)
+Arizona State Legislature v. Arizona Independent Redistricting Commission (2015)
+Moore v. Harper (2023)
+Speech or Debate Clause of Section VI
+Kilbourn v. Thompson (1881)
+United States v. Johnson (1966)
+Gravel v. United States (1972)
+Origination Clause of Section VII
+Flint v. Stone Tracy Co. (1911)
+United States v. Munoz-Flores (1990)
+Presentment Clause of Section VII
+Pocket Veto Case (1929)
+Immigration and Naturalization Service v. Chadha (1983)
+Clinton v. City of New York (1998)
+Taxing and Spending Clause of Section VIII
+Hylton v. United States (1796)
+Collector v. Day (1871)
+Springer v. United States (1881)
+Pollock v. Farmers' Loan & Trust Co. (1895)
+Brushaber v. Union Pacific Railroad Co. (1916)
+Bailey v. Drexel Furniture Co. (1922)
+United States v. Butler (1936)
+Helvering v. Davis (1937)
+South Dakota v. Dole (1987)
+Sabri v. United States (2004)
+National Federation of Independent Business v. Sebelius (2012)
+Commerce Clause of Section VIIIDormant Commerce Clause
+Brown v. Maryland (1827)
+Willson v. Black-Bird Creek Marsh Co. (1829)
+Cooley v. Board of Wardens (1852)
+Wabash, St. Louis & Pacific Railway Co. v. Illinois (1886)
+Swift & Co. v. United States (1905)
+George W. Bush & Sons Co. v. Malloy (1925)
+Edwards v. California (1941)
+Southern Pacific Co. v. Arizona (1945)
+Dean Milk Co. v. City of Madison (1951)
+Miller Bros. Co. v. Maryland (1954)
+Bibb v. Navajo Freight Lines, Inc. (1959)
+National Bellas Hess v. Illinois (1967)
+Pike v. Bruce Church, Inc. (1970)
+Hughes v. Alexandria Scrap Corp. (1976)
+Complete Auto Transit, Inc. v. Brady (1977)
+Hunt v. Washington State Apple Advertising Commission (1977)
+City of Philadelphia v. New Jersey (1978)
+Exxon Corp. v. Governor of Maryland (1978)
+Reeves, Inc. v. Stake (1980)
+Kassel v. Consolidated Freightways Corp. (1981)
+Sporhase v. Nebraska ex rel. Douglas (1982)
+White v. Mass. Council of Construction Employers (1983)
+South-Central Timber Development, Inc. v. Wunnicke (1984)
+Maine v. Taylor (1986)
+Healy v. Beer Institute, Inc. (1989)
+Quill Corp. v. North Dakota (1992)
+Chemical Waste Management, Inc. v. Hunt (1992)
+Oregon Waste Systems, Inc. v. Department of Environmental Quality of Oregon (1994)
+C&A Carbone, Inc. v. Town of Clarkstown (1994)
+West Lynn Creamery, Inc. v. Healy (1994)
+Granholm v. Heald (2005)
+United Haulers Ass'n v. Oneida-Herkimer Solid Waste Management Authority (2007)
+Department of Revenue of Kentucky v. Davis (2008)
+Comptroller of the Treasury of Maryland v. Wynne (2015)
+South Dakota v. Wayfair, Inc. (2018)
+Tennessee Wine and Spirits Retailers Assn. v. Thomas (2019)
+National Pork Producers Council v. Ross (2023)
+Others
+Gibbons v. Ogden (1824)
+Passenger Cases (1849)
+Paul v. Virginia (1869)
+Cooper Manufacturing Co. v. Ferguson (1885)
+Kidd v. Pearson (1888)
+In re Debs (1895)
+United States v. E. C. Knight Co. (1895)
+Champion v. Ames (1903)
+Southern Railway Co. v. United States (1911)
+Hoke v. United States (1913)
+Houston East & West Texas Railway Co. v. United States (1914)
+Hammer v. Dagenhart (1918)
+Board of Trade of City of Chicago v. Olsen (1923)
+A.L.A. Schechter Poultry Corp. v. United States (1935)
+Gold Clause Cases (1935)
+Panama Refining Co. v. Ryan (1935)
+Carter v. Carter Coal Co. (1936)
+NLRB v. Jones & Laughlin Steel Corp. (1937)
+United States v. Carolene Products Co. (1938)
+McGoldrick v. Berwind-White Coal Mining Co. (1940)
+United States v. Darby Lumber Co. (1941)
+United States v. Wrightwood Dairy Co. (1942)
+Wickard v. Filburn (1942)
+United States v. South-Eastern Underwriters Ass'n (1944)
+North American Co. v. SEC (1946)
+H.P. Hood & Sons v. Du Mond (1949)
+Henderson v. United States (1950)
+Canton Railroad Co. v. Rogan (1951)
+Boynton v. Virginia (1960)
+Heart of Atlanta Motel, Inc. v. United States (1964)
+Katzenbach v. McClung (1964)
+Maryland v. Wirtz (1968)
+National League of Cities v. Usery (1976)
+Commonwealth Edison Co. v. Montana (1981)
+EEOC v. Wyoming (1983)
+Garcia v. San Antonio Metropolitan Transit Authority (1985)
+New York v. United States (1992)
+United States v. Lopez (1995)
+Seminole Tribe of Florida v. Florida (1996)
+Reno v. Condon (2000)
+United States v. Locke (2000)
+Jones v. United States (2000)
+United States v. Morrison (2000)
+Gonzales v. Raich (2005)
+National Federation of Independent Business v. Sebelius (2012)
+Taylor v. United States (2016)
+Coinage Clause of Section VIIILegal Tender Cases
+Knox v. Lee (1871)
+Juilliard v. Greenman (1884)
+Copyright Clause of Section VIIICopyright Act of 1790
+Wheaton v. Peters (1834)
+Paige v. Banks (1872)
+Globe Newspaper Co. v. Walker (1908)
+Patent Act of 1793
+Tyler v. Tuel (1810)
+Evans v. Eaton (1818)
+Evans v. Eaton (1822)
+Evans v. Hettich (1822)
+Patent infringement case law
+Evans v. Jordan (1815)
+Hollister v. Benedict & Burnham Manufacturing Co. (1885)
+Rowell v. Lindsay (1885)
+Schillinger v. United States (1894)
+Bauer & Cie. v. O'Donnell (1913)
+General Talking Pictures Corp. v. Western Electric Co. (1938)
+Patentability case law
+Pennock v. Dialogue (1829)
+Hotchkiss v. Greenwood (1851)
+O'Reilly v. Morse (1853)
+Cochrane v. Deener (1876)
+City of Elizabeth v. American Nicholson Pavement Co. (1878)
+Egbert v. Lippmann (1881)
+Consolidated Safety-Valve Co. v. Crosby Steam Gauge & Valve Co. (1885)
+Voss v. Fisher (1885)
+Copyright Act of 1831
+Wheaton v. Peters (1834)
+Backus v. Gould (1849)
+Stephens v. Cady (1853)
+Stevens v. Gladding (1854)
+Little v. Hall (1856)
+Paige v. Banks (1872)
+Baker v. Selden (1879)
+Callaghan v. Myers (1888)
+Higgins v. Keuffel (1891)
+Holmes v. Hurst (1899)
+Brady v. Daly (1899)
+Bolles v. Outing Co. (1899)
+Mifflin v. R. H. White Company (1903)
+Mifflin v. Dutton (1903)
+Copyright Act of 1870
+Perris v. Hexamer (1879)
+Trade-Mark Cases (1879)
+Merrell v. Tice (1881)
+Schreiber v. Sharpless (1884)
+Burrow-Giles Lithographic Co. v. Sarony (1884)
+Thornton v. Schreiber (1888)
+Banks v. Manchester (1888)
+Callaghan v. Myers (1888)
+Thompson v. Hubbard (1889)
+Higgins v. Keuffel (1891)
+Belford v. Scribner (1892)
+Brady v. Daly (1899)
+Bolles v. Outing Co. (1899)
+Bleistein v. Donaldson Lithographing Co. (1903)
+McLoughlin v. Raphael Tuck & Sons Co. (1903)
+American Tobacco Co. v. Werckmeister (1907)
+Werckmeister v. American Tobacco Co. (1907)
+United Dictionary Co. v. G. & C. Merriam Co. (1907)
+White-Smith Music Publishing Co. v. Apollo Co. (1908)
+Dun v. Lumbermen's Credit Ass'n (1908)
+Bobbs-Merrill Co. v. Straus (1908)
+Scribner v. Straus (1908)
+Bong v. Campbell Art Co. (1909)
+Henry v. A.B. Dick Co. (1912)
+Sherman Antitrust Act of 1890
+Straus v. American Publishers Association (1913)
+Interstate Circuit, Inc. v. United States (1939)
+Fashion Originators' Guild of America v. FTC (1941)
+United States v. Paramount Pictures, Inc. (1948)
+Broadcast Music, Inc. v. CBS Inc. (1979)
+International Copyright Act of 1891
+Press Pub. Co. v. Monroe (1896)
+McLoughlin v. Raphael Tuck & Sons Co. (1903)
+American Tobacco Co. v. Werckmeister (1907)
+White-Smith Music Publishing Co. v. Apollo Co. (1908)
+Globe Newspaper Co. v. Walker (1908)
+Bong v. Campbell Art Co. (1909)
+Caliga v. Inter Ocean Newspaper Co. (1909)
+Hills and Co. v. Hoover (1911)
+Kalem Co. v. Harper Bros. (1911)
+Copyright Act of 1909
+Hills and Co. v. Hoover (1911)
+DeJonge and Co. v. Breuker & Kessler Co. (1914)
+Herbert v. Shanley Co. (1917)
+Manners v. Morosco (1920)
+Fox Film Corp. v. Knowles (1923)
+Buck v. Jewell-LaSalle Realty Co. (1931)
+Douglas v. Cunningham (1935)
+Washingtonian Pub. Co. v. Pearson (1939)
+Sheldon v. Metro-Goldwyn Pictures Corp. (1940)
+Fred Fisher Music Co. v. M. Witmark & Sons (1943)
+F. W. Woolworth Co. v. Contemporary Arts, Inc. (1952)
+Mazer v. Stein (1954)
+De Sylva v. Ballentine (1956)
+Sears, Roebuck & Co. v. Stiffel Co. (1964)
+Williams & Wilkins Co. v. United States (1973)
+Patent misuse case law
+Motion Picture Patents Co. v. Universal Film Manufacturing Co. (1917)
+Morton Salt Co. v. G.S. Suppiger Co. (1942)
+Clayton Antitrust Act of 1914
+Fashion Originators' Guild of America v. FTC (1941)
+Dowling v. United States (1985)
+Lanham Act
+Inwood Laboratories, Inc. v. Ives Laboratories, Inc. (1982)
+San Francisco Arts & Athletics, Inc. v. United States Olympic Committee (1987)
+Two Pesos, Inc. v. Taco Cabana, Inc. (1992)
+Qualitex Co. v. Jacobson Products Co. (1995)
+College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board (1999)
+Cooper Industries, Inc. v. Leatherman Tool Group, Inc. (2001)
+TrafFix Devices, Inc. v. Marketing Displays, Inc. (2001)
+Dastar Corp. v. Twentieth Century Fox Film Corp. (2003)
+Moseley v. V Secret Catalogue, Inc. (2003)
+Lexmark International, Inc. v. Static Control Components, Inc. (2014)
+POM Wonderful LLC v. Coca-Cola Co. (2014)
+Matal v. Tam (2017)
+Iancu v. Brunetti (2019)
+Romag Fasteners, Inc. v. Fossil, Inc. (2020)
+Copyright Act of 1976
+Zacchini v. Scripps-Howard Broadcasting Co. (1977)
+Sony Corp. of America v. Universal City Studios, Inc. (1984)
+Mills Music, Inc. v. Snyder (1985)
+Harper & Row v. Nation Enterprises (1985)
+Community for Creative Non-Violence v. Reid (1989)
+Stewart v. Abend (1990)
+Feist Publications, Inc., v. Rural Telephone Service Co. (1991)
+Fogerty v. Fantasy, Inc. (1994)
+Campbell v. Acuff-Rose Music, Inc. (1994)
+Lotus Dev. Corp. v. Borland Int'l, Inc. (1996)
+Quality King Distributors Inc., v. L'anza Research International Inc. (1998)
+Feltner v. Columbia Pictures Television, Inc. (1998)
+New York Times Co. v. Tasini (2001)
+Eldred v. Ashcroft (2003)
+MGM Studios, Inc. v. Grokster, Ltd. (2005)
+Reed Elsevier, Inc. v. Muchnick (2010)
+Golan v. Holder (2012)
+Kirtsaeng v. John Wiley & Sons, Inc. (2013)
+Petrella v. Metro-Goldwyn-Mayer, Inc. (2014)
+American Broadcasting Cos., Inc. v. Aereo, Inc. (2014)
+Star Athletica, LLC v. Varsity Brands, Inc. (2017)
+Fourth Estate Public Benefit Corp. v. Wall-Street.com (2019)
+Rimini Street Inc. v. Oracle USA Inc. (2019)
+Allen v. Cooper (2020)
+Georgia v. Public.Resource.Org, Inc. (2020)
+Other copyright cases
+American Lithographic Co. v. Werkmeister (1911)
+Ferris v. Frohman (1912)
+Order of St. Benedict of New Jersey v. Steinhauser (1914)
+International News Service v. Associated Press (1918)
+L. A. Westermann Co. v. Dispatch Printing Co. (1919)
+Lumiere v. Mae Edna Wilder, Inc. (1923)
+Educational Films Corp. v. Ward (1931)
+Fox Film Corp. v. Doyal (1932)
+George v. Victor Talking Machine Co. (1934)
+KVOS v. Associated Press (1936)
+Gibbs v. Buck (1939)
+Buck v. Gallagher (1939)
+Commissioner v. Wodehouse (1949)
+Miller Music Corp. v. Charles N. Daniels, Inc. (1960)
+Pub. Affairs Associates, Inc. v. Rickover (1962)
+Fortnightly Corp. v. United Artists Television, Inc. (1968)
+Goldstein v. California (1973)
+Teleprompter Corp. v. Columbia Broadcasting (1974)
+Twentieth Century Music Corp. v. Aiken (1975)
+Other patent cases
+Continental Paper Bag Co. v. Eastern Paper Bag Co. (1908)
+Minerals Separation, Ltd. v. Hyde (1916)
+United States v. General Electric Co. (1926)
+United States v. Univis Lens Co. (1942)
+Altvater v. Freeman (1943)
+Sinclair & Carroll Co. v. Interchemical Corp. (1945)
+Funk Bros. Seed Co. v. Kalo Inoculant Co. (1948)
+Great Atlantic & Pacific Tea Co. v. Supermarket Equipment Corp. (1950)
+Graver Tank & Manufacturing Co. v. Linde Air Products Co. (1950)
+Aro Manufacturing Co. v. Convertible Top Replacement Co. (1961)
+Compco Corp. v. Day-Brite Lighting, Inc. (1964)
+Wilbur-Ellis Co. v. Kuther (1964)
+Brulotte v. Thys Co. (1964)
+Walker Process Equipment, Inc. v. Food Machinery & Chemical Corp. (1965)
+Graham v. John Deere Co. (1966)
+United States v. Adams (1966)
+Brenner v. Manson (1966)
+Lear, Inc. v. Adkins (1969)
+Anderson's-Black Rock, Inc. v. Pavement Salvage Co. (1969)
+Zenith Radio Corp. v. Hazeltine Research, Inc. (1971)
+Gottschalk v. Benson (1972)
+United States v. Glaxo Group Ltd. (1973)
+Dann v. Johnston (1976)
+Sakraida v. Ag Pro Inc. (1976)
+Parker v. Flook (1978)
+Diamond v. Chakrabarty (1980)
+Diamond v. Diehr (1981)
+Bonito Boats, Inc. v. Thunder Craft Boats, Inc. (1989)
+Eli Lilly & Co. v. Medtronic, Inc. (1990)
+Markman v. Westview Instruments, Inc. (1996)
+Warner-Jenkinson Co. v. Hilton Davis Chemical Co. (1997)
+Pfaff v. Wells Electronics, Inc. (1998)
+Dickinson v. Zurko (1999)
+Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank (1999)
+J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc. (2001)
+Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co. (2002)
+Merck KGaA v. Integra Lifesciences I, Ltd. (2005)
+eBay Inc. v. MercExchange, L.L.C. (2006)
+Illinois Tool Works Inc. v. Independent Ink, Inc. (2006)
+LabCorp v. Metabolite, Inc. (2006)
+MedImmune, Inc. v. Genentech, Inc. (2007)
+KSR International Co. v. Teleflex Inc. (2007)
+Microsoft Corp. v. AT&T Corp. (2007)
+Quanta Computer, Inc. v. LG Electronics, Inc. (2008)
+Bilski v. Kappos (2010)
+Global-Tech Appliances, Inc. v. SEB S.A. (2011)
+Stanford University v. Roche Molecular Systems, Inc. (2011)
+Microsoft Corp. v. i4i Ltd. Partnership (2011)
+Mayo Collaborative Services v. Prometheus Laboratories, Inc. (2012)
+Kappos v. Hyatt (2012)
+Bowman v. Monsanto Co. (2013)
+Gunn v. Minton (2013)
+Association for Molecular Pathology v. Myriad Genetics, Inc. (2013)
+FTC v. Actavis, Inc. (2013)
+Alice Corp. v. CLS Bank International (2014)
+Akamai Techs., Inc. v. Limelight Networks, Inc. (2014)
+Teva Pharmaceuticals USA, Inc. v. Sandoz, Inc. (2015)
+Kimble v. Marvel Entertainment, LLC (2015)
+Apple Inc. v. Samsung Electronics Co. (2016)
+TC Heartland LLC v. Kraft Foods Group Brands LLC (2017)
+Peter v. NantKwest, Inc. (2019)
+Other trademark cases
+G. & C. Merriam Co. v. Syndicate Pub. Co. (1915)
+Kellogg Co. v. National Biscuit Co. (1938)
+Patent and Trademark Office v. Booking.com B. V. (2020)
+Necessary and Proper Clause of Section VIII
+McCulloch v. Maryland (1819)
+Lambert v. Yellowley (1926)
+Sabri v. United States (2004)
+Gonzales v. Raich (2005)
+United States v. Comstock (2010)
+United States v. Kebodeaux (2013)
+Habeas corpus Suspension Clause of Section IX
+Ex parte Bollman (1807)
+Ex parte Merryman (1861)
+Ex parte Endo (1944)
+Immigration and Naturalization Service v. St. Cyr (2001)
+Boumediene v. Bush (2008)
+Department of Homeland Security v. Thuraissigiam (2020)
+No Bills of Attainder or Ex post facto Laws Clause of Section IX
+Calder v. Bull (1798)
+Sturges v. Crowninshield (1819)
+Garner v. Board of Public Works (1851)
+De Veau v. Braisted (1860)
+Ex parte Garland (1866)
+Hawker v. New York (1898)
+Samuels v. McCurdy (1925)
+Barr v. City of Columbia (1964)
+Teague v. Lane (1989)
+Kansas v. Hendricks (1997)
+Smith v. Doe (2003)
+Contract Clause of Section XLegal Tender Cases
+Hepburn v. Griswold (1870)
+Others
+Fletcher v. Peck (1810)
+Dartmouth College v. Woodward (1819)
+Sturges v. Crowninshield (1819)
+Ogden v. Saunders (1827)
+Charles River Bridge v. Warren Bridge (1837)
+Bronson v. Kinzie (1843)
+Stone v. Mississippi (1880)
+Smyth v. Ames (1898)
+Block v. Hirsh (1921)
+Home Building & Loan Ass'n v. Blaisdell (1934)
+W.B. Worthen Co. v. Kavanaugh (1935)
+City of El Paso v. Simmons (1965)
+U.S. Trust Co. of N.Y. v. New Jersey (1977)
+Allied Structural Steel Co. v. Spannaus (1978)
+Energy Reserves Group v. Kansas P. & L. Co. (1983)
+Exxon Corp. v. Eagerton (1983)
+Keystone Bituminous Coal Ass'n v. DeBenedictis (1987)
+Sween v. Melin (2018)
+Import-Export Clause of Section X
+Brown v. Maryland (1827)
+Canton Railroad Co. v. Rogan (1951)
+Compact Clause of Section X
+Florida v. Georgia (1855)
+Virginia v. West Virginia (1871)
+Virginia v. Tennessee (1893)
+Wharton v. Wise (1894)
+Northeast Bancorp v. Federal Reserve Board of Governors (1985)
+New Jersey v. New York (1998)
+Virginia v. Maryland (2003)
+Polar Tankers, Inc. v. City of Valdez (2009)
+Texas v. New Mexico and Colorado (2018)
+
+vteCopyright law of the United States
+17 U.S.C.
+Copyright Clause
+United States Copyright Office
+Compendium of U.S. Copyright Office Practices
+CARP → CRB
+Copyright Catalog
+Register of Copyrights
+Section 108 Study Group
+Copyright status of works by the federal government of the United States
+Copyright status of works by subnational governments of the United States
+StatutesPre-1976
+Copyright Act of 1790
+Copyright Act of 1831
+Copyright Act of 1870
+International Copyright Act of 1891
+Printing Act of 1895
+Copyright Act of 1909
+1970s
+Copyright Act of 1976
+1980s
+Berne Convention Implementation Act of 1988
+1990s
+Visual Artists Rights Act (1990)
+Copyright Remedy Clarification Act (1990)
+Copyright Renewal Act of 1992
+Audio Home Recording Act (1992)
+Uruguay Round Agreements Act (1994)
+No Electronic Theft Act (1994)
+Copyright Term Extension Act (1998)
+Fairness in Music Licensing Act of 1998
+Digital Millennium Copyright Act (1998)
+Online Copyright Infringement Liability Limitation Act
+WIPO Copyright and Performances and Phonograms Treaties Implementation Act
+2000s
+Family Entertainment and Copyright Act (2005)
+2010s
+Unlocking Consumer Choice and Wireless Competition Act (2014)
+Music Modernization Act (2018)
+2020s
+CASE Act (2020)
+Precedentsand rulingsSupreme Court
+Wheaton v. Peters (1834)
+Baker v. Selden (1879)
+Trade-Mark Cases (1879)
+Burrow-Giles Lithographic Co. v. Sarony (1884)
+Banks v. Manchester (1888)
+Callaghan v. Myers (1888)
+Bobbs-Merrill Co. v. Straus (1908)
+White-Smith Music Publishing Co. v. Apollo Co. (1908)
+Sony Corp. of America v. Universal City Studios, Inc. (1984)
+Feist v. Rural (1991)
+Campbell v. Acuff-Rose Music, Inc. (1994)
+Quality King v. L'anza (1998)
+Eldred v. Ashcroft (2003)
+MGM Studios, Inc. v. Grokster, Ltd. (2005)
+Omega S.A. v. Costco Wholesale Corp. (2010)
+Golan v. Holder (2012)
+Kirtsaeng v. John Wiley & Sons, Inc. (2013)
+American Broadcasting Cos., Inc. v. Aereo, Inc. (2014)
+Star Athletica v. Varsity Brands (2017)
+Fourth Estate v. Wall-Street.com (2019)
+Georgia v. Public.Resource.Org, Inc. (2020)
+Google LLC v. Oracle America, Inc. (2021)
+Appeal courts
+Berlin v. E.C. Publications, Inc. (2d Cir. 1964)
+Roth Greeting Cards v. United Card Co. (9th Cir. 1970)
+Eltra Corp. v. Ringer (4th Cir. 1978)
+Midway Manufacturing Co. v. Artic International, Inc. (7th Cir. 1983)
+Apple Computer, Inc. v. Franklin Computer Corp. (3d Cir. 1983)
+Fisher v. Dees (9th Cir. 1986)
+Whelan v. Jaslow (3d Cir. 1986)
+Vault Corp. v. Quaid Software Ltd. (5th Cir. 1988)
+Computer Associates International, Inc. v. Altai, Inc. (2d Cir. 1992)
+Dr. Seuss Enters., L.P. v. Penguin Books USA, Inc.(9th Cir. 1997)
+Itar-Tass Russian News Agency v. Russian Kurier, Inc. (2d Cir. 1998)
+Monge v. Maya Magazines, Inc. (9th Cir. 2012)
+Nunez v. Caribbean Int’l News Corp. (1st Cir. 2000)
+A&M Records, Inc. v. Napster, Inc. (9th Cir. 2001)
+Veeck v. Southern Building Code Congress Int'l (5th Cir. 2002)
+In re Aimster Copyright Litigation (7th Cir. 2003)
+NXIVM Corp. v. Ross Institute (2d Cir. 2004)
+BMG Music v. Gonzalez (7th Cir. 2005)
+Perfect 10, Inc. v. Amazon.com, Inc. (9th Cir. 2006)
+Cartoon Network, LP v. CSC Holdings, Inc. (2nd Cir. 2008)
+Ahanchian v. Xenon Pictures, Inc. (9th Cir. 2010)
+Penguin Group (USA) Inc. v. American Buddha (2d Cir. 2011)
+Viacom International Inc. v. YouTube, Inc. (2d Cir. 2012)
+Seltzer v. Green Day, Inc (9th Cir. 2013)
+Authors Guild, Inc. v. Google, Inc. (2d Cir. 2015)
+Lenz v. Universal Music Corp. (9th Cir. 2015)
+Naruto v. Slater (9th Cir. 2018)
+Lower courts
+Folsom v. Marsh (C.C.D. Mass. 1841)
+Elektra Records Co. v. Gem Electronic Distributors, Inc. (E.D.N.Y. 1973)
+Broderbund Software Inc. v. Unison World, Inc. (N.D. Cal. 1986)
+Playboy Enterprises, Inc. v. Frena (M.D. Fla. 1993)
+Bridgeman Art Library v. Corel Corp. (S.D.N.Y. 1999)
+RealNetworks, Inc. v. Streambox, Inc. (W.D. Wash. 2000)
+Arista Records LLC v. Lime Group LLC (S.D.N.Y. 2010)
+Capitol Records, LLC v. ReDigi Inc. (S.D.N.Y. 2013)
+Equals Three, LLC v. Jukin Media, Inc. (C.D. Cal. 2015)
+
+Berne Convention
+Uruguay Round
+Don't Copy That Floppy
+Home Recording Rights Coalition
+Nimmer on Copyright
+"You Wouldn't Steal a Car"
+
+
+
+

@@ -1,0 +1,349 @@
+Crime of preparing for another crime
+Criminal law
+Elements
+Actus reus
+Mens rea
+Causation
+Concurrence
+
+Scope of criminal liability
+Accessory
+Accomplice
+Complicity
+Corporate
+Principal
+Vicarious
+
+Severity of offense
+Felony
+Infraction (also called violation)
+Misdemeanor
+
+Inchoate offenses
+Attempt
+Conspiracy
+Incitement
+Solicitation
+
+Crimes against the person
+
+Assassination
+Assault
+Battery
+Child abuse
+Criminal negligence
+Defamation
+Domestic violence
+False imprisonment
+Harassment
+Home invasion
+Homicide
+Human trafficking
+Intimidation
+Kidnapping
+Castration
+Menacing
+Manslaughter (corporate)
+Mayhem
+Murder
+felony
+Negligent homicide
+Invasion of privacy
+Robbery
+Stalking
+Torture
+
+
+Sexual offenses
+Adultery
+Bigamy
+Child sexual abuse
+Cybersex trafficking
+Fornication
+Homosexuality
+Incest
+Indecent exposure
+Masturbation
+Obscenity
+Prostitution
+Rape
+Sex trafficking
+Sexual assault
+Sexual slavery
+Voyeurism
+
+Crimes against property
+Arson
+Blackmail
+Bribery
+Burglary
+Embezzlement
+Extortion
+False pretenses
+Forgery
+Fraud
+Gambling
+Intellectual property violation
+Larceny
+Payola
+Pickpocketing
+Possessing stolen property
+Robbery
+Smuggling
+Tax evasion
+Theft
+Trespass to land
+Vandalism, Mischief
+
+Crimes against justice
+Compounding
+Malfeasance in office
+Miscarriage of justice
+Misprision
+Obstruction
+Perjury
+Perverting the course of justice
+
+Crimes against the public
+Apostasy
+Begging
+Censorship violation
+Dueling
+Miscegenation
+Illegal consumption (such as prohibition of drugs, alcohol, and smoking)
+Suicide
+Terrorism
+
+Crimes against animals
+Cruelty to animals
+Wildlife smuggling
+Bestiality
+
+Crimes against the state
+Lèse-majesté
+Treason
+Espionage
+Secession
+Sedition
+Subversion
+
+Defences to liability
+Automatism
+Consent
+Defence of property
+Diminished responsibility
+Duress
+Entrapment
+Ignorantia juris non excusat
+Infancy
+Insanity
+Justification
+Mistake (of law)
+Necessity
+Provocation
+Self-defence
+
+Other common-law areas
+Contracts
+Evidence
+Property
+Torts
+Wills, trusts and estates
+
+Portals
+Law
+vte
+An inchoate offense, preliminary crime, inchoate crime or incomplete crime is a crime of preparing for or seeking to commit another crime. The most common example of an inchoate offense is "attempt". "Inchoate offense" has been defined as the following: "Conduct deemed criminal without actual harm being done, provided that the harm that would have occurred is one the law tries to prevent."[1][2]
+
+
+Intent[edit]
+Main article: Intention (criminal law)
+Every inchoate crime or offense must have the mens rea of intent or of recklessness, typically intent.  Absent a specific law, an inchoate offense requires that the defendant have the specific intent to commit the underlying crime. For example, for a defendant to be guilty of the inchoate crime of solicitation of murder, he or she must have intended for a person to die.[citation needed]
+Attempt,[3] conspiracy,[4] and solicitation[5] all require mens rea.[6]
+On the other hand, committing an offence under the US Racketeer Influenced and Corrupt Organizations Act merely requires "knowing",[7] that is, recklessness.  Facilitation also requires "believing",[8] yet another way of saying reckless.[citation needed]
+Intent may be distinguished from recklessness and criminal negligence as a higher mens rea.[9]
+
+Proof of intent[edit]
+Specific intent may be inferred from circumstances.[10]  It may be proven by the doctrine of "dangerous proximity", while the Model Penal Code requires a "substantial step in a course of conduct".[11]
+
+Merger doctrine[edit]
+Main article: Lesser included offense
+The doctrine of merger has been abandoned in many jurisdictions in cases involving a conspiracy, allowing an accused to be convicted of both conspiracy and the principal offense.  However, an accused cannot be convicted of either attempt or solicitation and the principal offense.[12]
+
+Defenses[edit]
+A number of  defences are possible to the charge of an inchoate offense, depending on the jurisdiction and the nature of the offense.[13]
+
+Impossibility[edit]
+Main article: Impossibility defense
+Impossibility is no defence to the crime of attempt where the conditions creating the impossibility are unknown to the actor.[14]
+Originally at common law, impossibility was a complete defence;[15]  as it was under French law at one point.[16]  Indeed, the ruling in Collins's Case L. and C. 471 was that an offender cannot be guilty of an attempt to steal his own umbrella when he mistakenly believes that it belongs to another.  Although the "moral guilt" for the attempt and the actual crime were the same, there was a distinction between the harm caused by a theft and the harmlessness of an impossible act.[17]  This principle was directly overruled in England with the rulings R v Ring and R v. Brown[18]  The example from R v Brown of an attempt to steal from an empty pocket is now a classic example of illustrating the point that impossibility is no defense to the crime of attempt when the conditions creating the impossibility are unknown to the actor.  This principle has been codified in the Model Penal Code:
+
+
+A person is guilty of an attempt to commit a crime if, acting with the kind of culpability otherwise required for commission of the crime he: purposely engages in conduct which would constitute the crime if the attendant circumstances were as he believes them to be. MPC § 5.01 (1)(a) (emphasis added).
+
+
+Consequently, the principle is universal in the United States either in Model Penal Code jurisdictions (40 states) or those remaining common law jurisdictions influenced by the reasoning in R v Brown.[19]
+Other cases that illustrate the case law for impossibility defences are People v. Lee Kong (CA, 1892), State v. Mitchell (MO, 1902), and United States v. Thomas (1962).
+
+Abandonment[edit]
+A defendant may plead and prove, as an affirmative defense, that they:
+
+Stopped all actions in furtherance of the crime or conspiracy
+Tried to stop the crime as it was ongoing
+Tried to convince the co-conspirators to halt such actions, or reported the crime to the police or other authorities
+Disputes[edit]
+Burglaries as inchoate crimes[edit]
+Main article: Burglary
+There is some scholarly treatment of burglaries in American law as inchoate crimes, but this is in dispute.  According to scholar Frank Schmalleger, burglaries "are actually inchoate crimes in disguise."[20]
+Other scholars warn about the consequences of such a theory:
+
+Burglary, as a preliminary step to another crime, can be seen as an inchoate, or incomplete, offense.  As it disrupts the security of persons in their homes and in regard to their personal property, however, it is complete as soon as the intrusion is made.  This dual nature is at the heart of a debate about whether the crime of burglary ought to be abolished, leaving its elements to be covered by attempt or as aggravating circumstances to other crimes, or retained and the grading schemes reformed to reflect the seriousness of the individual offense.— McCord and McCord.[21]
+Certainly, possession of burglary tools, in those jurisdictions that criminalize that activity, creates an inchoate crime (going equipped in the UK).[22]  It is clear that:
+
+In effect piling an inchoate crime onto an inchoate crime, the possession of burglary tools with the intent to use them in a burglary is a serious offense, a felony in some jurisdictions.  Gloves that a defendant was trying to shake off as he ran from the site of a burglary were identified as burglar's tools in Green v. State (Fla. App. 1991).— McCord and McCord.[21]
+Examples[edit]
+Examples of inchoate offenses include conspiracy, solicitation, facilitation, misprision of felony (and misprision generally), organized crime, Racketeer Influenced and Corrupt Organizations Act (RICO), and attempt, as well as some public health crimes; see the list below.[2]
+
+List of inchoate offenses[edit]
+Being an accessory
+Attempt—see State v. Mitchell
+Compounding a felony
+Compounding treason
+Conspiracy
+Criminal facilitation
+Incitement
+Misprision
+Misprision of felony
+Misprision of treason
+Offences under the Racketeer Influenced and Corrupt Organizations Act (RICO)
+Solicitation
+Stalking
+Mail and wire fraud
+See also[edit]
+Criminal law
+Impossibility defense
+Merger doctrine (criminal law)
+Pre-crime
+References[edit]
+
+
+^ Larry K. Gaines, Roger LeRoy Miller (2006). Criminal Justice in Action: The Core. Thomson-Wadsworth Publishing.
+
+^ a b See lists and chapters of texts at McCord and McCord, Infra, pp. 185-213, and Schmalleger, Infra, pp. 105-161, 404.
+
+^ See, e.g., "§ 110.00 Attempt to commit a crime.  A person is guilty of an attempt to commit a crime when, with intent to commit a crime, he engages in conduct which tends to effect the commission of such crime." N.Y. Penal L. § 110.00.  Found at New York State Assembly government web site. Retrieved on 2010-11-01 from http://public.leginfo.state.ny.us/LAWSSEAF.cgi?QUERYTYPE=LAWS+&QUERYDATA=@LLPEN+&LIST=LAW+&BROWSER=EXPLORER+&TOKEN=39445639+&TARGET=VIEW.
+
+^ See, e.g., "§ 105.00 Conspiracy in the sixth degree. A person is guilty of conspiracy in the sixth degree when, with intent that conduct constituting a crime be performed, he agrees with one or more persons to engage in or cause the performance of such conduct.   Conspiracy in the sixth degree is a class B misdemeanor."  N.Y. Penal L. § 105.00.  Found at New York State Assembly government web site. Retrieved on 2010-11-01 from http://public.leginfo.state.ny.us/LAWSSEAF.cgi?QUERYTYPE=LAWS+&QUERYDATA=@LLPEN+&LIST=LAW+&BROWSER=EXPLORER+&TOKEN=39445639+&TARGET=VIEW.
+
+^ See, e.g., "§ 100.00 Criminal solicitation in the fifth degree. A person is guilty of criminal solicitation in the fifth degree when, with intent that another person engage in conduct constituting a crime, he solicits, requests, commands, importunes or otherwise attempts to cause such other person to engage in such conduct. Criminal solicitation in the fifth degree is a violation." N.Y. Penal L. § 100.00.  Found at New York State Assembly government web site. Retrieved on 2010-11-01 from http://public.leginfo.state.ny.us/LAWSSEAF.cgi?QUERYTYPE=LAWS+&QUERYDATA=@LLPEN+&LIST=LAW+&BROWSER=EXPLORER+&TOKEN=39445639+&TARGET=VIEW.
+
+^ James W.H. McCord and Sandra L. McCord, Criminal Law and Procedure for the paralegal: a systems approach, pp. 187, 194-195, 205, respectively. (3d ed. Thomson Delmar Learning 2006) ISBN 978-1-4018-6564-1.  Found at Google Books. Retrieved on 2010-11-01 from https://books.google.com/books?id=tBwyPwAACAAJ.
+
+^ James W.H. McCord and Sandra L. McCord, Criminal Law and Procedure for the paralegal: a systems approach, supra, p. 206, citing United States v. Anguilo (1st Cir. 1988).
+
+^ See, e.g., "§ 115.00 Criminal facilitation in the fourth degree. A person is guilty of criminal facilitation in the fourth degree when, believing it probable that he is rendering aid ...." N.Y. Penal L. § 115.00.  Found at New York State Assembly government web site. Retrieved on 2010-11-01 from http://public.leginfo.state.ny.us/LAWSSEAF.cgi?QUERYTYPE=LAWS+&QUERYDATA=@LLPEN+&LIST=LAW+&BROWSER=EXPLORER+&TOKEN=39445639+&TARGET=VIEW.
+
+^ "Mens Rea". LII / Legal Information Institute. Retrieved 2022-10-18.
+
+^ See People v. Murphy, 235 A.D. 933, 654 N.Y.S. 2d 187 (N.Y. 3d Dep't 1997).
+
+^ James W.H. McCord and Sandra L. McCord, Criminal Law and Procedure for the paralegal: a systems approach, supra, pp. 189-190, citing People v. Acosta, (N.Y. 1993) and Model Penal Code section 5.01(1)(c).
+
+^ "Conspiracy: The Criminal Agreement, in Theory and in Practice". College of William & Mary Law School Faculty Publications.
+
+^ "inchoate offense". LII / Legal Information Institute. Retrieved 2022-10-18.
+
+^ Strahorn, John S. (1930). "The Effect of Impossibility on Criminal Attempts". University of Pennsylvania Law Review and American Law Register. 78 (8): 962–998. doi:10.2307/3307577. ISSN 0749-9833.
+
+^ See James Fitzjames Stephen, A History of the Criminal Law of England, Vol. II, 225 (1883)
+
+^ See Adolphe Chauveau, Faustin Hélie, Théorie du Code Pénal 382-3 (1843)
+
+^ James Stephen at 225.
+
+^ 66 L.T. (N.S) 300, and 24 Q.B.D. 357.
+
+^ "Model Penal Code". individual.utoronto.ca. Retrieved 2022-10-18.
+
+^ Frank Schmalleger, Criminal Law Today: An Introduction with Capstone Cases, p. 110, (Upper Saddle River: Pearson Prentice Hall, 2006) ISBN 0-13-170287-4, citing Joshua Dressler, Understanding Criminal Law, 2nd ed., (Boston:Matthew Bender, 1995), p. 351.
+
+^ a b James W.H. McCord and Sandra L. McCord, Criminal Law and Procedure for the paralegal: a systems approach, supra, p. 127.
+
+^ See Schmalleger, Supra, p. 404.
+
+
+External links[edit]
+O'Connor, T. (2010-08-15). "Incomplete (Inchoate) Crimes". MegaLinks in Criminal Justice.
+vteTypes of crimeNote: Crimes vary by jurisdiction. Not all types are listed here.Classes
+Infraction
+Misdemeanor
+Felony
+Summary
+Indictable
+Hybrid
+
+Law portalAgainst the person
+Assault
+Battery
+Blackmail
+Cybersex trafficking
+Extortion
+Discrimination
+Harassment
+Kidnapping
+Identity theft
+Manslaughter
+Mayhem
+Murder
+Rape
+Robbery
+Sex trafficking
+Sexual assault
+Sexual slavery
+Corporate manslaughter
+Against property
+Arson
+Burglary
+Deception
+Embezzlement
+False pretenses
+Fraud
+Larceny
+pickpocketing
+Possession of stolen goods
+Theft
+Vandalism
+Against public order
+Drug possession
+Public order
+Breach of the peace
+Against the state
+Tax noncompliance
+Espionage
+Treason
+Secession
+Sedition
+Subversion
+Against justice
+Bribery
+Misprision of felony
+Obstruction
+Perjury
+Malfeasance in office
+Inchoate offenses
+Accessory
+Attempt
+Conspiracy
+Incitement
+Encouraging or assisting a crime
+Solicitation
+Common purpose
+
+WikiSource
+Wikimedia Commons
+Wikiquote
+Wikinews
+
+
+
+

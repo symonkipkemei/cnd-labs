@@ -1,0 +1,190 @@
+Bidding at the last moment as an auction strategy
+
+
+Part of a series onAuctions
+Types
+
+All-pay
+Amsterdam
+Anglo-Dutch
+Barter double
+Best/not best
+Brazilian
+Calcutta
+Candle
+Chinese
+Click-box bidding
+Combinatorial
+Common value
+Deferred-acceptance
+Discriminatory price
+Double
+Dutch
+English
+Forward
+French
+Generalized first-price
+Generalized second-price
+Japanese
+Multi-attribute
+Multiunit
+No-reserve
+Rank
+Reverse
+Scottish
+Sealed first-price
+Simultaneous ascending
+Single-price
+Traffic light
+Uniform price
+Unique bid
+Value of revenues
+Vickrey
+Vickrey–Clarke–Groves
+Walrasian
+Yankee
+
+
+Bidding
+
+Shading
+Calor licitantis
+Cancellation hunt
+Jump
+Rigging
+Sniping
+Suicide
+Tacit collusion
+
+
+Contexts
+
+Algorithms
+Autos
+Art
+Charity
+Children
+Cricket players
+Domain names
+Flowers
+Loans
+Scam
+Slaves
+Spectrum
+Stamps
+Virginity
+Wine
+Wives
+
+
+Theory
+
+Digital goods
+Price of anarchy
+Revenue equivalence
+Winner's curse
+
+
+Online
+
+Ebidding
+Private electronic market
+Software
+
+vte
+Auction sniping (also called bid sniping)  is the practice, in a timed online auction, of placing a bid likely to exceed the current highest bid (which may be hidden) as late as possible—usually seconds before the end of the auction—giving other bidders no time to outbid the sniper. This can be done either manually or by software on the bidder's computer,[1] or by an online sniping service.[2][3]
+A bid sniper (often, merely called a sniper) is a person, or software agent, that performs auction sniping.
+
+
+Usage[edit]
+Online services claim that their use decreases the failure rate of the snipe, because they have more reliable servers and a faster Internet connection with less variation in latency, allowing the bid to more reliably be placed close to the deadline.
+
+Strategy[edit]
+Experienced bidders on online auctions with fixed ending-times often prefer entering bids late in the auction[4] to avoid bidding wars (multiple rounds of bidders each increasing their maximum bid to temporarily regain "current highest bid" status)[2] or bid chasing (where the presence of an existing bid encourages others to bid on the same item).
+One economic analysis of sniping suggests that sniping is a rational gain-maximizing (in other words, price-minimizing) strategy for bidders in auctions that fulfill two criteria:
+
+the end time is rigidly fixed
+it is possible to gain additional information about the "true" value of the item by inspecting previous bids[5]
+For example, a novice antiques buyer may prefer to bid in auctions which already have bids placed by more experienced antiques buyers, on the grounds that the items which the experienced buyers are interested in are more likely to be valuable. In this case, more-informed buyers may delay bidding until the last minutes of the auction to avoid creating competition for their bids, leading to a lower winning bid.
+An analysis of actual winning bids on eBay suggests that winning bidders are more likely to have placed a single bid late in the auction, rather than to have placed multiple incremental bids as the auction progresses.[6]
+
+Avoidance of maximum bid fishing[edit]
+Many online auctions use proxy bidding, an iterative sealed bid auction where winners pay a fixed increment over the second highest bid. The auctioneer does not disclose the current maximum bid, but the second highest bid is always public.
+In proxy bidding, the wise bidder must know in advance the "true" value of an item as a basis for their secret bidding limit.[2] The fact that the maximum bid is revealed when it is outbid introduces the possibility of maximum bid fishing. Bidders unsure of the value of an item may incrementally increase their bid until they narrowly exceed the previously hidden maximum, thus placing themselves in a winning position without placing a very high bid.
+Sniping eliminates this possibility and effectively converts the auction to a Vickrey auction, the same as a proxy bidding auction except that all bids are kept secret until the close of bidding.
+
+Shill avoidance[edit]
+Sniping closes a loophole to fraudulent practice by a shill (an agent for the seller, which may be another account of the seller) to raise the bid to the maximum. They then hope the original bidder will increase their maximum bid even by a small amount to win the auction. The danger to the seller in this case is that the original bidder may not choose to increase their bid, leaving the seller with a futile transaction (selling the item to themselves) which will often still incur a fee from the auction service. Bidding at the last moment prevents a shill bidder from pushing the auction higher, as they have no time to make the incremental bids required.
+
+Simultaneous bidding, without potentially winning multiple bids[edit]
+Bid sniping can be used when many similar items are available at auction simultaneously, with various ending times, and a bidder only wishes to win one item. Automated bid sniping tools allow for an efficient way to bid on multiple items, up to the maximum price the bidder wishes to pay, without bidding on the actual auction platform itself and potentially winning more than one of the auctions.
+Once the bidder wins the desired item, they can cancel the other scheduled snipe bids before they are actually placed in the auction system itself. This is not a factor if the auction platform allows bidders to instantly withdraw their bids without reason, but many do not.
+Increasing the number of similar or identical items bid on, reduces the attachment to winning any one of them. The ability to batch a queue of snipe bids for auctions long in advance and waiting for notification of the win without further management allows for a more efficient use of time.
+
+Objections[edit]
+Non-sniping bidders may object to sniping, claiming that it is unfair to place bids at a point when it is impossible or unfeasible for other bidders to evaluate and possibly counter the bid, causing them to lose auctions even though they would have been willing to meet the winning bid amount. Bidders sometimes object to sniping when multiple identical items are listed as a separate lot, or on breakup auctions, where items that constitute a set are broken down and sold separately, as they must wait to find whether their maximum bid on one lot has been exceeded before being in a position to decide whether to bid on another.[citation needed]
+However, online auction sites, unlike live auctions, usually have an automatic bidding system which allows a bidder to enter their maximum acceptable bid. This is a hidden or proxy bid, known to the system, but not any other bidders; during the auction the actual bid is incremented only enough to beat the existing highest bid. For example, if an item's current maximum high bid is 57 and someone is prepared to pay 100 and bids accordingly, the displayed bid will be 58, with the hidden maximum of 100.[7]
+The failure of a maximum acceptable bid beaten by a sniper prepared to pay more is not due to the act of sniping, unless the original bidder would have bid higher on seeing their bid exceeded.  For this reason, opposition to sniping can be analyzed as more of a subjective reaction to losing an auction for the usual reason of not bidding enough, than a reaction to a "dirty trick".[8] The beaten bidder would have beaten the sniper if their maximum bid had been more than the sniper was willing to offer.
+However, if the minimum bid increment is very low, the sorites paradox can come into play, and make it difficult for a person to establish a single maximum bid.[9] For example, if the minimum bid increment on an auction is 10 cents, it can be difficult or impossible for a person to identify a price which they would be willing to pay to win the item but which they would not be willing to exceed by ten cents.[original research?]
+
+Banning by auction sites[edit]
+While some people disapprove of auction sniping, it is not forbidden by the rules of many auction sites. For example, it is permitted by eBay.  eBay Germany banned automated sniping services in 2002,[10] but the ban was declared illegal by Berlin's County Court, and revoked.[11]
+
+Deterrents[edit]
+This section has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2010) (Learn how and when to remove this template message)
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (May 2011) (Learn how and when to remove this template message)
+
+ (Learn how and when to remove this template message)
+CAPTCHAs[edit]
+One attempt to defeat automated bid sniping software is requiring bidders to pass a CAPTCHA test prior to entering their bid. This ensures that all bids are entered manually. Some software can read some CAPTCHAs, potentially neutralising the protection.
+
+Final extension[edit]
+Also known simply as "anti-snipe". Some online auction systems attempt to discourage sniping (manual or automated) by automatically extending the auction time if a last-minute bid is placed. This approach leaves all bidding open, and allows any bidders who are watching during the final few minutes to raise the bid. It can also lead to last-minute automated out-of-control bidding wars between bidders, which can extend the bidding time long beyond what the seller desired, greatly raising the final selling price. Any site which implements a limit to the number of time extensions allowed simply causes a final extension snipe.
+
+Buy It Now[edit]
+Some auction systems allow buyers to end an auction early by paying a predetermined final price for the item (generally substantially more than the minimum opening bid). This may discourage some sniping because another bidder can simply purchase the item outright while the sniper is waiting for the auction end time, even if a successful snipe bid could win it for substantially less than the Buy It Now price. On eBay the Buy It Now (BIN) option is not intended to deter sniping, and is removed as soon as a bid (exceeding a reserve price, if set) is made. A bidder intending to snipe can eliminate the Buy It Now option by making the lowest acceptable bid early in the auction.
+The practice of buying newly listed Buy It Now items offered at an attractively low price is sometimes called "BIN sniping",[12] though unrelated to last-minute sniping. BIN sniping cannot be automated; the sniper must check items as soon they are listed, and buy before anyone else.
+
+See also[edit]
+Bid shading
+Jump bidding
+Bidding fever
+References[edit]
+
+
+^ Baer, Adam (5 September 2002). "How to Outbid the Fanatics: Software That Never Sleeps". The New York Times.
+
+^ a b c Roth, Alvin; Ockenfels, Axel (25 June 2006). "On eBay, it pays to snipe". USA Today. Interviewed by Interviewed by Dan Vergano. Retrieved 22 September 2016.
+
+^ Glasner, Joanna (23 September 2002). "eBay Bidders Sold on Sniping". Wired. Archived from the original on 5 May 2008. Retrieved 22 September 2016.
+
+^ "Best to bid late on eBay". SeedMagazine.com. Seed Media Group LLC. 10 July 2006. Archived from the original on 14 June 2009. Retrieved 22 September 2016.{{cite web}}:  CS1 maint: unfit URL (link)
+
+^ 
+Roth, Alvin E.; Ockenfels, Axel (2000), "Last Minute Bidding and the Rules for Ending Second-Price Auctions: Theory and Evidence from a Natural Experiment on the Internet", NBER Working Paper No. W7729, National Bureau of Economic Research, SSRN 232111
+
+^ 
+Yang, I.; Kahng, B. (2006), "Bidding process in online auctions and winning strategy: Rate equation approach", Physical Review E, 73 (6): 67101, arXiv:physics/0511073, Bibcode:2006PhRvE..73f7101Y, doi:10.1103/PhysRevE.73.067101, PMID 16907028, S2CID 42328956
+
+^ "Bidding overview". ebay.co.uk. Retrieved 22 September 2016.
+
+^ "The Sniper". OnlineAuctionReviews.org. 21 August 2012. Archived from the original on 13 September 2016. Retrieved 22 September 2016.
+
+^ Sanchez, Julian (23 June 2004). "Preferences, Sorites, and eBay". juliansanchez.com.
+
+^ Steiner, David (25 October 2002). "eBay Germany Bans 'Sniping' Services". EcommerceBytes-NewsFlash at EcommerceBytes.com. ISSN 1539-5065. Retrieved 22 September 2016.
+
+^ Kurzidim, Michael (25 September 2003). "Sniper Software doch legal" [Sniper software legal after all]. heise.de (in German). Retrieved 22 September 2016.
+
+^ "Why are new Buy-It-Now items already sold when I bid?". auctionbucks.com. 6 August 2011.
+
+
+External links[edit]
+Mathematicians snipe to win on eBay (23 June 2006, NewScientist.com news service)
+Why sniping with one's maximum value is the optimal bidding strategy for eBay (27 April 2004)
+eSnipe
+
+
+

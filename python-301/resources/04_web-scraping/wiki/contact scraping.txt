@@ -1,0 +1,79 @@
+Contact scraping is the practice of obtaining access to a customer's e-mail account in order to retrieve contact information that is then used for marketing purposes.
+The New York Times refers to the practices of Tagged, MyLife and desktopdating.net as "contact scraping".[1]
+Several commercial packages are available that implement contact scraping for their customers, including ViralInviter, TrafficXplode, and TheTsunamiEffect.[2]
+Contact scraping is one of the applications of web scraping, and the example of email scraping tools include Uipath, Import.io, and Screen Scraper.[3] The alternative web scraping tools include UzunExt, R functions, and Python Beautiful Soup. The legal issues of contact scraping is under the legality of web scraping.
+
+
+Web scraping tools[edit]
+Following web scraping tools can be used as alternatives for contact scraping:
+
+UzunExt is an approach of data scraping in which string methods and crawling process are applied to extract information without using a DOM Tree .[4]
+R functions data. rm() and data. rm.a() can be used as a web scraping strategy.[5]
+Python Beautiful Soup libraries can be used to scrape data and converted data into csv files.[6]
+Legal issues[edit]
+United States[edit]
+In the United States, there exists three most commonly legal claims related to web scraping: compilation copyright infringement, violation of the Computer Fraud and Abuse Act (CFAA), and electronic trespass to chattel claims. For example, the users of "scraping tools" may violate the electronic trespass to chattel claims.[7] One of the well-known cases is Intel Corp. v. Hamidi, in which the US court decided that the computer context was not included in the common law trespass claims.[8][9] However, the three legal claims have been changed doctrinally, and it is uncertain whether the claims will still exist in the future.[7][10] For instance, the applicability of the CFAA has been narrowed due to the technical similarities between web scraping and web browsing.[11] In the case of EF Cultural Travel BV v. Zefer Corp., the court declined to apply CFAA since EF failed to meet the standard for "damage".[12]
+
+European Union[edit]
+By the Article 14 of the EU’s General Data Protection Regulation (GDPR), data controllers are obligated to inform individuals before processing personal data.[13] In the case of Bisnode vs. Polish Supervisory Authority, Bisnode obtained personal data from the government public register of business activity, and the data were used for business purpose. However, Bisnode only obtained email addresses for some of the people, so the mail notifications were only sent to those individuals. Instead of directly informing other people, Bisnode simply posted a notice on its website, and thus it failed to comply with the GDPR’s Article 14 obligations.[14][15]
+
+Australia[edit]
+In Australia, address‑harvesting software and harvested‑address lists must not be supplied, acquired, or used under the Spam Act 2003. The Spam Act also requires all marketing emails to be sent with the consent of the recipients, and all emails must include an opt-out facility.[16] The company behind the GraysOnline shopping websites was fined after sending emails that breached the Spam Act. GraysOnline sent messages without an option for recipients to opt-out of receiving further emails, and it sent emails to people who had previously withdrawn their consent from receiving Grays' emails.[17][18]
+
+China[edit]
+Under the Cybersecurity Law of the People's Republic of China, web crawling of publicly available information is regarded as legal, but it would be illegal to obtain nonpublic, sensitive personal information without consent.[19] On November 24, 2017, three people were convicted of the crime of illegally scraping information system data stored on the server of Beijing ByteDance Networking Technology Co., Ltd.[20]
+
+See also[edit]
+Web scraping
+Data scraping
+Information extraction
+Web crawler
+Web archiving
+Search engine scraping
+References[edit]
+
+
+^ Typing In an E-Mail Address, and Giving Up Your Friends’ as Well
+
+^ 'Viral inviters' want your e-mail contact list
+
+^ "Web Scraping", SpringerReference, Berlin/Heidelberg: Springer-Verlag, 2011, doi:10.1007/springerreference_66103, S2CID 246467465, retrieved 2020-11-03
+
+^ Uzun, E. (2020). "A Novel Web Scraping Approach Using the Additional Information Obtained From Web Pages". IEEE Access. 8: 61726–61740. doi:10.1109/ACCESS.2020.2984503. ISSN 2169-3536. S2CID 215740364.
+
+^ Vallone, A., Coro, C. and Beatriz, S. (2020). "Strategies to access web-enabled urban spatial data for socioeconomic research using R functions". Journal of Geographical Systems: Spatial Theory, Models, Methods, and Data. 22 (2): 217–34. Bibcode:2020JGS....22..217V. doi:10.1007/s10109-019-00309-y. S2CID 202181499.
+
+^ Vela, Belen; Cavero, Jose Maria; Caceres, Paloma; Cuesta, Carlos E. (2019). "A Semi-Automatic Data–Scraping Method for the Public Transport Domain". IEEE Access. 7: 105627–105637. doi:10.1109/access.2019.2932197. ISSN 2169-3536. S2CID 201068464.
+
+^ a b Hirschey, Jeffrey (2014). "Symbiotic Relationships: Pragmatic Acceptance of Data Scraping". SSRN Electronic Journal. doi:10.2139/ssrn.2419167. ISSN 1556-5068.
+
+^ "Internet Law, Ch. 06: Trespass to Chattels". www.tomwbell.com. Retrieved 2020-11-12.
+
+^ Beckham, J. Brian (2003). "Intel v. Hamidi: Spam as a Trespass to Chattels - Deconstruction of a Private Right of Action in California". The John Marshall Journal of Information Technology & Privacy Law. 22: 205–228.
+
+^ "FAQ about linking – Are website terms of use binding contracts?". www.chillingeffects.org. 2007-08-20. Archived from the original on 2002-03-08. Retrieved 2007-08-20.
+
+^ Christensen, J. (2020). "The Demise of the Cfaa in Data Scraping Cases". Notre Dame Journal of Law, Ethics & Public Policy. 34 (2): 529–47.
+
+^ "Controversy Surrounds 'Screen Scrapers': Software Helps Users Access Web Sites But Activity by Competitors Comes Under SCrutiny". Findlaw. Retrieved 2020-11-12.
+
+^ Philip H. Liu, Mark Edward Davis (2015–16). "Web Scraping - Limits on Free Samples". Landslide. 8.{{cite journal}}:  CS1 maint: date format (link)
+
+^ Tomáš Pikulíka, Peter Štarchoň (2020). "Public registers with personal data under scrutiny of DPA regulators". Procedia Computer Science. 170: 1174–1179. doi:10.1016/j.procs.2020.03.033.
+
+^ Oxford Analytica (2019). "Europe's national regulators hold key to GDPR success". Expert Briefings.
+
+^ Infrastructure. "Spam Act 2003". www.legislation.gov.au. Retrieved 2020-12-01.
+
+^ Torresan, Danielle (2013). "Keeping Good Companies". Informit. 65: 668–669.
+
+^ "Unauthorised photographs on the internet — back on the Attorney-General's agenda". Internet Law Bulletin. 8. 2005.
+
+^ Lee, Jyh-An (2018). "Hacking into China's Cybersecurity Law" (PDF). Wake Forest Law Review. 53: 57–104.
+
+^ Li Qian, Jiang Tao (2020). "Rethinking Criminal Sanctions on Data Scraping in China Based on a Case Study of Illegally Obtaining Specific Data by Crawlers". China Legal Science. 8: 136.
+
+
+
+
+

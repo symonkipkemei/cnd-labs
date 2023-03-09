@@ -1,0 +1,26 @@
+Wrapper in data mining is a procedure that extracts regular subcontent of an unstructured or loosely-structured information source and translates it into a relational form, so it can be processed as structured data.[1] Wrapper induction is the problem of devising extraction procedures on an automatic basis, with minimal reliance on hand-crafted rules. 
+Many web pages are automatically generated from structured data – telephone directories, product catalogs, etc. – wrapped in a loosely structured presentation language (usually some variant of HTML), formatted for human browsing and navigation. Structured data are typically descriptions of objects retrieved from underlying databases and displayed in web pages following fixed templates at a low level, injected into pages where the high-level structure can vary from week to week, per the rapidly evolving fashion of the site's presentation skin. The precise dividing line between the fluid high-level skin and the less fluid structured data templates is rarely documented for public consumption, outside of the content management team at the web property. Software systems using such resources must translate HTML content into a relational form. Wrappers are commonly used as such translators. Formally, a wrapper is a function from a page to the set of tuples it contains.
+
+Wrapper generation[edit]
+There are two main approaches to wrapper generation: wrapper induction and automated data extraction.
+Wrapper induction uses supervised learning to learn data extraction rules from manually labeled training examples. The disadvantages of wrapper induction are
+
+the time-consuming manual labeling process and
+the difficulty of wrapper maintenance.
+Due to the manual labeling effort, it is hard to extract data from a large number of sites as each site has its own templates and requires separate manual labeling for wrapper learning.
+Wrapper maintenance is also a major issue because whenever a site changes the wrappers built for the site become obsolete. Due to these shortcomings, researchers have studied automated wrapper generation using unsupervised pattern mining. Automated extraction is possible because most Web data objects follow fixed templates. Discovering such templates or patterns enables the system to perform extraction automatically.[2]
+Wrapper generation on the Web is an important problem with a wide range of applications. Extraction of such data enables one to integrate data/information from multiple Web sites to provide value-added services, e.g., comparative shopping, object search, and information integration.
+
+See also[edit]
+Business intelligence (section semi-structured or unstructured data)
+Web scraping
+Sources[edit]
+
+^ Nicholas Kushmerick, Daniel S. Weld, Robert Doorenbos, Wrapper Induction for Information Extraction Proceedings of the International Joint Conference on Artificial Intelligence,  1997
+
+^ Liu, B. Web Data Mining: Exploring Hyperlinks, Contents and Usage Data, Springer, 2007.
+
+
+
+
+

@@ -1,0 +1,43 @@
+
+
+Spam Act 2003Parliament of Australia
+Long title
+ An Act about spam, and for related purposes  
+CitationSpam Act 2003Enacted byHouse of RepresentativesEnacted bySenateAssented to12 December 2003Commenced12 December 2003Legislative historyFirst chamber: House of RepresentativesBill titleSpam Bill 2003Bill citationSpam Bill 2003Bill published on18 September 2003Introduced byPeter McGauranRelated legislationTelecommunications Act 1997Status: In force
+The Spam Act 2003 (Cth) is an Act passed by the Australian Parliament in 2003 to regulate commercial e-mail and other types of commercial electronic messages. The Act restricts spam, especially e-mail spam and some types of phone spam, as well as e-mail address harvesting. However, there are broad exemptions.[1]
+The first portions of the Act came into effect on 12 December 2003, the day the act received Royal Assent, with the remaining sections of the Act coming into force on 10 April 2004. The Act was originally enforced by the Australian Communications Authority, which in 2005 merged into the Australian Communications and Media Authority (ACMA).
+
+
+Outline[edit]
+The key points of the Act provide that:[2]
+
+Unsolicited commercial electronic messages must not be sent unless it is a designated commercial electronic message defined at Schedule 1 of the Act.
+Commercial electronic messages must include information about the individual or organisation who authorised the sending of the message.
+Commercial electronic messages must contain a functional unsubscribe facility.
+Address‑harvesting software must not be supplied, acquired or used.
+An electronic address list produced using address‑harvesting software must not be supplied, acquired or used.
+The main remedies for breaches of the Act are civil penalties and injunctions.
+Significant cases[edit]
+Australian Communications Authority v Clarity1 (2006)[edit]
+In ACA v Clarity1 (2006),[3] Justice Robert Nicholson considered the respondent's key defence, being retrospective application of provisions under the Act relating to the acquisition and use of harvested address lists. He noted specifically that lists gathered or acquired prior to the Act coming into force are still subject to the legislation. He also struck out the respondent's defence that it had obtained consent to use the gathered addresses for the defined purpose, and also noted a lack of compliance with the provisions of the Act requiring the provision of a functional unsubscribe facility.
+
+Case Information at the Federal Court of Australia (File WAD155/2005)
+References[edit]
+
+
+^ "Spam Act 2003". www.legislation.gov.au. Retrieved 22 January 2023.
+
+^ Spam Act 2003 (Cth) s 3 (Simplified outline).
+
+^ Australian Communications and Media Authority v Clarity1 Pty Ltd [2006]
+FCA 410 (13 April 2006)
+
+
+External links[edit]
+DCITA spam home
+ACMA spam home
+Information about the spam laws from the EFA
+Federal Register of Legislation
+
+
+

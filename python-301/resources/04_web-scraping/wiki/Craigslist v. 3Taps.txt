@@ -1,0 +1,112 @@
+2013 Northern District of California Court case
+Craigslist Inc. v. 3Taps Inc.CourtUnited States District Court for the Northern District of CaliforniaFull case nameCRAIGSLIST INC., Plaintiff, v. 3TAPS INC. ET AL., Defendants. DecidedN/AHoldingCraigslist took adequate measures to revoke 3Taps's authorization and to notify 3Taps in order to sue for CFAA violationCourt membershipJudge(s) sittingCharles R. BreyerKeywordsComputer Fraud and Abuse Act, trademark, copyright, breach of contract
+Craigslist Inc. v. 3Taps Inc., 942 F.Supp.2d 962 (N.D. Cal. 2013) was a Northern District of California Court case in which the court held that sending a cease-and-desist letter and enacting an IP address block is sufficient notice of online trespassing, which a plaintiff can use to claim a violation of the Computer Fraud and Abuse Act.
+3Taps and PadMapper were companies that partnered to provide an alternative user interface for browsing Craigslist's housing ads. In doing so, they scraped Craigslist's site for data, which Craigslist did not approve of. Craigslist sent both companies a cease-and-desist letter and blocked their IP addresses, but this did not stop 3Taps from scraping through other IP addresses. Craigslist then sued, resulting in this case.
+In pre-trial motions 3Taps moved to dismiss the lawsuit on multiple grounds. In response, the court issued an order that set precedent on whether online hosts can use the CFAA to protect public data. The court held that sending a cease and desist letter and blocking a client's IP address are sufficient to qualify as notice under the Computer Fraud and Abuse Act. The court also held that 3Taps should have known that Craigslist was revoking its authorization to access the site.[1]  The motion to dismiss was granted in part, and denied in part.
+On June 26, 2015, Craigslist came to separate settlements with 3Taps and Padmapper.[2] Both settlements required the defendants to permanently stop taking content from Craigslist, directly or indirectly. 3Taps paid $1,000,000 which Craigslist will donate to the EFF over ten years. Press coverage said that 3Taps would shut down, but as of July 16 it was still active with content from other sites.
+
+
+Background[edit]
+Craigslist is a website where users post and browse classified ads for, among other things, housing.
+PadMapper is a website specialized for browsing housing ads.
+PadMapper collected data from Craigslist and offered a map of the ads.[3]
+3Taps, a data scraping and hosting company, was also collecting data from Craigslist as part of a larger effort to gather public datasets.[4]
+On 22 June 2012, Craigslist sent a cease-and-desist letter to PadMapper, requesting that PadMapper stop scraping Craigslist's real estate listings.[3]
+Earlier in 2010, Craigslist's founder Craig Newmark had written that "we take issue with only services which consume a lot of bandwidth."[5][6]
+Craigslist also blocked PadMapper's and 3Taps's IP addresses from accessing its site, causing a significant drop in traffic to PadMapper.[3]
+3Taps continued to collect data from Craigslist by accessing the site through proxies, which allowed it to conceal its IP address and bypass Craigslist's block.[1]
+On 9 July 2012, PadMapper restored its site by getting its data from 3Taps instead of directly from Craigslist.[3]
+On July 16, 2012 Craigslist changed their terms of service to claim exclusive ownership, and exclusive right to enforce copyright of all postings made by users.  Craigslist later rescinded these changes under pressure from the Electronic Frontier Foundation and others on August 8, 2012.[7]
+On 20 July 2012, Craigslist sued both PadMapper and 3Taps.
+Craigslist's complaint specified several reasons that 3Taps's continued use of Craigslist was unlawful:
+it was in violation of the Computer Fraud and Abuse Act;
+it was a breach of Craigslist's terms of service contract;
+it infringed on Craigslist's copyright of the listings;
+it was also contributory copyright infringement, since 3Taps shared the listings with PadMapper;
+and it infringed on and diluted Craigslist's trademark.[3]  3Taps opposed the claim that it violated the CFAA.[4]
+On July 12, 2013 the Electronic Frontier Foundation filed an amicus brief in support of PadMapper and 3Taps.[8][9]
+
+Opinion of the court[edit]
+On April 29, 2013 the court denied 3Taps' motion to dismiss Craigslists's CFAA claim.  Most importantly the court held that Craigslist could continue its damages claim on posts made between July 16, 2012 and August 8, 2012. This was the period during which Craigslist had modified its terms of service to claim exclusive copyright on all postings.[7]
+
+Response of the court to 3Taps' arguments for dismissal[edit]
+3Taps provided three reasons for dismissing the claim which the court granted in part, and dismissed in part.[1]
+First, 3Taps argued that it had Craigslist's authorization to access the listings.
+The CFAA claim only applies to access of a protected computer system without authorization.
+It claimed that Craigslist was a public website, so anyone, including 3Taps, always had authorization.
+The court disagreed with this, stating that although Craigslist had granted 3Taps authorization initially, it then revoked the authorization.
+The court cited the case LVRC Holdings v. Brekka, in which the Ninth Circuit held that a former employee of an employer no longer had the employer's authorization to log into a work computer.
+Thus, the court held that 3Taps was unauthorized when it continued to access Craigslist after Craigslist rescinded the authorization.[1]
+Second, 3Taps suggested that Craigslist had set restrictions on how 3Taps must use the data, rather than restricting 3Taps's access to the data altogether.
+3Taps cited the Ninth Circuit's sentiment from United States v. Nosal that violating a use policy was less severe than violating an access restriction.
+The argument in Nosal was that use policies could be complex, while denying access is simple and easy to follow.
+Thus, it would be dangerous for the court to criminalize use violations.
+3Taps likened Nosal to its own case, alleging that Craigslist had taken measures to prevent 3Taps from using the listings in a certain way, rather than enacting a straightforward access revocation.
+The court viewed it differently: it considered Craigslist's cease-and-desist letter and IP blocking as access revocation.[1]
+The court pointed to language Craigslist's cease-and-desist letter affirming its interpretation, "You ... are hereby prohibited from accessing and using the CL Services for any reason."[10]
+Third, 3Taps warned of negative consequences of a decision that criminalizes a vague access restriction.
+It criticized Craigslist's enforcement as unclear about what exactly what it was prohibiting.
+3Taps stated that an ordinary user would be more likely to misunderstand Cragslist's IP blocking than, for example, a system that required a password to gain access.
+The court found this not of much concern, highlighting that the personalized cease-and-desist letter and subsequent lawsuit provided adequate notice and information.
+This, the court found, would be sufficient in differentiating the case from more benign incidents where a user accidentally stumbles upon a protected system.
+The court admitted that it could not comment on whether it would consider Craigslist's IP blocking to be effective, but considered the fact that 3Taps went out of its way to bypass it as enough evidence that 3Taps acted without authorization.[1]
+3Taps also said that this decision would be a judgment on Internet culture.
+It promoted the idea of publicly accessible websites as a great social benefit, which a decision for permission controls would harm.
+It claimed that the CFAA was meant to protect private information against malicious hackers, and that it was not meant to limit the social benefit created by public data.
+It also predicted that a broad interpretation of the CFAA would limit competition and harm innovation, ultimately harming the openness of the Internet.
+The court refused to make a judgement on these matters; it considered those matters to be better handled through legislation.
+The court likened its decision to allowing a store to open itself to the public but also to ban a disruptive person if it needed to.[1]
+
+Reactions[edit]
+The court, in many instances, pointed to Craigslist's cease-and-desist letter as evidence that 3Taps knew that its authorization had been revoked.
+Law professor Eric Goldman questioned this, stating that "[cease-and-desist letters] are wish lists by the senders. They describe what the sender wants to happen." As such they may easily overstate what a defendant must lawfully do. Goldman found it troubling that the court had treated the cease and desist letter as a legally-binding document that revoked 3Taps's authorization to access Craigslist.[11][12]
+Critics of the decision have called it anti-competitive.
+They claimed that this case sets a precedent that allows businesses to use the CFAA to keep public data away from competitors.
+Further, they highlighted that such a holding sets a precedent of marginalizing the public good for the prosperity of a single business.[11][13]
+The case has also brought criticism towards Craigslist for enforcing its exclusive copyright of user-generated content.
+The critics pointed out that the entire lawsuit depended on a short, one-week-long period where Cragslist's terms of use required that users assign Craigslist the exclusive copyright of any posted content.[12][14]
+While some users may be happy to have other companies use their classified ads, another reaction was that there may also be users who do not want it.
+Craigslist would be under similar criticism if it had allowed the sharing and violated these users' privacy expectations.[13]
+The Electronic Frontier Foundation was critical of the court's decision to uphold Craiglist's copyright claim in their temporary terms of service between July 26, 2012 and August 8, 2012.  Stating, "claiming an exclusive license to users' posts to the exclusion of everyone—including the original poster—threatens both innovation and users’ rights, and, even worse, sets terrible precedent."[15]
+
+References[edit]
+
+
+^ a b c d e f g Craigslist v. 3Taps (N.N. Cal. 16 August 2013).Text
+
+^ "3taps to pay Craigslist $1 million to end lengthy lawsuit, will shut down". Ars Technica. 29 June 2015.
+
+^ a b c d e Mirsky, Andrew. "Copyright of "Public Facts": Craigslist v. PadMapper". Digital Media Law Project. Retrieved 3 March 2014.
+
+^ a b DMLP Staff. "Craigslist v. 3taps". Digital Media Law Project. Retrieved 4 March 2014.
+
+^ Newmark, Craig. "Craig Newmark's answer to Why hasn't anyone built any products on top of Craigslist data?". Quora. Retrieved 4 March 2014.
+
+^ Bilton, Nick. "Disruptions: Innovations Snuffed Out by Craigslist". New York Times. Retrieved 19 March 2014.
+
+^ a b Opsahl, Kurt. "Good News: Craigslist drops exclusive license to your posts". Electronic Frontier Foundation. Retrieved 19 March 2014.
+
+^ Schultze, Steven. "I Join the EFF and Others in Calling for Craigslist to Drop CFAA Claims". Freedom to Tinker. Retrieved 19 March 2014.
+
+^ Electronic Frontier Foundation. "BRIEF OF AMICI CURIAE" (PDF). Electronic Frontier Foundation. Retrieved 19 March 2014.
+
+^ Lassen, Daniel E. "Re: DEMAND FOR IMMEDIATE CEASE AND DESIST OF CRAIGSLIST ABUSE" (PDF). Retrieved 4 March 2014.
+
+^ a b Goldman, Eric. "Craigslist Wins Routine But Troubling Online Trespass to Chattels Ruling in 3Taps Case (Catch-up Post)". Technology & Marketing Law Blog. Retrieved 4 March 2014.
+
+^ a b Goldman, Eric. "Craigslist's Anti-Consumer Lawsuit Threatens to Break Internet Law". Forbes. Retrieved 4 March 2014.
+
+^ a b Franzen, Carl. "Craigslist vs. 3taps: Who Owns Your Content?". Retrieved 22 December 2015.
+
+^ McCullagh, Declan. "Craigslist wins early legal victory against PadMapper, 3Taps". CNET. Retrieved 4 March 2014.
+
+^ Opsahl, Kurt. "Craigslist Owns What You Did Last Summer". Electronic Frontier Foundation. Retrieved 19 March 2014.
+
+
+External links[edit]
+Commentary from Nick Akerman, in January 2014 frames this and three related cases in a survey of litigation surrounding the CFAA.
+Craigslist v. 3Taps Inc., et al Full docket from the United States Courts Archive
+Text of Craiglist v. 3Taps is available from: [[1] Google Scholar]  Justia  Digital Media Law Project 
+
+
+

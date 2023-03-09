@@ -1,0 +1,132 @@
+Lawsuit brought by Facebook in the United States
+This article uses bare URLs, which are uninformative and vulnerable to link rot. Please consider converting them to full citations to ensure the article remains verifiable and maintains a consistent citation style. Several templates and tools are available to assist in formatting, such as Reflinks (documentation), reFill (documentation) and Citation bot (documentation). (August 2022) (Learn how and when to remove this template message)
+This article's lead section may not adequately summarize its contents. To comply with Wikipedia's lead section guidelines, please consider modifying the lead to provide an accessible overview of the article's key points in such a way that it can stand on its own as a concise version of the article. (October 2020)
+Facebook, Inc. v. Power Ventures, Inc.CourtUnited States District Court for the Northern District of CaliforniaDecidedMay 11, 2009Docket nos.5:08-cv-05780Citation(s)91 U.S.P.Q.2d 1430HoldingCase Pending; Defendant's Motion to Dismiss Denied; Defendant's Motion for a more definite statement Granted in Part, Denied in Part.Court membershipJudge(s) sittingJeremy D. FogelKeywordsCopyright, DMCA, Lanham Act, Trademark, Unfair Competition
+Facebook, Inc. v. Power Ventures, Inc. is a lawsuit brought by Facebook in the United States District Court for the Northern District of California alleging that Power Ventures Inc., a third-party platform, collected user information from Facebook and displayed it on their own website. Facebook claimed violations of the CAN-SPAM Act, the Computer Fraud and Abuse Act ("CFAA"), and the California Comprehensive Computer Data Access and Fraud Act.[1] According to Facebook, Power Ventures Inc. made copies of Facebook's website during the process of extracting user information. Facebook argued that this process causes both direct and indirect copyright infringement. In addition, Facebook alleged this process constitutes a violation of the Digital Millennium Copyright Act ("DMCA"). Finally, Facebook also asserted claims of both state and federal trademark infringement, as well as a claim under California's Unfair Competition Law ("UCL").
+
+
+Background[edit]
+Power Ventures previously operated the domain power.com and used it to create a website that enabled its users to aggregate data about themselves that is otherwise spread across various social networking sites and messaging services, including LinkedIn, Twitter, Myspace, and AOL or Yahoo instant messaging. This aggregation method is embodied in its motto: "all your friends in just one place".[2] Power Ventures wanted to provide a single site for its customers to see all of their friends, to view their status updates or profile pages, and to send messages to multiple friends on multiple sites.[3]
+The litigation focuses on Power Ventures alleged "scraping" of content for and from users on Facebook into Power Ventures interface. Facebook sued claiming violations of copyright, DMCA, CAN-SPAM, and CFAA.[4][5]
+Power Ventures and Facebook tried unsuccessfully to work out a deal that allowed Power Ventures to access Facebook's site, through Facebook Connect. In late December 2008, Power Ventures informed Facebook that it would continue to operate without using Facebook Connect. Power Ventures allegedly continued to "scrape" Facebook's website, despite technological security measures to block such access.[4]
+
+Opinion of the Court[edit]
+Facebook sued Power Ventures Inc. in the Northern District of California. The court's ruling addressed a motion to dismiss the copyright, DMCA, trademark, and UCL claims.
+
+Legal standard[edit]
+When a court considers a motion to dismiss, it must take the allegations in the Plaintiff's complaint as true and construe the Complaint in a manner that is favorable to the Plaintiff. Thus, for a motion to dismiss to succeed, the complaint must lack either a cognizable legal theory or sufficient facts to support the legal theory.[6]
+
+Copyright infringement[edit]
+To state a claim for copyright infringement, a plaintiff need only allege 
+
+Ownership of a valid copyright and
+Copying of original elements of the work.[4]
+The First Amended Complaint ("FAC") alleged that Power Ventures accessed Facebook's website and made unauthorized "cache" copies of it or created derivative works derived from the Facebook website. However, Power Ventures contended that Facebook's copyright allegations are deficient because it is unclear which portions of Facebook's website are alleged to have been copied. Facebook argued that it need not define the exact contours of the protected material because copyright claims do not require particularized allegations. Since Facebook owns the copyright to any page within its system (including the material located on those pages besides user content, such as graphics, video and sound files), Power Ventures only has to access and copy one page to commit copyright infringement.[4]
+Facebook conceded that it did not have any proprietary rights in its users' information. Power Ventures users, who own the rights to the information sought, have expressly given them permission to gather this information.[4][5]
+Judge Fogel's reasoned that MAI Systems Corp. v. Peak Computer, Inc. and Ticketmaster LLC v. RMG Techs. Inc. indicated that the scraping of a webpage inherently involves the copying of that webpage into a computer's memory in order to extract the underlying information contained therein. Even though this "copying" is ephemeral and momentary, that it is enough to constitute a "copy" under § 106 of the Copyright Act and therefore infringement.[7] Since Facebook's Terms of Service prohibit scraping (and thus, Facebook has not given any license to third parties or users to do so), the copying happens without permission.[5]
+
+MAI Systems Corp. v. Peak Computer, Inc.[edit]
+In the MAI case, the Court granted summary judgment in favor of MAI on its claims of copyright infringement and issued a permanent injunction against Peak. The alleged copyright violations included: 
+
+Peak's running of MAI software licensed to Peak customers;
+Peak's use of unlicensed software at its headquarters; and,
+Peak's loaning of MAI computers and software to its customers.[8]
+Ticketmaster LLC v. RMG Techs. Inc.[edit]
+In this particular case, the Court held that Ticketmaster LLC ("Ticketmaster") was likely to prevail on claims of direct and contributory copyright infringement as a result of defendant RMG Technologies Inc. ("RMG") distribution of a software application that permitted its clients to circumvent Ticketmaster.com's CAPTCHA access controls, and use Ticketmaster's copyrighted website in a manner that violated the site's Terms of Use. The Court held that RMG was likely to be found guilty of direct copyright infringement because when RMG viewed the site to create and test its product, it made unauthorized copies of Ticketmaster's site in its computer's RAM.[9]
+In the instant case, the Court followed Ticketmaster to determine that Power Ventures' 'scraping' made an actionable "cache" copy of a Facebook profile page each time it accessed a user's profile page.[4]
+
+Digital Millennium Copyright Act[edit]
+The elements necessary to state a claim under the DMCA are 
+
+Ownership of a valid copyright;
+Circumvention of a technological measure designed to protect the copyrighted material;
+Unauthorized access by third parties;
+Infringement because of the circumvention; and
+The circumvention was achieved through software that the defendant either
+Designed or produced primarily for circumvention;
+Made available despite only limited commercial significance other than circumvention; or
+Marketed for use in circumvention of the controlling technological measure.[4]
+Power Ventures argued that Facebook's DMCA claim was insufficient using the same arguments listed above.  They also argued that the unauthorized use requirement was not met because the users are controlling the access (via Power Ventures site) to their own content on the Facebook website. However, the Terms of Use negate this argument because users are barred from using automated programs to access the Facebook website. While users may have the copyright rights in their own content, Facebook placed conditions on that access. After Power Ventures informed Facebook that it intended to continue their service without using Facebook Connect, Facebook implemented specific technical measures to block Power Ventures' access. Power Ventures then attempted to circumvent those technological measures. As all of the elements of a DMCA claim had been correctly pleaded and supported in the FAC, the motion to dismiss the DMCA claim was denied.[4]
+
+Trademark infringement[edit]
+Federal[edit]
+The Lanham Act imposes liability upon any person who 
+
+Uses an infringing mark in interstate commerce,
+In connection with the sale or advertising of goods or services, and
+Such use is likely to cause confusion or mislead consumers.[4][10]
+Facebook stated that they were the registered owner of the FACEBOOK mark since 2004. Furthermore, they alleged that Power Ventures used the mark in connection with Power Ventures business. Facebook never authorized or consented to Power Ventures' use of the mark. Facebook also stated that Power Ventures' unauthorized use of the mark was likely to "confuse recipients and lead to the false impression that Facebook is affiliated with, endorses, or sponsors" Power Ventures. Power Ventures countered that Facebook was required to provide concise information in the Complaint with respect to the trademark infringement allegations, including information about each instance of such use. However, since particularized pleading is not required for trademark infringement claims, Facebook's allegations were sufficient to survive Power Ventures' motion to dismiss the trademark infringement claim.[4]
+
+State (California)[edit]
+To state a claim of trademark infringement under California common law, a plaintiff need only allege 
+
+Their prior use of the trademark and
+The likelihood of the infringing mark being confused with their mark.[4]
+For the same reasons listed above, the Court also denied Power Ventures' motion to dismiss the state trademark claim.
+
+Unfair Competition Law[edit]
+California's UCL jurisprudence had previously found Lanham Act claims to be substantially congruent to UCL claims.  However, it was unclear as to whether Facebook was relying on it trade dress claims or if it also intended to incorporate other portions of the FAC, such as those dealing with the CAN-SPAM and CFAA claims. In order to promote an efficient docket, the Court granted Power Ventures' motion for a more definite statement.[4]
+
+Ruling[edit]
+On February 18, 2011[11] the judge granted the parties' stipulation to dismiss Facebook's DMCA claim, copyright and trademark infringement claims, and claims for violations of California Business and Professions Code Section 17200. Only three claims remained for the final order - the violation of the CAN-SPAM Act, violation of the CFAA and California Penal Code.
+The district court then granted summary judgment to Facebook on all three of the remaining Facebook claims. The district court awarded statutory damages of $3,031,350, compensatory damages, and permanent injunctive relief, and it held that Vachani 1064 *1064 was personally liable for Power's actions.
+A magistrate judge ordered Power to pay $39,796.73 in costs and fees for a renewed Federal Civil Procedure Rule 30(b)(6) deposition. Power filed a motion for reconsideration, which the district court denied. Defendants timely appeal both the judgment and the discovery sanctions.
+
+Appeal[edit]
+Argued and Submitted December 9, 2015 San Francisco, California. 
+Filed July 12, 2016 and Amended December 9, 2016.
+The appeals court affirmed the district court's holding that Vachani was personally liable for Power's actions.[12]
+Vachani was the central figure in Power's promotional scheme. First, Vachani admitted that, during the promotion, he controlled and directed Power's actions. Second, Vachani admitted that the promotion was his idea. It is undisputed, therefore, that Vachani was the guiding spirit and central figure in Power's challenged actions. Accordingly, we affirm the district court's holding on Vachani's personal liability for Power's actions.
+
+Discovery Sanctions[edit]
+The court also affirmed discovery sanctions imposed against Power for non-compliance during a Rule 30(b)(6) deposition. Defendants failed to object to discovery sanctions in the district court. Failure to object forfeits Defendants' right to raise the issue on appeal.
+
+U.S. Supreme Court[edit]
+On April 24, 2017, Defendant Steven Vachani ("Vachani") filed a motion to stay all proceedings in the case pending resolution of his petition for certiorari in the United States Supreme Court. However, the Ninth Circuit has held that "once a federal circuit court issues a decision, the district courts within that circuit are bound to follow it and have no authority to await a ruling by the Supreme Court before applying the circuit court's decision as binding authority.[13]
+
+Final Ruling[edit]
+On  May 2, 2017, the United States District Court, N.D. California, San Jose Division issued its final judgement ruled that, having considered the briefing of the parties, the record in the case, and the relevant law, the Court found that Facebook was only entitled to the reduced sum of $79,640.50 in compensatory damages and a permanent injunction. The Court also ordered Defendants to pay the $39,796.73 discovery sanction.[14]
+
+References[edit]
+
+
+^ "California Penal Code § 502". Leginfo.ca.gov. Archived from the original on 2010-06-28. Retrieved 2012-07-07.
+
+^ "Power.com".
+
+^ Facebook v. Power Ventures: Facebook Terms of Use Against Scraping, LawUpdates.com (Jul. 20, 2009).
+
+^ a b c d e f g h i j k l Facebook, Inc. v. Power Ventures, Inc.,  No. 5:08-cv-05780, 38 (N.D. Cal. May 11, 2009).
+
+^ a b c Jason Schultz, Intermediate Copying to Extract Information Archived 2010-02-09 at the Wayback Machine, Cyberlaw Cases (Aug. 31, 2009).
+
+^ Fed. R. Civ. Pro. 12(b)(6).
+
+^ Aaron Perzanowski (2009-12-07). "Fixing RAM Copies". Northwestern University Law Review. SSRN 1441685. {{cite journal}}: Cite journal requires |journal= (help)
+
+^ MAI Systems Corp. v. Peak Computer, Inc., 991 F.2d 511 (9th Cir. 1993).
+
+^ Ticketmaster, LLC v. RMG Technologies, Inc., 507 F. Supp. 2d 1096 (C.D. Cal. 2007).
+
+^ 15 U.S.C. § 1114(1)(a)
+
+^ https://www.courtlistener.com/docket/4175967/97/facebook-inc-v-power-ventures-inc/[bare URL]
+
+^ https://scholar.google.com/scholar_case?case=15088098698953309455&q=Facebook,+Inc.+v.+Power+Ventures,+Inc&hl=en&as_sdt=2006&as_vis=1
+
+^ https://scholar.google.com/scholar_case?case=16410946649837001148&q=Facebook,+Inc.+v.+Power+Ventures,+Inc&hl=en&as_sdt=2006&as_vis=1
+
+^ https://scholar.google.com/scholar_case?case=1894409267538881517&q=Facebook,+Inc.+v.+Power+Ventures,+Inc&hl=en&as_sdt=2006&as_vis=1
+
+
+External links[edit]
+
+
+
+Wikisource has original text related to this article:
+Facebook, Inc. v. Power Ventures, Inc.
+
+Gary Pong (Eric Engle ed.), Facebook.com v. Power Ventures, Inc., Harv. J.L. & Tech. Dig., Oct. 24, 2009.
+
+
+
