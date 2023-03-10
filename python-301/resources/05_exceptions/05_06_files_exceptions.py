@@ -13,3 +13,37 @@
 #    should NEVER terminate with a Traceback.
 #     a) Which exception can you expect to encounter? Why?
 #     b) How do you catch it to avoid the program from terminating with a traceback?
+
+
+
+import pathlib
+
+path = pathlib.Path("/home/fmd/pyfmd/cnd-labs/python-301/resources/05_exceptions/books")
+
+
+try:
+    # reading war and peace text 
+
+    war_peace = ""
+    with open("resources/05_exceptions/books/war_and_peace.txt","r") as f:
+        lines = f.readlines()
+
+    with open("resources/05_exceptions/books/crime_and_punishment.txt","w") as f1:
+        f1.write(" ")
+
+
+    for filepath in path.iterdir():
+        with open(filepath,"r") as f2:
+            line = f2.readline(1)
+            print(line)
+    
+
+except FileNotFoundError:
+    print('The path to the file is yet to be established....keep calm')
+
+except IOError  as  e:
+    print(f"The following error occured: {e} ; keep calm")
+
+except Exception as ex:
+    print(f"Untraced error : {ex} ; keep calm")
+
