@@ -29,7 +29,7 @@ it's always ourselves we find in the sea"""
 
 
 # replace m with -
-x = poem.replace("m", "_")
+x = poem.replace(" ", "_")
 
 #display new poem
 print(x)

@@ -19,3 +19,6 @@ butter = s[57:63]
 floor = s[68:73]
 
 print(apple, egg, butter, floor)
+
+
+print(s[::-1])

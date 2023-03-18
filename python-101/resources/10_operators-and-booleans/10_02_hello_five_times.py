@@ -6,3 +6,9 @@
 
 
 print ("hello world " + "hello world " + "hello world " + "hello world " + "hello world" )
+
+
+
+for x in range(0,5):
+    word = "hello world"
+    print(word, end=" ")

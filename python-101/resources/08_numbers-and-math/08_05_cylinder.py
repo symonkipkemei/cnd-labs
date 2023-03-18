@@ -7,7 +7,7 @@ import math
 radius = 3.14
 heighht = 5
 
-area = 22/7 * (3.14 * 3.14)
+area = math.pi * (3.14 * 3.14)
 volume = area * 5
 print(f" area: {area}")
 print(f" volume: {volume}")

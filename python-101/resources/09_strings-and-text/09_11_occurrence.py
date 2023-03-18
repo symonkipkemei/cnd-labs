@@ -10,3 +10,5 @@ for index, x in enumerate(composer):
         pass
     
 
+index = composer.find("n")
+print(index)

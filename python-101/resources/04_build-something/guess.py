@@ -15,13 +15,25 @@ comp_num = int(random.randint(1,10))
 
 guess_num = None
 
-while guess_num != comp_num:
-    guess_num = int(input("Guess a number BETWEEN 1 and 10: "))
-    if guess_num == comp_num:
-        print("you got it correct!")
+while True:
+    try:
+        while guess_num != comp_num:
+            guess_num = int(input("Guess a number BETWEEN 1 and 10: "))
+            if guess_num == comp_num:
+                print("you got it correct!")
 
+            else:
+                print("you got it wrong, try again")
+
+    except ValueError:
+        print("Insert a number")
+    
     else:
-        print("you got it wrong, try again")
+        break
+
+
+
+
     
 
 

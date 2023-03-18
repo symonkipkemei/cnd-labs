@@ -12,9 +12,10 @@ num =9
 num = float(num)
 print(num)
 
-num =9.4
+num =9.6
 num = int(num)
 print(num)
+print(type(num))
 
 ans = 9.0/3
 print(ans)

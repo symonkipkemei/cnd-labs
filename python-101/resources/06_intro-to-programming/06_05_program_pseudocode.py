@@ -9,12 +9,11 @@
 
 
 
-# Automating texting my patner in whatsapp
+# Automating texting myself via email
 
+# create an array of motivational quotes to communicate every day (sstore in json)
 
-# create an array of sweet messages to communicate every day
-
-# communicate with whatsapp/twilio api
+# communicate with email
 
 # schedule the messages to text every morning.
 

@@ -16,3 +16,30 @@ print (longest_german_word,len(longest_german_word) )
 print(strong_password, len(strong_password))
 
 
+
+#use dictinoaries to determine which is the longest
+
+
+
+# store variables in a list
+
+longest_words = [longest_german_word,longest_hungarian_word,longest_finnish_word,strong_password]
+
+
+
+
+words_dict = {}
+#loop through the list
+
+
+
+for longest_word in longest_words:
+    total_no_characters = len(longest_word)
+    words_dict[longest_word] = total_no_characters
+
+
+# store the variables names and their length in a dictionary
+
+
+
+

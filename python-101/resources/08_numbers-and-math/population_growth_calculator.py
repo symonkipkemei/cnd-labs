@@ -25,3 +25,6 @@ persons_migrate_in_3_years = seconds_in_three_years/40
 population = (current_populations + persons_born_in_3_years) - (persons_died_in_3_years + persons_migrate_in_3_years)
 
 print("The total population is", population)
+
+
+#variables named correctly, good job.
