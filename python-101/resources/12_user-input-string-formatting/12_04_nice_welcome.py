@@ -7,6 +7,8 @@
 
 user_name = input("Insert your name: ")
 
+
+#version A
 if " " in user_name:
     first_name = ""
     for letter in user_name:
@@ -17,3 +19,11 @@ if " " in user_name:
     user_name = first_name
 
 print(f"Hello {user_name}!, Welcome to my script")
+
+
+#version B
+
+split_name =user_name.split(sep=" ")
+first_name = split_name[0]
+
+print(f"Hello {first_name}!, Welcome to my script")

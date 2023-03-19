@@ -6,10 +6,16 @@
 # Result: §ore python progra§§ing please
 
 
-message = input("write your message champ: ")
+message = str.lower(input("write your message champ: "))
 symbol = input("insert you symbol: ")
 
+first_letter = message[0]
 
+new_message = message.replace(first_letter,symbol)
+print(new_message)
+
+
+print("\nDifferent verison\n")
 # identify the first letter
 for letter in message:
     if letter == message[0]:

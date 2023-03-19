@@ -8,6 +8,8 @@
 #
 # Example Output:
 #     9, greetings
+
+
 string = []
 number_of_items = int(input("Insert Number of items: "))
 for x in range(0,number_of_items):
