@@ -7,3 +7,21 @@
 # ******************************
 # Hello
 # ******************************
+
+
+def decorator(func):
+    def wrapper_func(args):
+        output  = f"\n***************************** \n {args} \n*****************************"
+        return output
+        
+    return wrapper_func
+
+
+
+@decorator
+def message_body(text):
+    message = f"Welcome {text}"
+    return message
+
+
+print(message_body("Arch. Symon Kipkemei"))

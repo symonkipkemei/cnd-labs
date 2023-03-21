@@ -5,10 +5,16 @@
 
 string = "codingnomads"
 
-
+month = "december"
+#month = tuple(month)
+print(month)
 code = tuple(string)
 print(type(code))
 print(code)
 
 for x in code:
     print(x)
+
+
+for y in month:
+    print(y)

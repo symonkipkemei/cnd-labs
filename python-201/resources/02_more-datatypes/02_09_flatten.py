@@ -28,7 +28,7 @@ for item in starter_list:
 print(flatten_list)
 
 
-# list comprehension
+# list comprehension two levels deep
 flat_list = [ item for sublist in starter_list for item in sublist]
 print(flat_list)
 

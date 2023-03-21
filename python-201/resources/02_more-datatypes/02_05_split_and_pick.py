@@ -6,7 +6,7 @@
 
 user_string = input("Write a sentence of your choice: ")
 
-#split sentence into words
+#split sentence into words via spacing
 
 words =user_string.split(" ")
 
@@ -23,33 +23,19 @@ for word in words:
     for y in words:
         if word == y:
             count += 1
-            words_dict[word] = count
-        #if not repeated , assign value of 0 
-        else:
-            count += 0
-            words_dict[word] = count
+            
     #reset count for the next word
+    words_dict[word] = count
     count = 0
 
 
-#check which word has the highest value
-value_list = []
-for key, value in words_dict.items():
-    value_list.append(value)
+word_dict_sorted = {bundle[0]:bundle[1] for bundle in sorted(words_dict.items(),key= lambda v:v[1], reverse=True)}
+#sort the dictionary by value
 
+longest_word = next(iter(word_dict_sorted))
 
-# sort list
-value_list.sort(reverse=True)
-print(value_list)
-#highest value, first one in sorted list
-highest_value = value_list[0]
+print(f"common word: {longest_word}")
 
-
-# search word in dictionary based on value
-for key, value in words_dict.items():
-    if highest_value == value:
-        print(f"The common word is {key}")
-        break
 
         
 

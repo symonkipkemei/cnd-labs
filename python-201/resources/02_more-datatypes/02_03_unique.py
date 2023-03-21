@@ -6,7 +6,7 @@ list_ = [1, 2, 6, 55, 2, 'hi', 4, 6, 1, 13]
 
 # convert list to a set
 unique_list = set(list_)
-
+print(unique_list)
 
 # convert the set back to list via list compression
 

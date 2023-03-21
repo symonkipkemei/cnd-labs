@@ -15,3 +15,6 @@ print(f"{'Python:':>10} {placeholder3}",)  # platform.python_version()
 print(f"{'System:':>10} {placeholder4}",)  # platform.system()
 print(f"{'Release:':>10} {placeholder5}",)  # platform.release()
 print(f"{'System:':>10} {placeholder6}",)  # platform.processor()
+
+
+print(f"{'python:':>10} is a good boy")

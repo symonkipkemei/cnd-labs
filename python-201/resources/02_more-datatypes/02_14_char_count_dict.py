@@ -25,7 +25,7 @@ for letter in user_text:
             if key == letter:
                 value += 1
                 user_dict[key] = value
-                break
+               
                
     else:
         # add new letter to the dict

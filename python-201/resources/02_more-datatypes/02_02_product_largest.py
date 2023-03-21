@@ -5,13 +5,16 @@
 # Find the largest number in the randlist and print the result.
 # Calculate the product of all of the numbers in the randlist.
 
-from resources import randlist
+#from resources import randlist
 
-print(randlist)
+#print(randlist)
 
 
 #establish length of list
+#length = len(randlist)
+randlist = [1, 5, 6, 2]
 length = len(randlist)
+print(length)
 
 # pick one item
 for x in randlist:

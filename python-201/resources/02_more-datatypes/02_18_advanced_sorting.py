@@ -24,6 +24,6 @@ for item_key, item_value in input_dict.items():
     result_list.append(empty_tuple)
 
 
-sorted(result_list, key=lambda result:result[1] )
+new_list =sorted(result_list, key=lambda result:result[1] )
 
-print(result_list)
+print(new_list)

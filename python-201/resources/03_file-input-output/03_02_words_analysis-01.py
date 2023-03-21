@@ -15,7 +15,7 @@ store_dict = {}
 
 
 # loop through the word list, assign items to the dict
-with open("/home/fmd/cnd-labs/python-201/resources/03_file-input-output/words.txt", "r") as w:
+with open("python-201/resources/03_file-input-output/words.txt", "r") as w:
     reader_object = csv.reader(w)
     #convert the iterable to a 2d list
     word_2d_list = list(reader_object)

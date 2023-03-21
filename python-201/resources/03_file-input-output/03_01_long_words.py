@@ -3,7 +3,7 @@
 
 import csv
 #open up the file
-with open("resources/03_file-input-output/words.txt","r") as f:
+with open("python-201/resources/03_file-input-output/words.txt","r") as f:
     # write a reader object
     file_obj = csv.reader(f)
     list_obj = list(file_obj)
