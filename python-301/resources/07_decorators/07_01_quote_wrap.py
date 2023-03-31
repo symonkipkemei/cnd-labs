@@ -3,17 +3,15 @@
 # You can use it to create quotes from text output.
 
 
-def decorate_text(text:str):
-    def wrapper_func():
-        new_text = f"'{text}' " + "-kipkemei, symon"
+def close_names(func):
+    def wrapper(*args,**kwargs):
+        ans = func(*args,**kwargs)
+        return f'"{ans}"'
+    return wrapper
+    
 
-        print (new_text)
+@close_names
+def message(name):
+    return name
 
-        return new_text
-    return wrapper_func
-
-
-
-decorated_text = decorate_text("love is a mind game of hopless hearts")
-
-decorated_text()
+print(message("Love is a beautiful thing"))

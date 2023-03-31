@@ -10,8 +10,9 @@
 
 
 def decorator(func):
-    def wrapper_func(args):
-        output  = f"\n***************************** \n {args} \n*****************************"
+    def wrapper_func(*args,**kwargs):
+        item = func(*args,**kwargs)
+        output  = f"\n***************************** \n {item} \n*****************************"
         return output
         
     return wrapper_func

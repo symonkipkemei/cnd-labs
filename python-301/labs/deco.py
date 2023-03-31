@@ -1,3 +1,5 @@
+
+
 def lowecase(func):
     """A decorator that avoids digital screening
 

@@ -7,12 +7,12 @@
 
 
 #identify censor words
-
-censor_words = ["fuck","sex","shoot","pussy","motherfucker","fucking"]
+censor_words = ["fuck","sex","shoot","pussy","motherfucker","fucking","cunt"]
 
 def censor(func):
-    def wrapper_func(text):
-        words_in_text = text.split(" ")
+    def wrapper_func(*args, **kwargs):
+        words = func(*args,**kwargs)
+        words_in_text = words.split(" ")
         new_sentence = ""
 
         for word in words_in_text:
@@ -34,8 +34,9 @@ def censor(func):
 
 
 @censor
-def secret_message(text: str):
+def secret_message(text):
     return text
 
 print(secret_message("I fucking miss baby panda's pussy"))
+print(secret_message("I should taste her cunt next time we fuck"))
 
